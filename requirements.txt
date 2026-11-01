@@ -1,0 +1,27 @@
+# NIRF Interactive Dashboard (2017–2025)
+# Install with: python -m pip install -r requirements.txt
+
+# Data handling
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# Dashboard
+streamlit
+
+# Statistics and analytical methods
+scipy
+scikit-learn
+
+# Reading source files
+openpyxl
+pypdf
+pdfplumber
+
+# Notebook environment (useful for exploration in VS Code)
+jupyter
+ipykernel

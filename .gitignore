@@ -1,0 +1,15 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook backups
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Local configuration / Private API keys
+.env
+# Temporary files
+*.log
