@@ -25,3 +25,8 @@ pdfplumber
 # Notebook environment (useful for exploration in VS Code)
 jupyter
 ipykernel
+
+requests
+beautifulsoup4
+lxml
+geopandas
