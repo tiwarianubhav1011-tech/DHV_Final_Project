@@ -1,0 +1,925 @@
+Unified_ID,Name_Unified,City_Unified,State_Unified,Years,Raw_IDs,Raw_Names
+C-1-2811558558,SNR Sons College,Coimbatore,Tamil Nadu,2017,IR17-COLL-2-1-2811558558,SNR Sons College
+C-1-2812253596,Presidency College,Bengaluru,Karnataka,2017,IR17-COLL-2-1-2812253596,Presidency College
+C-1-2814445210,Bharti Vidyapeeth's Matoshri Bayabai Shripatrao Kadam Kanya Mahavidyalaya,Sangli,Maharashtra,2017,IR17-COLL-2-1-2814445210,Bharti Vidyapeeth's Matoshri Bayabai Shripatrao Kadam Kanya Mahavidyalaya
+C-10250,"Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy, BELA",Bela,Punjab,"2019,2020,2021,2022,2023,2024,2025",IR-P-C-10250,"Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College | Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of | Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy | Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy, BELA"
+C-10283,"Chandigarh College of Pharmacy, Landran",Landran,Punjab,"2021,2022,2023,2024,2025",IR-P-C-10283,"Chandigarh College of Pharmacy | Chandigarh College of Pharmacy, Landran"
+C-10342,Chandigarh Engineering College,Sahibzada Ajit Singh Nagar,Punjab,"2021,2022",IR-E-C-10342,Chandigarh Engineering College
+C-10398,I. S. F. College of Pharmacy,Moga,Punjab,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-10398 | IR-P-C-10398 | IR17-PHRM-1-17804,I. S. F. College of Pharmacy | I.S. F. College of Pharmacy
+C-11015,Walchand College of Engineering,Sangli,Maharashtra,"2019,2020,2021",IR-E-C-11015,Walchand College of Engineering
+C-11091,Bharati Vidyapeeth College of Pharmacy,Kolhapur,Maharashtra,"2017,2019,2020,2021,2022,2023,2024,2025",IR-P-C-11091 | IR17-PHRM-1-1-2809406046,"Bharati Vidyapeeth College of Pharmacy | Bharati Vidyapeeth College of Pharmacy, Kolhapur | Bharati Vidyapeeth's College of Pharmacy"
+C-11557,Kuriakose Gregorios College,Kottayam,Kerala,2018,IR-1-C-C-C-11557,Kuriakose Gregorios College
+C-11582,"St. Teresa's College, Ernakulam",Ernakulam,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-11582 | IR-C-C-11582 | IR17-COLL-2-18891,"St. Teresa's College | St. Teresa's College, Ernakulam"
+C-11615,Mar Thoma College,Tiruvalla,Kerala,"2019,2020,2021",IR-C-C-11615,Mar Thoma College | Marthoma College
+C-11616,"Bishop Kurialacherry College For Women, Amalagiri P.O Kottayam",Kottayam,Kerala,"2020,2021,2022",IR-C-C-11616,"Bishop Kurialacherry College For Women | Bishop Kurialacherry College For Women, Amalagiri P.O Kottayam"
+C-11660,St. Alberts College,Ernakulam,Kerala,2020,IR-C-C-11660,St. Alberts College
+C-11691,Rajagiri College of Social Sciences,Ernakulam,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-11691 | IR-C-C-11691 | IR17-COLL-2-18888,Rajagiri College of Social Sciences
+C-11697,"Maharaja's College, Ernakulam",Ernakulam,Kerala,"2021,2022,2023,2024,2025",IR-C-C-11697,"Maharaja's College | Maharaja's College, Ernakulam"
+C-11708,Sacred Heart College,Kochi,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-11708 | IR-C-C-11708 | IR17-COLL-2-22683,Sacred Heart College
+C-11733,Newman College,Idukki,Kerala,2019,IR-C-C-11733,Newman College
+C-11742,Union Christian College,Ernakulam,Kerala,"2022,2023,2025",IR-C-C-11742,Union Christian College
+C-11771,CMS College Kottayam,Kottayam,Kerala,"2021,2022,2023,2024,2025",IR-C-C-11771,CMS College Kottayam
+C-11815,Mar Athanasius College,Kothamangalam,Kerala,"2021,2022,2023,2024,2025",IR-C-C-11815,Mar Athanasius College
+C-11831,"St Berchmans College (Autonomous), Changanacherry, Kerala",Kottayam,Kerala,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-11831 | IR-C-C-11831,"S. B. College | S.B. College, Changanacherry | S.B. College, Changanassery | St Berchmans College (Autonomous), Changanacherry, Kerala | St. Berchmans College"
+C-11833,Marian College,Kuttikanam,Kerala,2018,IR-2-C-OC-C-11833,Marian College
+C-11881,St. Xavier's College,Kolkata,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-11881 | IR-C-C-11881 | IR17-COLL-2-20078,St. Xavier's College
+C-11926,Ramakrishna Mission Vidyamandira,Howrah,West Bengal,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-11926 | IR-C-C-11926,Ramakrishna Mission Vidyamandira
+C-11964,Scottish Church College,Kolkata,West Bengal,"2023,2024",IR-C-C-11964,Scottish Church College
+C-11971,Lady Brabourne College,KOLKATA,West Bengal,"2020,2025",IR-C-C-11971,Lady Brabourne College
+C-11986,Loreto College,Kolkata,West Bengal,"2017,2018,2019,2020",IR-1-C-C-C-11986 | IR-C-C-11986 | IR17-COLL-1-29161,Loreto College
+C-11991,Bethune College,Kolkata,West Bengal,"2019,2020,2021,2022,2023,2024",IR-C-C-11991,Bethune College
+C-1262,B.M.S. College of Engineering,Bengaluru,Karnataka,"2017,2018,2019,2020,2021,2022",IR-1-E-E-C-1262 | IR-E-C-1262 | IR17-ENGG-2-1-2812016223,B. M. S. College of Engineering | B.M.S. College of Engineering
+C-1269,R.V. College of Engineering,Bengaluru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024",IR-1-E-E-C-1269 | IR-E-C-1269 | IR17-ENGG-1-29885,R. V. College of Engineering | R.V. College of Engineering
+C-1291,Dr. Ambedkar Institute of Technology,Bengaluru,Karnataka,2019,IR-E-C-1291,Dr. Ambedkar Institute of Technology
+C-1297,Siddaganga Institute of Technology,Tumkur,Karnataka,"2017,2018,2019,2020,2021,2022,2024",IR-1-E-E-C-1297 | IR-E-C-1297 | IR17-ENGG-1-1-2812032529,Siddaganga Institute of Technology
+C-1331,M. S. Ramaiah Institute of Technology,Bengaluru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-C-1331 | IR-A-C-1331 | IR-E-C-1331 | IR17-ENGG-1-1-2811981253,M. S. Ramaiah Institute of Technology
+C-1336,BMS Institute of Technology & Management,Bengaluru,Karnataka,"2017,2019,2020,2021,2022",IR-E-C-1336 | IR17-ENGG-1-12784,BMS Institute of Technology & Management
+C-1345,"P E S College of Engineering, Mandya",Mandya,Karnataka,"2019,2020,2021,2022",IR-E-C-1345,"P E S College of Engineering | P E S College of Engineering, Mandya"
+C-1352,Nitte Meenakshi Institute of Technology,Bengaluru,Karnataka,"2018,2019,2020,2021,2022",IR-1-E-E-C-1352 | IR-E-C-1352,NITTE Meenakshi Institute of Technology | Nitte Meenakshi Institute of Technology
+C-1360,Basaveshwar Engineering College,Bagalkot,Karnataka,2019,IR-E-C-1360,Basaveshwar Engineering College
+C-1371,New Horizon College of Engineering,Bengaluru,Karnataka,"2018,2019,2020,2021,2022",IR-1-E-E-C-1371 | IR-E-C-1371,New Horizon College of Engineering
+C-13829,"Govt. Dental College, Mumbai",Mumbai,Maharashtra,"2023,2024,2025",IR-N-C-13829,"Govt. Dental College, Mumbai"
+C-13844,Armed Force Medical College,Pune,Maharashtra,2024,IR-D-C-13844,Armed Force Medical College
+C-13947,V.S.M. College,Ramachandrapuram,Andhra Pradesh,2017,IR17-COLL-2-13947,V.S.M. College
+C-1398,BNM Institute of Technology,Bengaluru,Karnataka,"2019,2020",IR-E-C-1398,BNM Institute of Technology
+C-1400,NMAM Institute of Technology,"Nitte, Udupi",Karnataka,"2019,2020,2021,2022",IR-E-C-1400,N M A M Institute of Technology | N. M. A. M. Institute of Technology | NMAM Institute of Technology
+C-14022,"MGM Dental College and Hospital, Navi Mumbai",Navi Mumbai,Maharashtra,2022,IR-N-C-14022,"MGM Dental College and Hospital, Navi Mumbai"
+C-14028,"MGVs Karmaveer Bhausaheb Hire Dental College, Nashik",Nashik,Maharashtra,"2021,2022",IR-N-C-14028,"MGV's Karmaveer Bhausaheb Hiray Dental College, Panchavati, Nashik | MGVs Karmaveer Bhausaheb Hire Dental College, Nashik"
+C-14033,"Govt. Dental College, Nagpur",Nagpur,Maharashtra,"2022,2023,2024,2025",IR-N-C-14033,"Govt. Dental College, Nagpur"
+C-1406,C M R Institute of Technology,Bengaluru,Karnataka,"2019,2021,2022",IR-E-C-1406,C M R Institute of Technology
+C-1412,JSS Science and Technology University,Mysuru,Karnataka,"2019,2020,2021,2022",IR-E-C-1412,JSS Science and Technology University | Sri Jayachamarajendra College of Engineering
+C-1413,Dayananda Sagar College of Engineering,Bengaluru,Karnataka,"2019,2020",IR-E-C-1413,Dayananda Sagar College of Engineering
+C-14209,Hindusthan College of Arts and Science,Coimbatore,Tamil Nadu,2017,IR17-COLL-2-14209,Hindusthan College of Arts and Science
+C-1438,The National Institute of Engineering,Mysuru,Karnataka,"2019,2020,2021",IR-E-C-1438,The National Institute of Engineering
+C-15615,S R M College of Arts and Science,Potheri,Tamil Nadu,2017,IR17-COLL-1-15615,S R M College of Arts and Science
+C-15929,Thanthai Hans Roever College,Perambalur,Tamil Nadu,2017,IR17-COLL-2-15929,Thanthai Hans Roever College
+C-16178,P. D. Patel Institute of Applied Sciences,Changa,Gujarat,"2018,2019,2020,2021",IR-1-C-C-C-16178 | IR-C-C-16178,P. D. Patel Institute of Applied Sciences
+C-16179,Ramanbhai Patel College of Pharmacy,Anand,Gujarat,"2024,2025",IR-P-C-16179,Ramanbhai Patel College of Pharmacy
+C-16424,Medical College,Kolkata,West Bengal,"2021,2022,2023,2024,2025",IR-D-C-16424,Medical College
+C-16428,Institute of Post Graduate Medical Education & Research,Kolkata,West Bengal,"2022,2023,2024,2025",IR-D-C-16428,Institute of Post Graduate Medical Education & Research | Institute of Post Graduate Medical Education and Research
+C-16436,Guru nanak Institute of Dental Sciences & Research,Kolkata,West Bengal,2022,IR-N-C-16436,Guru nanak Institute of Dental Sciences & Research
+C-16476,Sri Sai Ram Institute of Technology,Chennai,Tamil Nadu,"2019,2020",IR-E-C-16476,Sri Sai Ram Institute of Technology
+C-16490,Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College,Morai,Tamil Nadu,2019,IR-E-C-16490,Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College
+C-16504,Sri Venkateswara College of Engineering and Technology,Chittoor,Andhra Pradesh,"2019,2022",IR-E-C-16504,Sri Venkateswara College of Engineering and Technology
+C-16537,St. Josephs College of Engineering,Kancheepuram,Tamil Nadu,"2017,2019,2020,2021",IR-E-C-16537 | IR17-ENGG-2-12581,ST. Joseph's College of Engineering | St. Josephs College of Engineering
+C-16547,Sri Sairam Engineering College,Kancheepuram,Tamil Nadu,"2017,2019,2020,2021,2022",IR-E-C-16547 | IR17-ENGG-2-12411,Sri Sai Ram Engineering College | Sri Sairam Engineering College
+C-16560,Easwari Engineering College,Chennai,Tamil Nadu,"2019,2021,2022",IR-E-C-16560,Easwari Engineering College
+C-16572,Sri Venkateswara College of Engineering,Kancheepuram,Tamil Nadu,"2019,2020",IR-E-C-16572,Sri Venkateswara College of Engineering
+C-16576,Chennai Institute of Technology,Chennai,Tamil Nadu,2022,IR-E-C-16576,Chennai Institute of Technology
+C-16590,Saveetha Engineering College,Sriperumbudur,Tamil Nadu,"2017,2019",IR-E-C-16590 | IR17-ENGG-2-15188,Saveetha Engineering College
+C-16604,Sri Sivasubramaniya Nadar College of Engineering,Kalavakkam,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-C-16604 | IR-1-O-E-C-16604 | IR-E-C-16604 | IR-O-C-16604 | IR17-ENGG-1-1-2811256746 | IR17-I-1-1-2811256746,Sri Sivasubramaniya Nadar College of Engineering | Sri Sivasubrmaniya Nadar College of Engineering
+C-16614,R.M.K. Engineering College,Thiruvallur,Tamil Nadu,"2017,2019,2020,2021,2022",IR-E-C-16614 | IR17-ENGG-1-1-2811165868,R. M. K. Engineering College | R.M.K. Engineering College
+C-16626,Rajalakshmi Engineering College,Chennai,Tamil Nadu,"2019,2020,2021,2022,2023",IR-E-C-16626,Rajalakshmi Engineering College
+C-16897,St. Aloysius College,Mangaluru,Karnataka,"2017,2018,2021,2023,2024,2025",IR-1-C-C-C-16897 | IR-C-C-16897 | IR17-COLL-2-21092,St Aloysius College (Autonomous) | St. Aloysius College
+C-17029,JNAFAU School of Planning and Architecture,Hyderabad,Telangana,2018,IR-3-A-OEA-C-17029,JNAFAU School of Planning and Architecture
+C-17913,Gayatri Vidya Parishad College of Engineering,Visakhapatnam,Andhra Pradesh,"2019,2020",IR-E-C-17913,Gayatri Vidya Parishad College of Engineering
+C-17958,GMR Institute of Technology,Rajam,Andhra Pradesh,2022,IR-E-C-17958,GMR Institute of Technology
+C-17962,Shri Vishnu Engineering College for Women,Bhimavaram,Andhra Pradesh,2019,IR-E-C-17962,Shri Vishnu Engineering College for Women
+C-18010,Velagapudi Ramakrishna Siddhartha Engineering College,Vijayawada,Andhra Pradesh,"2019,2020,2021,2022",IR-E-C-18010,Velagapudi Ramakrishna Siddhartha Engineering College
+C-18154,University College of Engingeering,Kakinada,Andhra Pradesh,"2018,2019,2020,2021",IR-2-E-EP-C-18154 | IR-E-C-18154,University College of Engineering | University College of Engingeering
+C-18254,Yeshwantrao Chavan College of Engineering,Nagpur,Maharashtra,"2019,2020,2021,2022",IR-E-C-18254,Yeshwantrao Chavan College of Engineering
+C-18746,Muthayammal College of Arts & Science,Namakkal,Tamil Nadu,2017,IR17-COLL-1-18746,Muthayammal College of Arts & Science
+C-18817,"G. H. Raisoni College of Engineering, Nagpur",Nagpur,Maharashtra,"2017,2019,2020,2021,2022",IR-E-C-18817 | IR17-ENGG-2-12233,"G. H. Raisoni College of Engineering | G. H. Raisoni College of Engineering, NAGPUR | G. H. Raisoni College of Engineering, Nagpur"
+C-18873,Sri D. Manjunatheswara College,Dakshin Kannad,Karnataka,2017,IR17-COLL-2-18873,Sri D. Manjunatheswara College
+C-18886,Shri Ramdeobaba College of Engineering and Management,Nagpur,Maharashtra,"2017,2019,2020,2021,2022",IR-E-C-18886 | IR17-ENGG-2-24411,Shri Ramdeobaba College of Engineering and Management
+C-18887,Nirmala College,Ernakulam,Kerala,2017,IR17-COLL-2-18887,Nirmala College
+C-18900,Smt. Kishoritai Bhoyar College of Pharmacy,Nagpur,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-18900 | IR-P-C-18900 | IR17-PHRM-1-17848,Smt. Kishoritai Bhoyar College of Pharmacy
+C-18938,"Government Institute of Science, Nagpur",Nagpur,Maharashtra,"2021,2023,2024",IR-C-C-18938,"Government Institute of Science, Nagpur"
+C-18987,Vivekanand College,Kolhapur,Maharashtra,2017,IR17-COLL-2-18987,Vivekanand College
+C-19059,Raja Narendra Lal Khan Women's College - Autonomous,Midnapore,West Bengal,"2017,2022,2023",IR-C-C-19059 | IR17-COLL-2-18715,Raja Narendra Lal Khan Women's College - Autonomous | Raja Narendralal Khan Women's College
+C-19103,Midnapore College,Midnapore,West Bengal,"2022,2023,2024,2025",IR-C-C-19103,Midnapore College
+C-19146,Shri M.V. & Smt. N.V. Virani Science College,Rajkot,Gujarat,2017,IR17-COLL-1-19146,Shri M.V. & Smt. N.V. Virani Science College
+C-19204,Gayatri Vidya Parishad College for Degree and P.G Courses (Autonomous),Visakapatnam,Andhra Pradesh,2017,IR17-COLL-2-19204,Gayatri Vidya Parishad College for Degree and P.G Courses (Autonomous)
+C-19229,Degree College of Physical Education,Amravati,Maharashtra,2017,IR17-COLL-2-19229,Degree College of Physical Education
+C-19251,Jankidevi Bajaj College of Science,Wardha,Maharashtra,2017,IR17-COLL-1-19251,Jankidevi Bajaj College of Science
+C-19306,Symbiosis College of Arts and Commerce,Pune,Maharashtra,2017,IR17-COLL-2-19306,Symbiosis College of Arts and Commerce
+C-19319,K. S. Hegde Medical Academy,Mangaluru,Karnataka,"2020,2021",IR-D-C-19319,K. S. Hegde Medical Academy
+C-19320,A.B.Shetty Memorial Institute of Dental Sciences,Mangaluru,Karnataka,"2020,2021,2022,2023,2024,2025",IR-N-C-19320,A. B. S. M. Institute of Dental Sciences | A.B.Shetty Memorial Institute of Dental Sciences
+C-19322,N.G.S.M. Institute of Pharmaceutical Sciences,Mangaluru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-19322 | IR-P-C-19322 | IR17-PHRM-1-1-2811891107,N. G. S. M. Institute of Pharmaceutical Sciences | N.G.S.M. Institute of Pharmaceutical Sciences | N.G.S.M.Institute of Pharmaceutical Sciences | Nitte Gulabi Shetty Memorial Institute of Pharmaceutical Sciences
+C-19328,"Symbiosis Law School, Pune",Pune,Maharashtra,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-L-L-C-19328 | IR-L-C-19328,"Symbiosis Law School | Symbiosis Law School, Pune"
+C-19343,Symbiosis Institute of Business Management,Pune,Maharashtra,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-C-19343 | IR-M-C-19343,Symbiosis Institute of Business Management
+C-19380,Sri Ramakrishna College of Arts & Science for Women,Coimbatore,Tamil Nadu,2017,IR17-COLL-2-19380,Sri Ramakrishna College of Arts & Science for Women
+C-19386,A.V.C. College-District Quaide-E-Milleth,Quaide-E-Milleth,Tamil Nadu,2017,IR17-COLL-1-19386,A.V.C. College-District Quaide-E-Milleth
+C-19419,Gobi Arts and Science College-Karattatipalayam Post,Karattatipalayam Post,Tamil Nadu,2017,IR17-COLL-1-19419,Gobi Arts and Science College-Karattatipalayam Post
+C-19435,Meenakshi College for Women,Chennai,Tamil Nadu,2017,IR17-COLL-1-19435,Meenakshi College for Women
+C-19438,Srimathi D.N. Bhat Vaishnav College for Women,Kancheepuram,Tamil Nadu,2017,IR17-COLL-2-19438,Srimathi D.N. Bhat Vaishnav College for Women
+C-19444,MES Keveeyam College,Valanchary,Kerala,2017,IR17-COLL-2-19444,MES Keveeyam College
+C-19534,Goka Raju Ranga Raju Institute of Engineering & Technology,Hyderabad,Telangana,"2019,2020,2021,2022",IR-E-C-19534,Goka Raju Ranga Raju Institute of Engineering & Technology
+C-19551,J.B. College,Jorhat,Assam,2017,IR17-COLL-2-19551,J.B. College
+C-19569,Padmasri Dr. B.V. Raju Institute of Technology,Medak,Telangana,2019,IR-E-C-19569,Padmasri Dr. B.V. Raju Institute of Technology
+C-19582,Vidya Jyothi Institute of Technology,Hyderabad,Telangana,2022,IR-E-C-19582,Vidya Jyothi Institute of Technology
+C-19591,Sultan Ul Uloom College of Pharmacy,Hyderabad,Telangana,2019,IR-P-C-19591,Sultan Ul Uloom College of Pharmacy
+C-19607,CVR College of Engineering,Ibrahimpatan,Telangana,"2019,2020,2021,2022",IR-E-C-19607,CVR College Of Engineering | CVR College of Engineering
+C-19611,CMR College of Pharmacy,Rangareddy,Telangana,"2022,2023,2024",IR-P-C-19611,CMR College of Pharmacy
+C-19613,Vishnu Institute of Pharmaceutical Education and Research,Narsapur,Telangana,"2021,2022,2023,2024",IR-P-C-19613,Vishnu Institute of Pharmaceutical Education and Research
+C-19650,Vardhaman College of Engineering,Rangareddy,Telangana,"2019,2020,2021,2022",IR-E-C-19650,Vardhaman College of Engineering
+C-19667,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,Hyderabad,Telangana,"2019,2020,2021,2022",IR-E-C-19667,Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology
+C-19706,Institute of Aeronautical Engineering,Hyderabad,Telangana,"2019,2020,2021",IR-E-C-19706,Institute of Aeronautical Engineering
+C-19747,Anurag University,Hyderabad,Telangana,"2019,2020,2021,2022,2023,2024,2025",IR-E-C-19747 | IR-P-C-19747,Anurag Group of Institutions | Anurag University
+C-19754,SR University,Warangal,Telangana,"2020,2021,2022,2023,2024,2025",IR-E-C-19754,SR Engineering College | SR University
+C-19869,Govt. College,Anantapur,Andhra Pradesh,2017,IR17-COLL-2-19869,Govt. College
+C-19878,"Vitthalbhai Patel and Rajrathan, P.T. Patel Science College",Anand,Gujarat,2017,IR17-COLL-1-19878,"Vitthalbhai Patel and Rajrathan, P.T. Patel Science College"
+C-19882,Bahauddin Govt. Science College,Junagadh,Gujarat,2017,IR17-COLL-1-19882,Bahauddin Govt. Science College
+C-19929,Mannam Memroial N.S.S. College,Kollam,Kerala,2017,IR17-COLL-2-19929,Mannam Memroial N.S.S. College
+C-20029,Sri Guru Nanak Dev Khalsa College,New Delhi,Delhi,2017,IR17-COLL-1-20029,Sri Guru Nanak Dev Khalsa College
+C-20049,J.G. College of Commerce,"Hubli, Dist. Dharwad",Karnataka,2017,IR17-COLL-1-20049,J.G. College of Commerce
+C-20095,P.C. Jabin Science College,Dharwad,Karnataka,2017,IR17-COLL-1-20095,P.C. Jabin Science College
+C-20105,Holy Cross College,Kanyakumari,Tamil Nadu,2017,IR17-COLL-2-20105,Holy Cross College
+C-20151,K.B.N. College,Krishna,Andhra Pradesh,2017,IR17-COLL-1-20151,K.B.N. College
+C-20162,S.D.M.S.M. Kalasala,Krishna,Andhra Pradesh,2017,IR17-COLL-2-20162,S.D.M.S.M. Kalasala
+C-20199,Mercy College,Palakkad,Kerala,2017,IR17-COLL-2-20199,Mercy College
+C-20653,Kristu Jayanti College,Bengaluru,Karnataka,"2024,2025",IR-C-C-20653,Kristu Jayanti College
+C-20729,"M S Ramaiah College of Arts, Science, and Commerce",Bengaluru,Karnataka,"2021,2022,2024,2025",IR-C-C-20729,"M S Ramaiah College of Arts, Science, and Commerce"
+C-20830,St. Joseph's College of Commerce,Bengaluru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-20830 | IR-C-C-20830 | IR17-COLL-1-20019,St. Joseph's College of Commerce
+C-20872,St. Josephs Arts & Science College,Bengaluru,Karnataka,2018,IR-1-C-C-C-20872,St. Josephs Arts & Science College
+C-21121,"St. Josephs College for Women, (Autonomous)",Visakhapatnam,Andhra Pradesh,2017,IR17-COLL-1-21121,"St. Josephs College for Women, (Autonomous)"
+C-21963,Little Flower College,Trichur,Kerala,2017,IR17-COLL-1-21963,Little Flower College
+C-21977,St. Mary's College,Trichur,Kerala,2017,IR17-COLL-2-21977,St. Mary's College
+C-22215,Army Institute of Law,Mohali,Punjab,"2021,2022,2023,2024,2025",IR-L-C-22215,"Army Institute of Law | Army Institute of Law, Mohali | Army Institute of Law, Sector-68"
+C-22461,Lady Hardinge Medical College,New Delhi,Delhi,"2021,2022,2023,2024,2025",IR-D-C-22461,Lady Hardinge Medical College
+C-22462,Atma Ram Sanatan Dharm College,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-22462 | IR-C-C-22462 | IR17-COLL-2-21799,Atma Ram Sanatan Dharm College | Atma Ram Sanatan Dharma College
+C-22466,Lakshmi Bai College,Delhi,Delhi,2018,IR-1-C-C-C-22466,Lakshmi Bai College
+C-22467,PGDAV College,New Delhi,Delhi,2025,IR-C-C-22467,PGDAV College
+C-22470,St. Stephens's College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-22470 | IR-C-C-22470,St. Stephen's College | St. Stephens's College
+C-23907,Dr. B. R. Ambedkar College of Law,Visakhapatnam,Andhra Pradesh,"2018,2019,2024,2025",IR-1-L-L-C-23907 | IR-L-C-23907,Dr. B. R. Ambedkar College of Law
+C-24004,AU College of Engineering (A),Visakhapatnam,Andhra Pradesh,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-C-24004 | IR-A-C-24004 | IR-E-C-24004,AU College of Engineering | AU College of Engineering (A) | College of Engineering (A) | College of Engineering Visakhapatnam | College of Engineering(A)
+C-24007,Shri Vishnu College of Pharmacy,Bhimavaram,Andhra Pradesh,"2022,2023,2024",IR-P-C-24007,Shri Vishnu College of Pharmacy
+C-241,B. K. Modi Goverment Pharmacy College,Rajkot,Gujarat,2019,IR-P-C-241,B. K. Modi Goverment Pharmacy College
+C-24163,Sagi Ramakrishnam Raju Engineering College,Bhimavaram,Andhra Pradesh,"2017,2018,2019",IR-2-E-OE-C-24163 | IR-E-C-24163 | IR17-ENGG-2-1-2813435762,Sagi Ramakrishnam Raju Engineering College
+C-24502,KLE College of Pharmacy,Bengaluru,Karnataka,2022,IR-P-C-24502,KLE College of Pharmacy
+C-24503,Jawaharlal Nehru Medical College,Belagavi,Karnataka,"2018,2021,2025",IR-1-D-D-C-24503 | IR-D-C-24503,Jawaharlal Nehru Medical College
+C-24504,KLE Vishwanath Katti Institute of Dental Sciences,Belagavi,Karnataka,"2020,2021,2023,2024,2025",IR-N-C-24504,KLE Vishwanath Katti Institute of Dental Sciences
+C-24505,"KLE College of Pharmacy, Belgaum",Belagavi,Karnataka,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-24505 | IR-P-C-24505,"KLE College of Pharmacy | KLE College of Pharmacy, Belgaum"
+C-24617,Nanded Education Society's Science College,Nanded,Maharashtra,2017,IR17-COLL-1-24617,Nanded Education Society's Science College
+C-24847,Nirmala College for Women,Coimbatore,Tamil Nadu,2017,IR17-COLL-2-24847,Nirmala College for Women
+C-25376,Andhra Loyola College,Vijayawada,Andhra Pradesh,"2017,2018,2019,2020,2021,2022",IR-1-C-C-C-25376 | IR-C-C-25376 | IR17-COLL-2-16853,Andhra Loyola College
+C-25622,Chaitanya Bharathi Institute of Technology,Hyderabad,Telangana,"2017,2019,2020,2021,2022",IR-E-C-25622 | IR17-ENGG-2-10487,Chaitanya Bharathi Institute of Technology
+C-25990,St. Francis College for Women,Hyderabad,Telangana,"2019,2020,2021,2023",IR-C-C-25990,St. Francis College for Women
+C-26127,Gokaraju Rangaraju College of Pharmacy,Hyderabad,Telangana,2022,IR-P-C-26127,Gokaraju Rangaraju College of Pharmacy
+C-26162,Vasavi College of Engineering,Hyderabad,Telangana,"2019,2020",IR-E-C-26162,Vasavi College of Engineering
+C-26356,Silver Jubilee Degree College,Kurnool,Andhra Pradesh,"2018,2019",IR-1-C-C-C-26356 | IR-C-C-26356,Silver Jubilee Degree College
+C-26783,PSNA College of Engineering and Technology,Dindigul,Tamil Nadu,"2017,2019",IR-E-C-26783 | IR17-ENGG-1-1-2811457679,"PSNA College of Engineering and Technology | PSNA College of Engineering and Technology, Dindigul"
+C-26794,Thiagarajar College of Engineering,Madurai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2024,2025",IR-3-E-OEA-C-26794 | IR-3-O-OEA-C-26794 | IR-A-C-26794 | IR-E-C-26794 | IR17-ENGG-2-1-2811366803,Thiagarajar College of Engineering
+C-26904,Sri Venkateswara College of Pharmacy,Chittoor,Andhra Pradesh,"2019,2020,2021,2022,2023,2024,2025",IR-P-C-26904,Sri Venkateshwara College of Pharmacy | Sri Venkateswara College of Pharmacy
+C-26905,G.Pulla Reddy Engineering College,Kurnool,Andhra Pradesh,"2019,2020",IR-E-C-26905,G. Pulla Reddy Engineering College | G.Pulla Reddy Engineering College
+C-26907,Raghavendra Institute of Pharmaceuatical Education & Research,Anantapuramu,Andhra Pradesh,"2018,2019,2020,2021,2022,2023",IR-1-P-P-C-26907 | IR-P-C-26907,Raghavendra Institute of Pharmaceuatical Education & Research
+C-26928,JNTUA College of Engineering,Anantapur,Andhra Pradesh,"2019,2020",IR-E-C-26928,JNTUA College of Engineering
+C-26929,Sree Vidyanikethan Engineering College,Tirupati,Andhra Pradesh,"2019,2020,2022",IR-E-C-26929,Sree Vidyanikethan Engineering College
+C-27058,Mepco Schlenk Engineering College,Sivakasi,Tamil Nadu,"2017,2019,2020,2021,2022",IR-E-C-27058 | IR17-ENGG-2-1-2811134396,Mepco Schlenk Engineering College
+C-27089,National Engineering College,Kovilpatti,Tamil Nadu,"2019,2020,2021,2022",IR-E-C-27089,National Engineering College
+C-27400,Kakatiya Institute of Technology & Science,Warangal,Telangana,"2019,2021",IR-E-C-27400,Kakatiya Institute of Technology & Science
+C-27608,Lady Irwin College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-27608 | IR-C-C-27608,Lady Irwin College
+C-27616,University College of Engineering,Hyderabad,Telangana,"2017,2018,2019,2020,2021,2022",IR-1-E-E-C-27616 | IR-E-C-27616 | IR17-ENGG-1-1-2814018067,University College of Engineering
+C-27982,K.S. Rangaswamy College of Arts and Science,Tiruchengode,Tamil Nadu,2017,IR17-COLL-1-27982,K.S. Rangaswamy College of Arts and Science
+C-28507,Maulana Azad Institute of Dental Sciences,Delhi,Delhi,"2020,2021,2022,2023,2024,2025",IR-N-C-28507,Maulana Azad Institute of Dental Sciences
+C-28526,"Alagappa Government Arts College, Karaikudi",Karaikudi,Tamil Nadu,"2019,2020,2021,2022,2023,2024,2025",IR-C-C-28526,"Alagappa Government Arts College | Alagappa Government Arts College, Karaikudi"
+C-28550,I.T.S. Dental College Hospital & Research Center,Greater Noida,Uttar Pradesh,2021,IR-N-C-28550,I.T.S. Dental College Hospital & Research Center
+C-29150,Christian Dental College,Ludhiana,Punjab,"2020,2021,2023,2024,2025",IR-N-C-29150,Christian Dental College
+C-29209,"Christian Medical College, Brown Road, Ludhiana",Ludhiana,Punjab,"2019,2020,2022,2023,2024,2025",IR-D-C-29209,"Christian Medical College | Christian Medical College, Brown Road, Ludhiana | Christian Medical College, Ludhiana"
+C-29255,Dayanand Medical College,Ludhiana,Punjab,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-C-29255 | IR-D-C-29255,Dayanand Medical College
+C-29281,Mehr Chand Mahajan D.A.V. College for Women,"Sector-36, Chandigarh",Chandigarh,2017,IR17-COLL-2-29281,Mehr Chand Mahajan D.A.V. College for Women
+C-29284,Govt Home Science College,Chandigarh,Chandigarh,"2019,2020,2021,2022,2023,2024,2025",IR-C-C-29284,"Government Home Science College | Government Home Science College,Sector-10 | Govt Home Science College | Govt Home Science College, Sector-10 | Govt Home Science College,Sector-10"
+C-29312,Govt. Post-Graduate College for Girls,Chandigarh,Chandigarh,"2017,2018",IR-1-C-C-C-29312 | IR17-COLL-2-1-11028,Govt. Post-Graduate College for Girls | Post Graduate Government College for Girls
+C-29341,"Chandigarh College of Architecture, Sector-12",Chandigarh,Chandigarh,"2023,2024",IR-A-C-29341,"Chandigarh College of Architecture Sector-12 | Chandigarh College of Architecture, Sector-12"
+C-29442,Govt. Medical College & Hospital,Chandigarh,Chandigarh,"2020,2021,2022,2023,2024,2025",IR-D-C-29442,Government Medical College & Hospital | Govt. Medical College & Hospital
+C-29454,I.C.College of Home Science,Hisar,Haryana,"2020,2021,2022,2023",IR-C-C-29454,I. C. College of Home Science | I.C.College of Home Science | IC College of Home Science
+C-29701,"Govt. Dental College, Indore",Indore,Madhya Pradesh,"2020,2021,2022,2023",IR-N-C-29701,"Government Dental College | Govt. Dental College, Indore"
+C-29947,Assumption College,Kottayam,Kerala,2017,IR17-COLL-1-29947,Assumption College
+C-30045,"C.V. Raman Global University, Odisha",Bhubaneswar,Odisha,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-C-30045 | IR-E-C-30045 | IR17-ENGG-1-26228,"C. V. Raman College of Engineering | C.V. Raman College of Engineering | C.V. Raman Global University | C.V. Raman Global University, Odisha"
+C-30153,"Silicon Institute of Technology (SIT), Bhubaneswar",Bhubaneswar,Odisha,"2020,2021,2022",IR-E-C-30153,"Silicon Institute of Technology (SIT), Bhubaneswar"
+C-30222,AU College of Science and Technology,Visakhapatnam,Andhra Pradesh,2017,IR17-COLL-1-30222,AU College of Science and Technology
+C-30226,AU College of Arts and Commerce,Visakhapatnam,Andhra Pradesh,2017,IR17-COLL-2-30226,AU College of Arts and Commerce
+C-30258,Dr.V.S.Krishna Govt. Degree College,Visakhapatnam,Andhra Pradesh,2017,IR17-COLL-2-30258,Dr.V.S.Krishna Govt. Degree College
+C-30551,"Government College of Arts, Science and Commerce Quepem",Quepem,Goa,2017,IR17-COLL-1-30551,"Government College of Arts, Science and Commerce Quepem"
+C-30570,"Vishnu Dental College, Bheemavaram",Bhimavaram,Andhra Pradesh,"2022,2023",IR-N-C-30570,"Vishnu Dental College, Bheemavaram"
+C-30588,Osmania Medical College,Hyderabad,Telangana,"2024,2025",IR-D-C-30588,Osmania Medical College
+C-30622,Shri Shankarlal Sundarbai Shasun Jain College for Women,Chennai,Tamil Nadu,2017,IR17-COLL-2-30622,Shri Shankarlal Sundarbai Shasun Jain College for Women
+C-30643,Sai College of Computer Education,Osmanabad,Maharashtra,2017,IR17-COLL-2-30643,Sai College of Computer Education
+C-30698,Narayana Medical College,Sri Potti Sriramulu Nellore,Andhra Pradesh,2021,IR-D-C-30698,Narayana Medical College
+C-30707,K.S.R. College of Arts and Science for Women,Namakkal,Tamil Nadu,2017,IR17-COLL-1-30707,K.S.R. College of Arts and Science for Women
+C-30756,Postgraduate Institute of Dental Sciences,Rohtak,Haryana,"2020,2021,2022,2023,2024,2025",IR-N-C-30756,Postgraduate Institute of Dental Sciences
+C-30767,Pandit Bhagwat Dayal Sharma University of Health Sciences,Rohtak,Haryana,"2023,2024",IR-D-C-30767,"Pandit Bhagwat Dayal Sharma University of Health Sciences | Pt. B.D.Sharma, PGIMS"
+C-30768,"College of Pharmacy, Pandit Bhagwat Dayal Sharma University of Health Sciences",Rohtak,Haryana,"2018,2022,2023,2024",IR-1-P-P-C-30768 | IR-P-C-30768,"College of Pharmacy, Pandit Bhagwat Dayal Sharma University of Health Sciences | College of Pharmacy, Pt. B. D. Sharma, PGIMS"
+C-30858,Goa College of Pharmacy,Panaji,Goa,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-30858 | IR-P-C-30858 | IR17-PHRM-1-1-2809439609,Goa College of Pharmacy
+C-32855,Jagan Institute of Management Studies,Delhi,Delhi,"2019,2020,2021,2022,2023,2025",IR-M-C-32855,Jagan Institute of Management Studies
+C-32873,Lal Bahadur Shastri Institute of Management,Delhi,Delhi,"2018,2019",IR-2-M-OM-C-32873 | IR-M-C-32873,Lal Bahadur Shastri Institute of Management
+C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital,New Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-C-32922 | IR-D-C-32922,Vardhman Mahavir Medical College & Safdarjung Hospital
+C-33525,Thakur College of Engineering & Technology,Mumbai,Maharashtra,2019,IR-E-C-33525,Thakur College of Engineering & Technology
+C-33553,Vivekanand Education Society's College of Pharmacy,Mumbai,Maharashtra,"2019,2020",IR-P-C-33553,Vivekanand Education Society's College of Pharmacy
+C-33555,St. Xavier's College,Mumbai,Maharashtra,"2017,2018,2019,2020,2022,2024,2025",IR-2-C-OC-C-33555 | IR-C-C-33555 | IR17-COLL-2-2587381,St. Xavier's College
+C-33584,K. J. Somaiya College of Engineering,Mumbai,Maharashtra,"2019,2020,2021",IR-E-C-33584,K. J. Somaiya College of Engineering
+C-33635,Principal K.M. Kundnani College of Pharmacy,Mumbai,Maharashtra,"2017,2018,2019,2020,2022,2023,2024",IR-1-P-P-C-33635 | IR-P-C-33635 | IR17-PHRM-1-17747,Prin.K.M.Kundnani College of Pharmacy | Principal K.M. Kundanani College of Pharmacy | Principal K.M. Kundnani College of Pharmacy
+C-33641,"Veermata Jijabai Technological Institute (VJTI, Mumbai)",Mumbai,Maharashtra,"2018,2019,2020,2021,2022",IR-1-E-E-C-33641 | IR-E-C-33641,"Veermata Jijabai Technological Institute | Veermata Jijabai Technological Institute (VJTI, Mumbai) | Veermata Jijabai Technological Institute, (VJTI, Mumbai)"
+C-33688,College of Social Work Nirmala Niketan,Mumbai,Maharashtra,"2020,2021,2022,2023",IR-C-C-33688,College of Social Work | College of Social Work Nirmala Niketan | College of Social Work Nirmala Niketan 38 New Marine Lines Mumbai - 400 020
+C-33773,Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology,Mumbai,Maharashtra,"2019,2020,2021,2022",IR-E-C-33773,Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology
+C-33777,Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering,Mumbai Suburban,Maharashtra,"2019,2022",IR-E-C-33777,Shri Vile Parle Kelavani Mandal's Dwarkadas J. Sanghvi College of Engineering
+C-33814,Bharati Vidyapeeth's College of Pharmacy,Navi Mumbai,Maharashtra,"2018,2019,2020,2021",IR-1-P-P-C-33814 | IR-P-C-33814,Bharati Vidyapeeth's College of Pharmacy
+C-33873,Bombay College of Pharmacy,Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024",IR-1-P-P-C-33873 | IR-P-C-33873 | IR17-PHRM-1-1-2809301801,Bombay College of Pharmacy
+C-33877,SVKM's Dr. Bhanuben Nanavati College of Pharmacy,Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-33877 | IR-P-C-33877 | IR17-PHRM-1-17092,SVKM'S Dr. Bhanuben Nanavati College of Pharmacy | SVKM's Dr. Bhanuben Nanavati College of Pharmacy
+C-34112,Sardar Patel College of Engineering,Mumbai,Maharashtra,2019,IR-E-C-34112,Sardar Patel College of Engineering
+C-34129,Principal L N Welingkar Institute of Management Development and Research,Mumbai,Maharashtra,"2020,2021,2022,2023",IR-M-C-34129,Principal L N Welingkar Institute of Management Development and Research
+C-34167,Ramrao Adik Institute of Technology,Navi Mumbai,Maharashtra,"2019,2020",IR-E-C-34167,Ramrao Adik Institute of Technology
+C-34531,Y. B. Chavan College of Pharmacy,Aurangabad,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-34531 | IR-P-C-34531 | IR17-PHRM-1-17689,Y. B. Chavan College of Pharmacy
+C-35006,JSS College of Pharmacy,Ooty,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-35006 | IR-P-C-35006 | IR17-PHRM-1-17497,JSS College of Pharmacy
+C-35007,JSS College of Pharmacy,Mysuru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-35007 | IR-P-C-35007 | IR17-PHRM-1-17445,JSS College of Pharmacy
+C-35008,JSS Dental College and Hospital,Mysuru,Karnataka,"2020,2021,2022,2023,2024,2025",IR-N-C-35008,JSS Dental College and Hospital
+C-35009,"JSS Medical College, Mysore",Mysuru,Karnataka,"2019,2020,2021,2022,2023,2024,2025",IR-D-C-35009,"JSS Medical College | JSS Medical College, Mysore"
+C-35416,Rajiv Gandhi Institute of Information Technology and Biotechnology,Pune,Maharashtra,"2017,2018,2019",IR-1-C-C-C-35416 | IR-C-C-35416 | IR17-COLL-1-21126,Rajiv Gandhi Institute of Information Technology and Biotechnology | Rajiv Gandhi Institute of Information Technology and Biotechnology (RGIITBT)
+C-35417,Bharati Vidyapeeth Deemed University College of Engineering,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022",IR-1-E-E-C-41309 | IR-E-C-35417 | IR-E-C-41309 | IR17-ENGG-2-10518,Bharati Vidyapeeth Deemed University College of Engineering
+C-35422,"Bharati Vidyapeeth (Deemed to be University) Dental College and Hospital, Pune",Pune,Maharashtra,"2023,2024",IR-N-C-35422,"Bharati Vidyapeeth (Deemed to be University) Dental College and Hospital | Bharati Vidyapeeth (Deemed to be University) Dental College and Hospital, Pune"
+C-35429,Institute of Management and Entrepreneurship Development,Pune,Maharashtra,"2018,2019",IR-1-M-M-C-35429 | IR-M-C-35429,Institute of Management and Entrepreneurship Development
+C-35430,"Poona College of Pharmacy, Pune",Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-35430 | IR-P-C-35430 | IR17-PHRM-1-1-2816342749,"Poona College of Pharmacy | Poona College of Pharmacy, Erandwane, Pune | Poona College of Pharmacy, Pune"
+C-35787,"Holy Cross College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-35787 | IR-C-C-35787 | IR17-COLL-1-25232,"Holy Cross College | Holy Cross College, Tiruchirappalli"
+C-35825,Bishop Heber College,Tiruchirappalli,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-35825 | IR-C-C-35825 | IR17-COLL-1-19387,Bishop Heber College
+C-35832,"Jamal Mohamed College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-35832 | IR-C-C-35832,"Jamal Mohamed College | Jamal Mohamed College, Tiruchirappalli"
+C-35846,"Rajah Serfoji Government College, Thanjavur - 613 005.",Thanjavur,Tamil Nadu,2025,IR-C-C-35846,"Rajah Serfoji Government College, Thanjavur - 613 005."
+C-35848,Government Arts College,Kumbakonam,Tamil Nadu,"2024,2025",IR-C-C-35848,Government Arts College
+C-35860,"St. Joseph's College, Tiruchirappalli",Tiruchirappalli,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-35860 | IR-C-C-35860,"St. Joseph's College | St. Joseph's College, Tiruchirappalli"
+C-35868,Dhanalakshmi Srinivasan College of Arts & Science for Women,Perambalur,Tamil Nadu,"2023,2024,2025",IR-C-C-35868,Dhanalakshmi Srinivasan College of Arts & Science for Women | Dhanalakshmi Srinivasan College of Arts and Science for Women
+C-35878,National College,Tiruchirappalli,Tamil Nadu,"2017,2018,2023,2024",IR-1-C-C-C-35878 | IR-C-C-35878 | IR17-COLL-2-19433,National College
+C-36022,Lakshmi Narain College of Technology,Bhopal,Madhya Pradesh,2021,IR-E-C-36022,Lakshmi Narain College of Technology
+C-36143,Shri G. S. Institute of Technology & Science,Indore,Madhya Pradesh,2021,IR-E-C-36143,Shri G. S. Institute of Technology & Science
+C-36411,Sacred Heart College (Autonomous),Tirupattur,Tamil Nadu,"2017,2022,2023,2024,2025",IR-C-C-36411 | IR17-COLL-2-15860,Sacred Heart College (Autonomous)
+C-36425,Muthurangam Govt. Arts College,Vellore,Tamil Nadu,2019,IR-C-C-36425,Muthurangam Govt. Arts College
+C-36487,V. V. Vanniaperumal College for Women,Virudhnagar,Tamil Nadu,"2017,2018",IR-1-C-C-C-36487 | IR17-COLL-1-67207,V. V. Vanniaperumal College for Women | V.V. Vanniaperumal College for Women
+C-36502,Virudhunagar Hindu Nadars Senthikumara Nadar College,Virudhunagar,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024",IR-1-C-C-C-36502 | IR-C-C-36502 | IR17-COLL-2-67573,Virudhunagar Hindu Nadars Senthikumara Nadar College | Virudhunagar Hindu Nadars' Senthikumara Nadar College
+C-36513,Thiagarajar College,Madurai,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-36513 | IR-C-C-36513,Thiagarajar College
+C-36529,Fatima College,Madurai,Tamil Nadu,"2017,2018,2019,2020,2025",IR-1-C-C-C-36529 | IR-C-C-36529 | IR17-COLL-1-15202,Fatima College | Fatima College (Autonomous)
+C-36547,The American College,Madurai,Tamil Nadu,"2018,2023,2024,2025",IR-1-C-C-C-36547 | IR-C-C-36547,The American College
+C-36557,Thiagarajar School of Management,Madurai,Tamil Nadu,"2022,2023,2024,2025",IR-M-C-36557,Thiagarajar School of Management
+C-36575,Sri Meenakshi Government College for Women,Madurai,Tamil Nadu,"2018,2019",IR-1-C-C-C-36575 | IR-C-C-36575,Sri Meenakshi Government College for Women
+C-36578,Lady Doak College,Madurai,Tamil Nadu,"2018,2019,2020,2021,2022",IR-1-C-C-C-36578 | IR-C-C-36578,Lady Doak College
+C-36579,Ayya Nadar Janaki Ammal College,Sivakasi,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-36579 | IR-C-C-36579 | IR17-COLL-1-18824,Ayya Nadar Janaki Ammal College
+C-36926,Kumaraguru College of Technology,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022",IR-3-E-OEM-C-36926 | IR-E-C-36926 | IR17-ENGG-2-1-2456189964,Kumaraguru College of Technology
+C-36969,Coimbatore Institute of Technology,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022",IR-2-E-OE-C-36969 | IR-E-C-36969 | IR17-ENGG-1-11716,Coimbatore Institute of Technology
+C-36975,Government College of Technology,Coimbatore,Tamil Nadu,"2018,2019,2020,2021,2022",IR-1-E-E-C-36975 | IR-E-C-36975,Government College of Technology
+C-36984,Bannari Amman Institute of Technology,Sathyamangalam,Tamil Nadu,"2018,2019",IR-2-E-OE-C-36984 | IR-E-C-36984,Bannari Amman Institute of Technology
+C-36995,Sri Krishna College of Engineering and Technology,Coimbatore,Tamil Nadu,"2017,2019,2020,2021,2022,2023,2024,2025",IR-E-C-36995 | IR17-MGMT-2-1-2811092269,Sri Krishna College of Engineering and Technology
+C-37013,PSG College of Technology,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-E-OEM-C-37013 | IR-3-M-OEM-C-37013 | IR-3-O-OEM-C-37013 | IR-E-C-37013 | IR-M-C-37013 | IR-O-C-37013 | IR17-ENGG-1-2811179135 | IR17-I-1-2811179135 | IR17-MGMT-1-2811179135,PSG College of Technology
+C-37028,Sona College of Technology,Salem,Tamil Nadu,"2019,2020,2021,2022",IR-E-C-37028,Sona College of Technology
+C-37050,Dr. Mahalingam College of Engineering and Technology,Pollachi,Tamil Nadu,2019,IR-E-C-37050,Dr. Mahalingam College of Engineering and Technology
+C-37064,Sri Krishna College of Technology,Coimbatore,Tamil Nadu,"2019,2020,2021,2022",IR-E-C-37064,Sri Krishna College of Technology
+C-37065,Kongu Engineering College,Perundurai,Tamil Nadu,"2017,2018,2019,2020,2021,2022",IR-1-E-E-C-37065 | IR-E-C-37065 | IR17-ENGG-1-12121,Kongu Engineering College
+C-37089,Sri Ramakrishna Engineering College,Coimbatore,Tamil Nadu,"2019,2020,2021",IR-E-C-37089,Sri Ramakrishna Engineering College
+C-39206,"S S Jain Subodh P G College, Jaipur",Jaipur,Rajasthan,"2021,2024",IR-C-C-39206,"S S Jain Subodh P G College, Jaipur"
+C-39481,"Nirmala College of Pharmacy, Mangalagiri",Mangalagiri,Andhra Pradesh,"2022,2023",IR-P-C-39481,"Nirmala College of Pharmacy, Mangalagiri"
+C-39486,Chalapathi Institute of Pharmaceutical Sciences,Guntur,Andhra Pradesh,"2017,2019,2020,2021,2022,2023",IR-P-C-39486 | IR17-PHRM-1-1-2813272662,Chalapathi Institute of Pharmaceutical Science | Chalapathi Institute of Pharmaceutical Sciences
+C-40080,Sri Adichunchanagiri College of Pharmacy,B G Nagar,Karnataka,"2021,2022,2023,2024,2025",IR-P-C-40080,Sri Adichunchanagiri College of Pharmacy
+C-40140,Raja Rajeswari Dental College & Hospital,Bengaluru,Karnataka,"2021,2022",IR-N-C-40140,Raja Rajeswari Dental College & Hospital
+C-40175,Coorg Institute of Dental Sciences,Virajpet,Karnataka,2021,IR-N-C-40175,Coorg Institute of Dental Sciences
+C-40178,"Government Dental College, Bangalore",Bengaluru,Karnataka,"2022,2023,2024,2025",IR-N-C-40178,"Government Dental College, Bangalore"
+C-40192,College of Dental Sciences,Davangere,Karnataka,"2020,2021",IR-N-C-40192,College of Dental Sciences
+C-40193,Bapuji Dental College & Hospital,Davangere,Karnataka,"2020,2021,2023,2024",IR-N-C-40193,Bapuji Dental College & Hospital
+C-40235,Krupanidhi College of Pharmacy,Bengaluru,Karnataka,"2022,2024,2025",IR-P-C-40235,Krupanidhi College of Pharmacy
+C-40298,Al-Ameen College of Pharmacy,Bengaluru,Karnataka,2019,IR-P-C-40298,Al-Ameen College of Pharmacy
+C-40342,K L E Society's Institute of Dental Sciences,Bengaluru,Karnataka,"2022,2025",IR-N-C-40342,K L E Society's Institute of Dental Sciences
+C-40345,M. S. Ramaiah Medical College,Bengaluru,Karnataka,"2018,2019,2020,2021,2022,2023,2024,2025",IR-2-D-OD-C-40345 | IR-D-C-40345,M. S. Ramaiah Medical College
+C-40354,Acharya & B M Reddy College of Pharmacy,Bengaluru,Karnataka,"2019,2021,2022,2023,2024,2025",IR-P-C-40354,Acharya & B M Reddy College of Pharmacy
+C-40453,St. John's Medical College,Bengaluru,Karnataka,"2019,2020,2021,2022,2023,2024,2025",IR-D-C-40453,St. John's Medical College
+C-40531,Sri Dharmasthala Manjunatheswara College of Dharwad,Dharwad,Karnataka,2020,IR-N-C-40531,Sri Dharmasthala Manjunatheswara College of Dharwad
+C-409,L. M. College of Pharmacy,Ahmedabad,Gujarat,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-409 | IR-P-C-409 | IR17-PHRM-1-17207,L. M. College of Pharmacy
+C-41035,Government Arts College,Coimbatore,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-41035 | IR-C-C-41035,Government Arts College
+C-41042,Dr. S. N. S. Rajalakshmi College of Arts and Science,Coimbatore,Tamil Nadu,"2023,2024",IR-C-C-41042,Dr. S. N. S. Rajalakshmi College of Arts and Science
+C-41044,Dr.G.R.Damodaran College of Science,Coimbatore,Tamil Nadu,2023,IR-C-C-41044,Dr.G.R.Damodaran College of Science
+C-41046,PSGR Krishnammal College for Women,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-41046 | IR-C-C-41046 | IR17-COLL-1-819241,P.S.G.R. Krishnammal College for Women | PSGR Krishnammal College for Women
+C-41054,Dr. N. G. P. Arts and Science College,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2024,2025",IR-1-C-C-C-41054 | IR-C-C-41054 | IR17-COLL-1-19418,Dr. N. G. P. Arts and Science College | Dr. N.G.P. Arts & Science College
+C-41068,Vellalar College for Women,Erode,Tamil Nadu,"2018,2019,2020,2021,2022",IR-1-C-C-C-41068 | IR-C-C-41068,Vellalar College for Women
+C-41073,N. G. M. College,Pollachi,Tamil Nadu,"2021,2023",IR-C-C-41073,N. G. M. College
+C-41096,CMS College of Science and Commerce,Coimbatore,Tamil Nadu,"2018,2019,2020",IR-1-C-C-C-41096 | IR-C-C-41096,CMS College of Science and Commerce
+C-41100,Sri Ramakrishna College of Arts and Science,Coimbatore,Tamil Nadu,"2021,2022,2023,2024,2025",IR-C-C-41100,Sri Ramakrishna College of Arts and Science
+C-41104,Kongu Arts & Science College,Erode,Tamil Nadu,"2017,2018",IR-1-C-C-C-41104 | IR17-COLL-2-19383,Kongu Arts & Science College
+C-41106,Kongunadu Arts and Science College,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024",IR-1-C-C-C-41106 | IR-C-C-41106 | IR17-COLL-1-24821,Kongunadu Arts & Science College | Kongunadu Arts and Science College
+C-41110,"Government Arts College, Tiruppur",Udumalpet,Tamil Nadu,"2018,2021",IR-1-C-C-C-41110 | IR-C-C-41110,"Government Arts College | Government Arts College, Tiruppur"
+C-41124,PSG College of Arts and Science,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-41124 | IR-C-C-41124 | IR17-COLL-2-818511,P.S.G. College of Arts & Science | PSG College of Arts and Science
+C-41126,Sri Krishna Arts and Science College,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-41126 | IR-C-C-41126 | IR17-COLL-2-1277986,Sri Krishna Arts and Science College
+C-41134,Rathinam College of Arts and Science,Coimbatore,Tamil Nadu,"2017,2018",IR-1-C-C-C-41134 | IR17-COLL-2-221339,Rathinam College of Arts and Science
+C-41140,A.P.C. Mahalaxmi College for Women,Thoothukkudi,Tamil Nadu,"2024,2025",IR-C-C-41140,A.P.C. Mahalaxmi College for Women
+C-41154,"Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist.",Marthandam,Tamil Nadu,"2022,2023,2024,2025",IR-C-C-41154,"Nesamony Memorial Christian College | Nesamony Memorial Christian College, Kanyakumari Dist. | Nesamony Memorial Christian College, Marthandam, Kanyakumari Dist."
+C-41157,V.O. Chidambaram College,Thoothukudi,Tamil Nadu,"2019,2020,2021,2022,2023,2024,2025",IR-C-C-41157,V. O. Chidambaram College | V.O. Chidambaram College
+C-41173,"St. Xavier's College, Palayamkottai",Palayamkottai,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-41173 | IR-C-C-41173,"St. Xavier's College | St. Xavier's College, Palayamkottai | St.Xavier's College | St.Xavier's College, Palayamkottai"
+C-41184,Women's Christian College,Nagercoil,Tamil Nadu,"2018,2019,2020,2021,2022,2023",IR-1-C-C-C-41184 | IR-C-C-41184,"Women's Christian College | Women's Christian College, Nagercoil"
+C-41189,Scott Christian College,Nagercoil,Tamil Nadu,"2018,2019,2020,2021,2022,2024",IR-2-C-OC-C-41189 | IR-C-C-41189,"Scott Christian College | Scott Christian College, Nagercoil"
+C-41191,Sadakathullah Appa College,Tirunelveli,Tamil Nadu,2024,IR-C-C-41191,Sadakathullah Appa College
+C-41351,Bansilal Ramnath Agarwal Charitable Trust's Vishwakarama Institute of Technology,Pune,Maharashtra,2019,IR-E-C-41351,Bansilal Ramnath Agarwal Charitable Trust's Vishwakarama Institute of Technology
+C-41434,Bharati Vidyapeeth's College of Fine Arts,Pune,Maharashtra,2018,IR-1-C-C-C-41434,Bharati Vidyapeeth's College of Fine Arts
+C-41451,Marathwada Mitra Mandal's College of Pharmacy,Pune,Maharashtra,"2022,2023",IR-P-C-41451,Marathwada Mitra Mandal's College of Pharmacy
+C-41561,MAEERS Maharashtra Institute of Pharmacy,Pune,Maharashtra,2019,IR-P-C-41561,MAEERS Maharashtra Institute of Pharmacy
+C-41951,Padamshree Dr. D. Y. Patil College of Pharmacy,Pune,Maharashtra,"2019,2020",IR-P-C-41951,Padamshree Dr. D. Y. Patil College of Pharmacy
+C-42054,Army Institute of Technology,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022",IR-1-E-E-C-42054 | IR-E-C-42054 | IR17-ENGG-1-1-2809338810,Army Institute of Technology
+C-42167,P. E. Society's Modern College of Pharmacy,Pune,Maharashtra,"2017,2019,2020,2024,2025",IR-P-C-42167 | IR17-PHRM-1-17165,P. E. Society's Modern College of Pharmacy
+C-42227,Dr. D. Y. Patil Institute of Technology,Pune,Maharashtra,"2020,2021,2022",IR-E-C-42227,Dr. D. Y. Patil Institute of Technology
+C-42242,Maharshi Karve Stree Shikshan Samstha's Cummins College of Engineering for Women,Pune,Maharashtra,"2019,2020",IR-E-C-42242,Maharshi Karve Stree Shikshan Samstha's Cummins College of Engineering for Women
+C-42814,Ramakrishna Mission Residential College,Kolkata,West Bengal,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-42814 | IR-C-C-42814,Ramakrishna Mission Residential College
+C-43229,"Shri Shivaji Science College , Morshi Road , Amravati.",Amravati,Maharashtra,"2024,2025",IR-C-C-43229,"Shri Shivaji Science College | Shri Shivaji Science College , Morshi Road , Amravati."
+C-43264,"National Institute of Advanced Manufacturing Technology, Ranchi",Ranchi,Jharkhand,"2020,2021,2022",IR-E-C-43264,"National Institute of Advanced Manufacturing Technology, Ranchi | National Institute of Foundry and Forge Technology (NIFFT)"
+C-436,"Institute of Pharmacy, Nirma University",Ahmedabad,Gujarat,2018,IR-1-P-P-C-436,"Institute of Pharmacy, Nirma University"
+C-43600,Government Arts College,Thiruvananthapuram,Kerala,"2019,2020",IR-C-C-43600,Government Arts College | Govt. Arts College
+C-43646,"Government College, Attingal",Thiruvananthapuram,Kerala,2025,IR-C-C-43646,"Government College, Attingal"
+C-43649,"Fatima Mata National College, Kollam",Kollam,Kerala,"2019,2020,2022",IR-C-C-43649,"Fatima Mata National College | Fatima Mata National College, Kollam"
+C-43671,"University College, Thiruvananthapuram",Thiruvananthapuram,Kerala,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-43671 | IR-C-C-43671,"University College | University College, Thiruvananthapuram"
+C-43705,"Govt. College for Women, Thiruvananthapuram",Thiruvananthapuram,Kerala,"2019,2020,2021,2022,2023,2024,2025",IR-C-C-43705,"Government College for Women | Government College for Women, Thiruvananthapuram | Govt. College for Women | Govt. College for Women, Thiruvananthapuram"
+C-43708,College of Engineering Trivandrum,Thiruvananthapuram,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-A-EMA-C-43708 | IR-3-E-EMA-C-43708 | IR-A-C-43708 | IR-E-C-43708 | IR17-ENGG-2-10284,"College of Engineering | College of Engineering Trivandrum | College of Engineering, Trivandrum"
+C-43711,Bishop Moore College,Alappuzha,Kerala,"2018,2020,2021,2022,2023,2024",IR-1-C-C-C-43711 | IR-C-C-43711,"Bishop Moore College | Bishop Moore College, Mavelikkara, Alappuzha"
+C-43738,T. K. M. College of Arts and Science,Kollam,Kerala,"2018,2019",IR-1-C-C-C-43738 | IR-C-C-43738,T. K. M. College of Arts and Science
+C-43760,Mahatma Gandhi College,Thiruvananthapuram,Kerala,"2018,2019,2020",IR-1-C-C-C-43760 | IR-C-C-43760,Mahatma Gandhi College
+C-43767,"Mar Ivanios College, Thiruvananthapuram",Thiruvananthapuram,Kerala,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-43767 | IR-C-C-43767,"Mar Ivanios College | Mar Ivanios College, Thiruvananthapuram"
+C-43783,Nirmalagiri College,Kannur,Kerala,"2018,2019",IR-1-C-C-C-43783 | IR-C-C-43783,Nirmalagiri College
+C-43789,Government Brennen College,Kannur,Kerala,2021,IR-C-C-43789,Government Brennen College
+C-43806,Nehru Arts and Science College,Kasaragod,Kerala,2020,IR-C-C-43806,Nehru Arts and Science College
+C-43874,Government College,Kasaragod,Kerala,"2020,2021",IR-C-C-43874,Government College
+C-43902,Ethiraj College for Women,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-43902 | IR-C-C-43902 | IR17-COLL-1-15094,Ethiraj College for Women
+C-43911,Anna Adarsh College for Women,Chennai,Tamil Nadu,"2018,2019",IR-1-C-C-C-43911 | IR-C-C-43911,Anna Adarsh College for Women
+C-43921,Presidency College,Chennai,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-43921 | IR-C-C-43921,Presidency College
+C-43931,Stella Maris College for Women,Chennai,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-43931 | IR-C-C-43931,Stella Maris College | Stella Maris College For Women | Stella Maris College for Women
+C-43946,Women's Christian College,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024",IR-2-C-OC-C-43946 | IR-C-C-43946 | IR17-COLL-2-19443,The Women's Christian College | Women's Christian College
+C-43964,Madras School of Social Work,Chennai,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-43964 | IR-C-C-43964,Madras School of Social Work
+C-43965,Madras Christian College,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-43965 | IR-C-C-43965 | IR17-COLL-2-967530,Madras Christian College
+C-43968,DG Vaishnav College,Chennai,Tamil Nadu,2025,IR-C-C-43968,DG Vaishnav College
+C-43975,Justice Basher Ahmed Sayeed College for Women,Chennai,Tamil Nadu,"2017,2019",IR-C-C-43975 | IR17-COLL-1-19427,Justice Baseer Ahmed Sayeed College for Women | Justice Basher Ahmed Sayeed College for Women
+C-43998,Guru Nanak College,Chennai,Tamil Nadu,"2023,2024",IR-C-C-43998,Guru Nanak College
+C-44006,Loyola College,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-44006 | IR-C-C-44006 | IR17-COLL-2-959129,Loyola College
+C-44200,C.U.Shah College of Pharmacy,Mumbai,Maharashtra,"2020,2021,2022,2023",IR-P-C-44200,C.U. Shah College of Pharmacy | C.U.Shah College of Pharmacy
+C-45375,"National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)",Thanjavur,Tamil Nadu,"2017,2020,2021,2022,2023,2024,2025",IR-E-C-45375 | IR-G-C-45375 | IR17-I-1-12080,"Indian Institute of Crop Processing Technology | Indian Institute of Food Processing Technology (IIFPT) | National Institute of Food Technology, Entrepreneurship and Management | National Institute of Food Technology, Entrepreneurship and Management - Thanjavur (NIFTEM - Thanjavur)"
+C-45413,"Ragas Dental College & Hospital, Chennai",Chennai,Tamil Nadu,2022,IR-N-C-45413,"Ragas Dental College & Hospital, Chennai"
+C-45515,PSG Institute of Medical Sciences and Research,Coimbatore,Tamil Nadu,"2018,2020,2021,2022,2023,2024,2025",IR-1-D-D-C-45515 | IR-1-O-D-C-45515 | IR-D-C-45515,"PSG Institute of Medical Sciences & Research | PSG Institute of Medical Sciences & Research, Coimbatore | PSG Institute of Medical Sciences and Research"
+C-45528,KMCH College of Pharmacy,Coimbatore,Tamil Nadu,"2020,2021,2022",IR-P-C-45528,KMCH College of Pharmacy
+C-45540,PSG College of Pharmacy,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-45540 | IR-P-C-45540 | IR17-PHRM-1-17491,PSG College of Pharmacy
+C-45585,Nandha College of Pharmacy,Erode,Tamil Nadu,"2022,2023,2024,2025",IR-P-C-45585,Nandha College of Pharmacy
+C-45597,"Adhiparasakthi Dental College and Hospital, Kancheepuram",Melmaruvathur,Tamil Nadu,2024,IR-N-C-45597,"Adhiparasakthi Dental College and Hospital, Kancheepuram"
+C-45605,Chettinad Dental College and Research Institute,Kelambakkam,Tamil Nadu,"2022,2023,2024,2025",IR-N-C-45605,Chettinad Dental College and Research Institute
+C-45654,Christian Medical College,Vellore,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-C-45654 | IR-D-C-45654,Christian Medical College
+C-45757,Arulmigu Kalasalingam College of Pharmacy,Srivilliputtur,Tamil Nadu,"2022,2023,2024,2025",IR-P-C-45757,Arulmigu Kalasalingam College of Pharmacy
+C-46111,KIET Group of Institutions,Ghaziabad,Uttar Pradesh,"2021,2022,2023,2024,2025",IR-E-C-46111 | IR-P-C-46111,KIET Group of Institutions | KIET Group of Institutions: KIET Group of Pharmacy
+C-46239,G. L. Bajaj Institute of Technology and Management,Greater Noida,Uttar Pradesh,"2021,2022",IR-E-C-46239,G. L. Bajaj Institute of Technology and Management | G.L.Bajaj Institute of Technology and Management
+C-46330,"Manipal School of Architecture and Planning, MAHE",Udupi,Karnataka,"2018,2020,2021,2022,2023,2024,2025",IR-1-A-A-C-46330 | IR-A-C-46330,"Faculty of Architecture, Manipal Academy of Higher Education | Faculty of Architecture, Manipal Academy of Higher Education, Manipal | Manipal Academy of Higher Education | Manipal School of Architecture and Planning, MAHE | Manipal School of Architecture and Planning, Mahe"
+C-46873,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow",Lucknow,Uttar Pradesh,2025,IR-A-C-46873,"Faculty of Architecture and Planning, Dr APJ Abbdul Kalam Technical University, Lucknow"
+C-47256,"BMS School of Architecture, Yelahanka",Bengaluru,Karnataka,"2024,2025",IR-A-C-47256,"BMS School of Architecture, Yelahanka"
+C-47556,"Tirunelveli Medical College, Tirunelveli",Tirunelveli -,Tamil Nadu,2021,IR-D-C-47556,"Tirunelveli Medical College, Tirunelveli"
+C-47762,Mahatma Gandhi Medical College and Research Institute,Puducherry,Puducherry,"2018,2020,2021,2022,2023,2024,2025",IR-1-D-D-C-47762 | IR-1-O-D-C-47762 | IR-D-C-47762,Mahatma Gandhi Medical College and Research Institute
+C-48122,Government Dental College,Thiruvananthapuram,Kerala,"2022,2023,2024,2025",IR-N-C-48122,Government Dental College
+C-48124,"Government Medical College, Thiruvananthapuram",Thiruvananthapuram,Kerala,"2023,2024",IR-D-C-48124,"Government Medical College Thiruvananthapuram | Government Medical College, Thiruvananthapuram"
+C-48145,BVRIT Hyderabad,Hyderabad,Telangana,"2019,2020",IR-E-C-48145,BVRIT Hyderabad
+C-49008,"Madras Medical College & Government General Hospital, Chennai",Chennai,Tamil Nadu,"2020,2021,2022,2023,2024,2025",IR-D-C-49008,"Madras Medical College & Government General Hospital | Madras Medical College & Government General Hospital, Chennai | Madras Medical College and Government General Hospital | Madras Medical College and Government General Hospital, Chennai"
+C-49660,Pimpri Chinchwad College of Engineering,Pune,Maharashtra,"2019,2020",IR-E-C-49660,Pimpri Chinchwad College of Engineering
+C-49744,Saraswati Dental College & Hospital,Lucknow,Uttar Pradesh,"2021,2023",IR-N-C-49744,Saraswati Dental College & Hospital
+C-49799,Government Institute of Forensic Science,Nagpur,Maharashtra,2021,IR-C-C-49799,Government Institute of Forensic Science
+C-50605,PSG Institute of Technology and Applied Research,Coimbatore,Tamil Nadu,"2021,2022",IR-E-C-50605,PSG Institute of Technology and Applied Research
+C-54626,Girijananda Chowdhury Institute of Pharmaceutical Science,Guwahati,Assam,"2019,2020",IR-P-C-54626,Girijananda Chowdhury Institute of Pharmaceutical Science
+C-56616,K J Somaiya Institute of Management Studies and Research,Mumbai,Maharashtra,"2017,2023,2024",IR-M-C-56616 | IR17-MGMT-1-1-2809771998,K J Somaiya Institute of Management Studies and Research | K.J. Somaiya Institute of Management Studies & Reserach
+C-57952,BMS College of Architecture,Bengaluru,Karnataka,"2019,2020,2021,2022,2023,2024,2025",IR-A-C-57952,BMS College of Architecture | BMS College of Arhitecture
+C-58318,IES Institute of Pharmacy,Bhopal,Madhya Pradesh,2025,IR-P-C-58318,IES Institute of Pharmacy
+C-5838,Gujarat Cancer & Research Institute,Ahmadabad,Gujarat,"2022,2023,2024,2025",IR-D-C-5838,Gujarat Cancer & Research Institute | Gujarat Cancer and Research Institute
+C-5855,St. Xavier's College,Ahmedabad,Gujarat,"2018,2019,2020,2021,2022,2023",IR-2-C-OC-C-5855 | IR-C-C-5855,St. Xavier's College
+C-5910,Government Dental College,Ahmedabad,Gujarat,"2022,2023,2024,2025",IR-N-C-5910,Government Dental College
+C-5911,Karnavati University,Gandhinagar,Gujarat,"2022,2023",IR-N-C-5911,Karnavati University
+C-59902,Saiva Bhanu Kshatriya College,Virudhnagar,Tamil Nadu,2017,IR17-COLL-1-59902,Saiva Bhanu Kshatriya College
+C-6051,B. J. Medical College,Ahmadabad,Gujarat,"2022,2023,2025",IR-D-C-6051,B. J. Medical College
+C-6178,Dr. B. C. Roy College of Pharmacy and Allied Health Sciences,Durgapur,West Bengal,"2023,2024",IR-P-C-6178,Dr. B. C. Roy College of Pharmacy and Allied Health Sciences
+C-6192,Institute of Engineering & Management,Kolkata,West Bengal,"2019,2020,2021",IR-E-C-6192,Institute of Engineering & Management
+C-6202,Heritage Institute of Technology,Kolkata,West Bengal,"2019,2020",IR-E-C-6202,Heritage Institute of Technology
+C-6238,Haldia Institute of Technology,Haldia,West Bengal,"2019,2020",IR-E-C-6238,Haldia Institute of Technology
+C-6257,Narula Institute of Technology,Kolkata,West Bengal,2019,IR-E-C-6257,Narula Institute of Technology
+C-6269,NSHM Knowledge Campus,Kolkata,West Bengal,"2019,2020",IR-P-C-6269,NSHM Knowledge Campus
+C-6353,Sri Guru Tegh Bahadur Khalsa College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2025",IR-2-C-OC-C-6353 | IR-C-C-6353,Sri Guru Tegh Bahadur Khalsa College
+C-6355,Miranda House,Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-6355 | IR-C-C-6355 | IR17-COLL-1-29115,Miranda House
+C-6357,Shyam Lal College,Delhi,Delhi,"2018,2019,2020,2022,2023,2025",IR-2-C-OC-C-6357 | IR-C-C-6357,Shyam Lal College
+C-6358,Ram Lal Anand College,New Delhi,Delhi,2025,IR-C-C-6358,Ram Lal Anand College
+C-6361,Deen Dayal Upadhyaya College,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6361 | IR-C-C-6361 | IR17-COLL-2-20022,Deen Dayal Upadhyaya College
+C-6365,Indraprastha College for Women,Delhi,Delhi,"2018,2019,2020,2021,2022,2023",IR-1-C-C-C-6365 | IR-C-C-6365,Indraprastha College for Women
+C-6366,Shivaji College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-6366 | IR-C-C-6366,Shivaji College
+C-6367,Daulat Ram College,Delhi,Delhi,"2019,2020,2021,2022,2023,2024,2025",IR-C-C-6367,Daulat Ram College
+C-6369,Sri Venkateswara College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-6369 | IR-C-C-6369,Sri Venkateswara College
+C-6370,Delhi Institute of Pharmaceutical Sciences & Research,New Delhi,Delhi,"2017,2018,2019,2020",IR-1-P-P-C-6370 | IR-P-C-6370 | IR17-PHRM-1-17860,Delhi Institute of Pharmaceutical Sciences & Research | Delhi Institute of Pharmaceutical Sciences and Research
+C-6371,Ramjas College,Delhi,Delhi,"2021,2022,2023,2025",IR-C-C-6371,Ramjas College
+C-6376,Delhi College of Arts & Commerce,South West,Delhi,"2023,2024,2025",IR-C-C-6376,Delhi College of Arts & Commerce | Delhi College of Arts and Commerce
+C-6377,Hindu College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6377 | IR-C-C-6377,Hindu College
+C-6379,Netaji Subhas University of Technology (NSUT),Delhi,Delhi,"2020,2021,2022,2023,2024,2025",IR-E-C-6379 | IR-O-C-6379,Netaji Subhas University of Technology (NSUT)
+C-6380,Acharya Narendra Dev College,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6380 | IR-C-C-6380 | IR17-COLL-1-19833,Acharya Narendra Dev College
+C-6381,Keshav Mahavidyalya,Delhi,Delhi,"2017,2018,2019,2020,2022,2023,2024,2025",IR-2-C-OC-C-6381 | IR-C-C-6381 | IR17-COLL-2-20024,Keshav Mahavidyalya
+C-6385,Kirori Mal College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6385 | IR-C-C-6385,Kirori Mal College
+C-6386,Institute of Home Economics,NEW DELHI,Delhi,2022,IR-C-C-6386,Institute of Home Economics
+C-6387,Bhaskaracharya College of Applied Sciences,New Delhi,Delhi,"2021,2022,2023,2024,2025",IR-C-C-6387,Bhaskaracharya College of Applied Sciences
+C-6391,Maitreyi College,New Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6391 | IR-C-C-6391,Maitreyi College
+C-6397,College of Vocational Studies,New Delhi,Delhi,2018,IR-1-C-C-C-6397,College of Vocational Studies
+C-6401,Shaheed Bhagat Singh College (Evening),Delhi,Delhi,"2017,2018",IR-1-C-C-C-6401 | IR17-COLL-2-29130,Shaheed Bhagat Singh College (Evening Classes) | Shaheed Bhagat Singh College (Evening)
+C-6402,Kalindi College,Delhi,Delhi,2019,IR-C-C-6402,Kalindi College
+C-6409,Deshbandhu College,New Delhi,Delhi,"2020,2021,2022,2023,2024,2025",IR-C-C-6409,Deshbandhu College
+C-6411,Shaheed Sukhdev College of Business Studies,New Delhi,Delhi,"2019,2020,2021,2022,2023",IR-C-C-6411,Shaheed Sukhdev College of Business Studies
+C-6412,Maharaja Agrasen College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024",IR-2-C-OC-C-6412 | IR-C-C-6412,Maharaja Agrasen College
+C-6413,Sri Guru Gobind Singh College of Commerce,Delhi,Delhi,"2019,2020,2022,2023,2024,2025",IR-C-C-6413,Sri Guru Gobind Singh College of Commerce
+C-6414,Maulana Azad Medical College,Delhi,Delhi,"2019,2020,2021,2022,2023,2024,2025",IR-D-C-6414,Maulana Azad Medical College
+C-6415,Lady Shri Ram College For Women,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-6415 | IR-C-C-6415 | IR17-COLL-2-29111,Lady Shri Ram College For Women | Lady Shri Ram College for Women
+C-6417,Kamala Nehru College,Delhi,Delhi,"2019,2020,2021,2022,2023,2024,2025",IR-C-C-6417,Kamala Nehru College
+C-6419,Shri Ram College of Commerce,Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6419 | IR-C-C-6419 | IR17-COLL-2-29134,Shri Ram College of Commerce
+C-6420,Jesus & Mary College,New Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6420 | IR-C-C-6420,Jesus & Mary College
+C-6421,Shaheed Bhagat Singh College,New Delhi,Delhi,2025,IR-C-C-6421,Shaheed Bhagat Singh College
+C-6425,Hans Raj College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6425 | IR-C-C-6425,Hans Raj College
+C-6426,Shaheed Rajguru College of Applied Sciences for Women,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-6426 | IR-C-C-6426,Shaheed Rajguru College of Applied Sciences for Women
+C-6429,Gargi College,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-6429 | IR-C-C-6429,Gargi College
+C-6431,Ramanujan College,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-6431 | IR-C-C-6431 | IR17-COLL-2-2003358,Ramanujan College
+C-6432,Dyal Singh College,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-C-6432 | IR-C-C-6432 | IR17-COLL-1-19855,Dyal Singh College
+C-6502,Kanchi Mamunivar Govt. Institute for Postgraduate Studies and Research,PUDUCHERRY,Puducherry,"2019,2020,2021,2022,2023,2024,2025",IR-C-C-6502,Kanchi Mamunivar Centre for Post Graduate Studies | Kanchi Mamunivar Government Institute for Postgraduate Studies and Research | Kanchi Mamunivar Govt. Institute for Postgraduate Studies and Research
+C-6528,Dr. B. R. Ambedkar Institute of Technology,South Andaman,Andaman and Nicobar Islands,2019,IR-E-C-6528,Dr. B. R. Ambedkar Institute of Technology
+C-6548,Mahatma Gandhi P.G. Institute of Dental Sciences,Pondicherry,Puducherry,"2024,2025",IR-N-C-6548,Mahatma Gandhi P.G. Institute of Dental Sciences
+C-6566,Mahatma Gandhi Government Arts College,Mahe,Puducherry,"2020,2022",IR-C-C-6566,Mahatma Gandhi Government Arts College
+C-6581,Pondicherry Engineering College,Puducherry,Puducherry,"2017,2018,2019,2020,2021,2022",IR-1-E-E-C-6581 | IR-E-C-6581 | IR17-ENGG-1-11736,Pondicherry Engineering College
+C-6594,Himalayan Pharmacy Institute,East Sikkim,Sikkim,2023,IR-P-C-6594,Himalayan Pharmacy Institute
+C-6601,"Sikkim Government Law College, Burtuk",Gangtok,Sikkim,"2021,2022",IR-L-C-6601,"Sikkim Government Law College, Burtuk | Sikkim Government Law College,Burtuk"
+C-7049,Chettinad Hospital and Research Institute,"Kelambakkam, Chengalpattu District",Tamil Nadu,2021,IR-D-C-7049,Chettinad Hospital and Research Institute
+C-7240,"Manipal College of Dental Sciences, Mangalore",Mangaluru,Karnataka,"2020,2021,2022,2023,2024,2025",IR-N-C-7240,"Manipal College of Dental Sciences | Manipal College of Dental Sciences, Mangalore"
+C-7242,"Kasturba Medical College, Manipal",Manipal,Karnataka,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-C-7242 | IR-D-C-7242,"Kasturba Medical College | Kasturba Medical College, Manipal"
+C-7249,"Manipal College of Pharmaceutical Sciences, Manipal",Udupi,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-C-7249 | IR-P-C-7249 | IR17-PHRM-1-1-2812279307,"Manipal College of Pharmaceutical Sciences | Manipal College of Pharmaceutical Sciences, Manipal"
+C-7251,"Kasturba Medical College, Mangalore",Mangaluru,Karnataka,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-C-7251 | IR-D-C-7251,"Kasturba Medical College | Kasturba Medical College, Mangalore"
+C-7252,Manipal Institute of Technology,Manipal,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-C-7252 | IR-E-C-7252 | IR17-ENGG-1-1-2816307230,Manipal Institute of Technology
+C-7254,"Manipal College of Dental Sciences, Manipal",Manipal,Karnataka,"2020,2021,2022,2023,2024,2025",IR-N-C-7254,"Manipal College of Dental Sciences | Manipal College of Dental Sciences, Manipal"
+C-8008,"Vimala College, Thrissur",Thrissur,Kerala,"2017,2018,2020,2024,2025",IR-1-C-C-C-8008 | IR-C-C-8008 | IR17-COLL-2-20207,"Vimala College | Vimala College, Thrissur | Vimla College"
+C-8010,"St. Joseph's College, Devagiri",Kozhikode,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-I-1323 | IR-C-C-8010 | IR-C-I-1323 | IR17-COLL-1-20139,"St. Joseph's College | St. Joseph's College, Devagiri"
+C-8023,"Farook College, Kozhikkode",Kozhikode,Kerala,"2019,2020,2021,2025",IR-C-C-8023,"Farook College | Farook College, Kozhikkode"
+C-8121,Government Dental College,Kozhikode,Kerala,2025,IR-N-C-8121,Government Dental College
+C-8169,"St. Thomas College, Thrissur",Thrissur,Kerala,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-C-8169 | IR-C-C-8169,"ST. Thomas College, Thrissur | St. Thomas College | St. Thomas College, Thrissur"
+C-8209,Government Victoria College,Palakkad,Kerala,"2021,2022,2024",IR-C-C-8209,"Government Victoria College | Government Victoria College, Palakkad"
+C-8213,Christ College (Autonomous),Thrissur,Kerala,"2017,2018,2019,2025",IR-1-C-C-C-8213 | IR-C-C-8213 | IR17-COLL-2-21140,Christ College | Christ College (Autonomous)
+C-8257,"Al Shifa College of Pharmacy, Perinthalmanna",Malappuram,Kerala,"2019,2022",IR-P-C-8257,"AL Shifa College of Pharmacy | Al Shifa College of Pharmacy, Perinthalmanna"
+C-8277,"Government Engineering College, Thrissur",Thrissur,Kerala,"2020,2021",IR-E-C-8277,"Government Engineering College | Government Engineering College, Thrissur"
+C-8308,Pachhunga University College,Aizawl,Mizoram,"2022,2023,2024,2025",IR-C-C-8308,Pachhunga University College
+C-8528,Yenepoya Dental College,Mangaluru,Karnataka,"2020,2021,2022,2023,2024,2025",IR-N-C-8528,Yenepoya Dental College
+C-9435,Regional Institute of Medical Sciences,Imphal West,Manipur,"2019,2020,2021,2022",IR-D-C-9435,Regional Institute of Medical Sciences
+C-9462,"School of Engineering, Cochin University of Science and Technology",Cochin,Kerala,"2019,2020",IR-E-C-9462,"School of Engineering, Cochin University of Science and Technology"
+C-9552,Sri Sarada College for Women(Autonomous),Salem,Tamil Nadu,"2021,2025",IR-C-C-9552,Sri Sarada College for Women (Autonomous) | Sri Sarada College for Women(Autonomous)
+C-9562,Mahendra Arts & Science College,Namakkal,Tamil Nadu,"2017,2018,2020",IR-1-C-C-C-9562 | IR-C-C-9562 | IR17-COLL-2-21350,Mahendra Arts & Science College
+I-1015,Vishwakarma Institute of Technology,Pune,Maharashtra,"2020,2021,2022",IR-E-I-1015,Vishwakarma Institute of Technology
+I-1033,International Institute of Information Technology Bhubaneswar,Bhubaneswar,Odisha,2021,IR-E-I-1033,International Institute of Information Technology Bhubaneswar
+I-1044,S. P. Jain Institute of Management and Research,Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-I-1044 | IR-M-I-1044 | IR17-MGMT-1-1-2809233566,S. P. Jain Institute of Management & Research | S. P. Jain Institute of Management and Research | S.P. Jain Institute of Management & Research
+I-1045,R. C. Patel Institute of Pharmaceutical Education and Research,Shirpur,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-I-1045 | IR-P-I-1045 | IR17-PHRM-1-1-2809276349,R. C. Patel Institute of Pharmaceutical Education & Research | R. C. Patel Institute of Pharmaceutical Education and Research
+I-1048,"Institute of Management Technology, Nagpur",Nagpur,Maharashtra,"2019,2020,2022,2025",IR-M-I-1048,"Institute of Management Technology | Institute of Management Technology, Nagpur"
+I-1058,Indian Institute of Forest Management,Bhopal,Madhya Pradesh,"2017,2018,2019,2020,2021",IR-1-M-M-I-1058 | IR-M-I-1058 | IR17-MGMT-1-1-2811797143,Indian Institute of Forest Management
+I-1064,IMI Delhi,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-I-1064 | IR-M-I-1064 | IR17-MGMT-1-1-2813919609,IMI Delhi | International Management Institute | International Management Institute New Delhi
+I-1066,Fore School of Management,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-I-1066 | IR-M-I-1066 | IR17-MGMT-1-1-2814097839,FORE School of Management | Fore School of Management
+I-1072,National Institute of Pharmaceutical Education and Research Kolkata,Kolkata,West Bengal,"2020,2021,2023,2024,2025",IR-P-I-1072,National Institute of Pharmaceutical Education and Research Kolkata
+I-1073,National Institute of Pharmaceutical Education and Research Guwahati,Guwahati,Assam,"2020,2021,2022,2023,2024,2025",IR-P-I-1073,National Institute of Pharmaceutical Education and Research Guwahati
+I-1074,Indian Institute of Technology Delhi,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-E-OEM-I-1074 | IR-3-M-OEM-I-1074 | IR-3-O-OEM-I-1074 | IR-B-I-1074 | IR-E-I-1074 | IR-I-I-1074 | IR-M-I-1074 | IR-O-I-1074 | IR-R-I-1074 | IR17-ENGG-2-1-79 | IR17-I-2-1-79 | IR17-MGMT-2-1-79,"Indian Institute of Technology Delhi | Indian Institute of Technology, Delhi"
+I-1075,Indian Institute of Technology Kanpur,Kanpur,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-E-OEM-I-1075 | IR-3-M-OEM-I-1075 | IR-3-O-OEM-I-1075 | IR-E-I-1075 | IR-I-I-1075 | IR-M-I-1075 | IR-O-I-1075 | IR-R-I-1075 | IR17-ENGG-2-18248 | IR17-I-2-18248 | IR17-MGMT-2-18248,Indian Institute of Technology Kanpur
+I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,Hyderabad,Telangana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-I-1077 | IR-P-I-1077 | IR17-I-2-18693 | IR17-PHRM-2-18693,"National Institute of Pharmaceutical Education and Research | National Institute of Pharmaceutical Education and Research Hyderabad | National Institute of Pharmaceutical Education and Research, Hyderabad"
+I-1093,Noida Institute of Engineering & Technology,Greater Noida,Uttar Pradesh,"2021,2022",IR-E-I-1093,Noida Institute of Engineering & Technology
+I-1110,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-D-OD-I-1110 | IR-2-O-OD-I-1110 | IR-D-I-1110 | IR-N-I-1110 | IR-O-I-1110 | IR17-I-2-30671,Dr. D. Y. Patil Vidyapeeth | Dr. D. Y. Patil Vidyapeeth Pune
+I-1124,IMI Bhubaneswar,Bhubaneswar,Odisha,"2019,2020,2021,2022,2023,2024,2025",IR-M-I-1124,"IMI Bhubaneswar | International Management Institute | International Management Institute Bhubaneswar | International Management Institute, Bhubaneswar"
+I-1132,Institute of Management Technology,Hyderabad,Telangana,"2019,2020,2021,2022,2023,2024,2025",IR-M-I-1132,Institute of Management Technology
+I-1144,Pune Institute of Business Management,Pune,Maharashtra,2022,IR-M-I-1144,Pune Institute of Business Management
+I-1156,Bharati Vidyapeeth's Institute of Management and Entrepreneurship Development,Pune,Maharashtra,"2017,2020,2021",IR-M-I-1156 | IR17-MGMT-1-15764,Bharati Vidyapeeth's Institute of Management and Entrepreneurship Development
+I-1170,Management Development Institute,Gurugram,Haryana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-I-1170 | IR-M-I-1170 | IR17-MGMT-1-16147,Management Development Institute
+I-1238,Krea University,Sri City,Andhra Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024",IR-1-M-M-I-1238 | IR-M-I-1238 | IR17-MGMT-1-16716,Institute for Financial Management and Research | KREA University | Krea University
+I-1243,"College of Pharmacy, Madras Medical College",Chennai,Tamil Nadu,"2017,2018,2019,2020,2022,2023,2024,2025",IR-1-P-P-I-1243 | IR-P-I-1243 | IR17-PHRM-1-17136,"College of Pharmacy, Madras Medical College"
+I-1244,"Department of Pharmaceutical Sciences, Dibrugarh University",Dibrugarh,Assam,"2017,2018",IR-1-P-P-I-1244 | IR17-PHRM-1-17138,"Department of Pharmaceutical Sciences, Dibrugarh University"
+I-1248,Maliba Pharmacy College,Tarsadi,Gujarat,"2022,2023",IR-P-I-1248,Maliba Pharmacy College
+I-1256,Noida Institute of Engineering and Technology (Pharmacy Institute),Greater Noida,Uttar Pradesh,"2020,2021,2022,2023,2024,2025",IR-P-I-1256,Noida Institute of Engineering And Technology (Pharmacy Institute) | Noida Institute of Engineering and Technology (Pharmacy Institute)
+I-1262,Sri Ramakrishna Institute of Paramedical Sciences,Coimbatore,Tamil Nadu,"2019,2020",IR-P-I-1262,Sri Ramakrishna Institute of Paramedical Sciences
+I-1276,AISSMS College of Pharmacy,Pune,Maharashtra,"2017,2022,2023,2024",IR-P-I-1276 | IR17-PHRM-1-17746,AISSMS College of Pharmacy
+I-1280,Maharshi Dayanand University,Rohtak,Haryana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-I-1280 | IR-O-I-1280 | IR-P-I-1280 | IR17-PHRM-1-17868,"Department of Pharmaceutical Sciences, Maharshi Dayanand University, Rohtak. | Maharshi Dayanand University"
+I-1289,Acharya Nagarjuna University College of Pharmaceutical Sciences,Guntur,Andhra Pradesh,"2017,2019,2020,2022,2023,2024,2025",IR-P-I-1289 | IR17-PHRM-1-18020,Acharya Nagarjuna University College of Pharmaceutical Sciences
+I-1291,Damodaram Sanjivayya National Law University,Visakhapatnam,Andhra Pradesh,"2021,2024",IR-L-I-1291,Damodaram Sanjivayya National Law University
+I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts and Science,Coimbatore,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-I-1293 | IR-C-I-1293,Sri Ramakrishna Mission Vidyalaya College of Arts & Science | Sri Ramakrishna Mission Vidyalaya College of Arts and Science
+I-1317,Rama Krishna Mission Vivekananda Centenary College,Kolkata,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-I-1317 | IR-C-I-1317 | IR17-COLL-1-20038,Rama Krishna Mission Vivekananda Centenary College
+I-1322,St. Joseph's College,Thrissur,Kerala,"2017,2018,2024,2025",IR-1-C-C-C-8106 | IR-C-I-1322 | IR17-COLL-1-20138,St. Joseph's College
+I-1325,"Shri B.M.Patil Medical College, Hospital & Research Centre",Vijayapura,Karnataka,2021,IR-D-I-1325,"Shri B.M.Patil Medical College, Hospital & Research Centre"
+I-1335,Dr D Y Patil Institute of Pharmaceutical Sciences and Research,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-I-1335 | IR-P-I-1335 | IR17-PHRM-1-22444,DR D Y Patil Institute of Pharmaceutical Sciences and Research | Dr D Y Patil Institute of Pharmaceutical Sciences and Research | Dr D.Y.Patil Institute of Pharmaceutical Sciences and Research | Dr. D. Y. Patil Institute of Pharmaceutical Sciences & Research | Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research | Padmashree Dr D Y Patil Institute of Pharmaceutical Sciences and Research | Padmashree Dr. D. Y. Patil Institute of Pharmaceutical Sciences and Research
+I-1339,MVP Samaj's College of Pharmacy,Nashik,Maharashtra,"2017,2019",IR-P-I-1339 | IR17-PHRM-1-23151,MVP Samaj's College of Pharmacy
+I-1356,Rabindranath Tagore University,Raisen,Madhya Pradesh,"2021,2022",IR-E-I-1356,Rabindranath Tagore University
+I-1357,University of Madras,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-I-1357 | IR-O-I-1357 | IR17-I-2-18341,University of Madras
+I-1361,Bharati Vidyapeeth,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-I-1361 | IR-O-I-1361 | IR17-I-2-18580,Bharati Vidyapeeth
+I-1373,Goswami Ganesh Dutta S.D. College,Chandigarh,Chandigarh,"2017,2018,2019,2024,2025",IR-1-C-C-I-1373 | IR-C-I-1373 | IR17-COLL-2-19095,Goswami Ganesh Dutta S.D. College | Goswami Ganesh Dutta Sanatan Dharma College
+I-1385,Fergusson College (Autonomous),Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-C-OC-I-1385 | IR-C-I-1385 | IR17-COLL-2-19281,Fergusson College | Fergusson College (Autonomous) | Ferugusson College(Autonomous)
+I-1408,IMI Kolkata,Kolkata,West Bengal,"2017,2019,2020,2021,2022,2023,2024,2025",IR-M-I-1408 | IR17-MGMT-1-2811862299,"IMI Kolkata | Intenational Management Institute, Kolkata | International Management Institute | International Management Institute Kolkata | International Management Institute, Kolkata"
+I-1409,University College of Medical Sciences,Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-3-D-ODP-I-1409 | IR-D-I-1409,University College of Medical Sciences
+I-1441,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-O-OD-I-1441 | IR-D-I-1441 | IR-E-I-1441 | IR-L-I-1441 | IR-M-I-1441 | IR-N-I-1441 | IR-O-I-1441 | IR-R-I-1441 | IR17-I-2-18474,Saveetha Institute of Medical and Technical Sciences
+I-1450,"AU College of Pharmaceutical Sciences, Andhra University",Visakhapatnam,Andhra Pradesh,"2018,2019,2020,2021,2023,2024,2025",IR-1-P-P-I-1450 | IR-P-I-1450,"AU College of Pharmaceutical Sciences | AU College of Pharmaceutical Sciences, Andhra University"
+I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),Patiala,Punjab,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-EM-I-1480 | IR-2-O-EM-I-1480 | IR-E-I-1480 | IR-M-I-1480 | IR-O-I-1480 | IR-R-I-1480 | IR17-ENGG-2-1-2813959492 | IR17-I-2-1-2813959492,Thapar Institute of Engineering & Technology | Thapar Institute of Engineering and Technology | Thapar Institute of Engineering and Technology (Deemed-to-be-university) | Thapar University
+I-1486,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-D-ODP-I-1486 | IR-3-O-ODP-I-1486 | IR-3-P-ODP-I-1486 | IR-D-I-1486 | IR-N-I-1486 | IR-O-I-1486 | IR-P-I-1486 | IR17-I-2-1-661 | IR17-PHRM-2-1-661,Sri Ramachandra Institute of Higher Education And Research | Sri Ramachandra Institute of Higher Education and Research | Sri Ramachandra Medical College and Research Institute | Sri Ramachandra University
+N-0158,SCB Medical College and Hospital,Cuttack,Odisha,"2021,2022",IR-D-N-0158,SCB Medical College and Hospital
+N-10,SVKM's Narsee Monjee Institute of Management Studies,Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-6-M-OEMAPC-N-10 | IR-6-O-OEMAPC-N-10 | IR-6-P-OEMAPC-N-10 | IR-E-N-10 | IR-M-N-10 | IR-O-N-10 | IR-P-N-10 | IR17-I-2-18385 | IR17-MGMT-2-18385 | IR17-PHRM-2-18385,Narsee Monjee Institute of Management Studies -Mumbai | SVKM's Narsee Monjee Institute of Management Studies
+N-116,Pacific Dental College,Udaipur,Rajasthan,2020,IR-N-N-116,Pacific Dental College
+N-13,Galgotias College of Engineering & Technology,Greater Noida,Uttar Pradesh,2022,IR-E-N-13,Galgotias College of Engineering & Technology
+N-14,National Institute of Pharmaceutical Education and Research Ahmedabad,Gandhinagar,Gujarat,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-N-14 | IR-P-N-14,National Institute of Pharmaceutical Education and Research | National Institute of Pharmaceutical Education and Research Ahmedabad
+N-15,"All India Institute of Medical Sciences, Delhi",New Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-N-15 | IR-D-N-15 | IR-N-N-15 | IR-O-N-15 | IR-R-N-15,"All India Institute of Medical Sciences | All India Institute of Medical Sciences Delhi | All India Institute of Medical Sciences New Delhi | All India Institute of Medical Sciences, Delhi"
+N-153,Nair Hospital Dental College,Mumbai,Maharashtra,"2020,2021,2022,2023,2024,2025",IR-N-N-153,Nair Hospital Dental College
+N-16,Great Lakes Institute of Management,Chennai,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-N-16 | IR-M-N-16,Great Lakes Institute of Management
+N-17,Sawai Man Singh Medical College,Jaipur,Rajasthan,"2020,2021,2022,2023,2024,2025",IR-D-N-17 | IR-O-N-17,Sawai Man Singh Medical College
+N-18,Nalsar University of Law,Hyderabad,Telangana,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-L-L-N-18 | IR-L-N-18,NALSAR University of Law | Nalsar University of Law
+N-238,SDM College of Dental Sciences & Hospital,Dharwad,Karnataka,"2021,2022,2023,2024,2025",IR-N-N-238,SDM College of Dental Sciences & Hospital
+N-26,National Institute of Pharmaceutical Education and Research Raebareli,Lucknow,Uttar Pradesh,"2020,2021,2022,2023,2024,2025",IR-P-N-26,National Institute of Pharmaceutical Education and Research Raebareli
+N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Lucknow,Uttar Pradesh,"2019,2020,2021,2022,2023,2024,2025",IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences
+N-339,Gitam Dental College & Hospital,Vishakhapatnam,Andhra Pradesh,2022,IR-N-N-339,Gitam Dental College & Hospital
+N-34,Faculty of Management Studies,Delhi,Delhi,2019,IR-M-N-34,Faculty of Management Studies
+N-342,Vishnu Dental College,West Godavari,Andhra Pradesh,2021,IR-N-N-342,Vishnu Dental College
+N-352,SRM Dental College,Chennai,Tamil Nadu,"2020,2021,2022,2023,2024,2025",IR-N-N-352,SRM Dental College
+N-353,SRM Kattankulathur Dental College,Chennai,Tamil Nadu,"2024,2025",IR-N-N-353,SRM Kattankulathur Dental College
+N-354,Xavier Institute of Management (XIMB),Bhubaneswar,Odisha,2020,IR-M-N-354,Xavier Institute of Management (XIMB)
+N-4,Bharathidasan Institute of Management,Tiruchirappalli,Tamil Nadu,"2019,2022,2023,2024,2025",IR-M-N-4,Bharathidasan Institute of Management
+N-6,Queen Mary's College,Chennai,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-C-C-N-6 | IR-C-N-6,Queen Mary's College
+N-71,"Faculty of Dental Sciences, Institute of Medical Sciences",Varanasi,Uttar Pradesh,"2020,2021,2025",IR-N-N-71,"Faculty of Dental Sciences, Institute of Medical Sciences | Institute of Medical Sciences"
+N-73,Army College of Dental Sciences,Secunderabad,Telangana,"2020,2021,2023,2024",IR-N-N-73,Army College of Dental Sciences
+N-91,Sree Balaji Dental College & Hospital,Chennai,Tamil Nadu,"2021,2022,2025",IR-N-N-91,Sree Balaji Dental College & Hospital
+S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology,Kolkata,West Bengal,"2019,2020,2021,2022,2023,2024,2025",IR-P-S-10906,Guru Nanak Institute of Pharmaceutical Science & Technology | Guru Nanak Institute of Pharmaceutical Science and Technology
+S-132,XLRI - Xavier School of Management,Jamshedpur,Jharkhand,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-132 | IR-M-S-132 | IR17-MGMT-1-15637,XLRI - Xavier School of Management | XLRI-Xavier School of Management | Xavier Labour Relations Institute | Xavier Labour Relations Institute (XLRI)
+S-14553,National Institute of Agricultural Extension Management,Hyderabad,Telangana,"2023,2024,2025",IR-G-S-14553 | IR-M-S-14553,National Institute of Agricultural Extension Management
+S-14565,National Institute of Bank Management,Pune,Maharashtra,"2023,2024",IR-M-S-14565,National Institute of Bank Management
+S-14875,MICA,Ahmedabad,Gujarat,"2022,2023,2024,2025",IR-M-S-14875,MICA
+S-156,T. A. Pai Management Institute Manipal,Manipal,Karnataka,"2019,2020,2021,2022,2023,2024,2025",IR-M-S-156,"T. A. Pai Management Institute | T. A. Pai Management Institute Manipal | T. A. Pai Management Institute, Manipal"
+S-15911,Indian Institute of Management Sirmaur,Sirmaur,Himachal Pradesh,"2022,2023,2024,2025",IR-M-S-15911,Indian Institute of Management | Indian Institute of Management Sirmaur
+S-15962,Indian Institute of Management,Nagpur,Maharashtra,"2020,2021,2022,2023,2024,2025",IR-M-S-15962,Indian Institute of Management | Indian Institute of Management Nagpur
+S-164,Rajagiri Business School,Cochin,Kerala,"2022,2023,2024,2025",IR-M-S-164,Rajagiri Business School
+S-16881,"Indian Institute of Management, Amritsar",Amritsar,Punjab,"2021,2022,2023,2024,2025",IR-M-S-16881,"Indian Institute of Management Amritsar | Indian Institute of Management, Amritsar"
+S-17295,Great Lakes Institute of Management,Gurgaon,Haryana,"2022,2023,2024,2025",IR-M-S-17295,"Great Lakes Institute of Management | Great Lakes Institute of Management,Gurgaon"
+S-19472,Prin. L.N. Welingkar Institute of Management Development and Research (PGDM),Mumbai,Maharashtra,"2017,2024,2025",IR-M-S-19472 | IR17-MGMT-1-14004,Prin. L.N. Welingkar Institute of Management Development & Research | Prin. L.N. Welingkar Institute of Management Development and Research (PGDM)
+S-220,K.J.Somaiya Institute of Management,Mumbai,Maharashtra,"2019,2020,2021,2022,2025",IR-M-S-220,K. J. Somaiya Institute of Management Studies & Research | K.J.Somaiya Institute Of Management | K.J.Somaiya Institute of Management
+S-309,Jaipuria Institute of Management,Jaipur,Rajasthan,"2019,2021,2022,2023,2024,2025",IR-M-S-309,Jaipuria Institute of Management
+S-3283,Jaipuria Institute of Management,Noida,Uttar Pradesh,"2017,2019,2020,2021,2022,2023,2024,2025",IR-M-S-3283 | IR17-MGMT-1-1-2812648366,"Jaipuria Institute of Management | Jaipuria Institute of Management, Noida"
+S-331,Loyola Institute of Business Administration,Chennai,Tamil Nadu,"2018,2019,2020,2021,2022,2024,2025",IR-1-M-M-S-331 | IR-M-S-331,Loyola Institute of Business Administration
+S-354,Birla Institute of Management Technology,Greater Noida,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-354 | IR-M-S-354 | IR17-MGMT-1-1-2812588086,Birla Institute of Management Technology
+S-394,Institute of Management Technology,Ghaziabad,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-394 | IR-M-S-394 | IR17-MGMT-1-1-2812245434,"Institute of Management Technology | Institute of Management Technology, Ghaziabad"
+S-419,"Jaipuria Institute of Management, Lucknow",Lucknow,Uttar Pradesh,"2019,2020,2021,2022,2023,2024,2025",IR-M-S-419,"Jaipuria Institute of Management | Jaipuria Institute of Management, Lucknow | Jaipuria Isntitute of Management"
+S-58036,National Institute Of Pharmaceutical Education And Research Hajipur,Hajipur,Bihar,"2022,2023,2024,2025",IR-P-S-58036,National Institute Of Pharmaceutical Education And Research Hajipur | National Institute of Pharmaceutical Education And Research Hajipur
+S-6,Indian Institute of Management Sambalpur,Sambalpur,Odisha,"2021,2022,2023,2024,2025",IR-M-S-6,Indian Institute of Management Sambalpur
+S-78,New Delhi Institute of Management,New Delhi,Delhi,"2023,2024,2025",IR-M-C-32887 | IR-M-S-78,New Delhi Institute Of Management | New Delhi Institute of Management
+S-782,Jagan Institute of Management Studies Technical Campus,Delhi,Delhi,2024,IR-M-S-782,Jagan Institute of Management Studies Technical Campus
+S-87,Goa Institute of Management,Sanquelim,Goa,"2017,2019,2020,2021,2022,2023,2024,2025",IR-M-S-87 | IR17-MGMT-1-15450,GOA Institute of Management | Goa Institute of Management
+S-8868,Indian Institute of Management Raipur,Raipur,Chhattisgarh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8868 | IR-M-S-8868 | IR17-MGMT-1-1-348,Indian Institute of Management Raipur
+S-8890,Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8890 | IR-M-S-8890 | IR17-I-1-18698 | IR17-MGMT-1-18698,Indian Institute of Management Ahmedabad
+S-8895,Indian Institute of Management Rohtak,Rohtak,Haryana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8895 | IR-M-S-8895 | IR17-MGMT-1-1-350,Indian Institute of Management Rohtak
+S-8898,"National Institute of Food Technology, Enterprenurship & Management",Sonipat,Haryana,"2019,2020,2021,2022,2023,2024,2025",IR-E-S-8898 | IR-G-S-8898,"National Institute of Food Technology, Enterprenurship & Management | National Institute of Food Technology, Enterprenurship and Management | National Institute of Food Technology, Entrepreneurship & Management"
+S-8903,Indian Institute of Management Bangalore,Bengaluru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8903 | IR-M-S-8903 | IR17-I-1-1-217 | IR17-MGMT-1-1-217,Indian Institute of Management Bangalore
+S-8904,Indian Institute of Management Ranchi,Ranchi,Jharkhand,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8904 | IR-M-S-8904 | IR17-MGMT-1-1-349,Indian Institute of Management Ranchi
+S-8909,Indian Institute of Management Kozhikode,Kozhikode,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8909 | IR-M-S-8909 | IR-O-S-8909 | IR17-I-1-18703 | IR17-MGMT-1-18703,Indian Institute of Management Kozhikode
+S-8918,Indian Institute of Management Indore,Indore,Madhya Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8918 | IR-M-S-8918 | IR17-MGMT-1-1-231,Indian Institute of Management Indore
+S-8931,"Indian Institute of Management, Mumbai",Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-E-OEM-S-8931 | IR-3-M-OEM-S-8931 | IR-E-S-8931 | IR-M-S-8931 | IR17-ENGG-2-1-NEW5 | IR17-MGMT-2-1-NEW5,"Indian Institute of Management Mumbai | Indian Institute of Management, Mumbai | National Institute of Industrial Engineering | National Institute of Industrial Engineering, Mumbai"
+S-8937,Indian Institute of Management Shillong,Shillong,Meghalaya,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8937 | IR-M-S-8937 | IR17-I-1-18710 | IR17-MGMT-1-18710,Indian Institute of Management Shillong | Rajiv Gandhi Indian Institute of Management
+S-8942,Indian Institute of Management Udaipur,Udaipur,Rajasthan,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-M-OM-S-8942 | IR-M-S-8942 | IR17-I-1-18709 | IR17-MGMT-1-18709,Indian Institute of Management Udaipur
+S-8948,Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8948 | IR-M-S-8948 | IR17-I-1-1-18708 | IR17-MGMT-1-1-18708,Indian Institute of Management Tiruchirappalli
+S-8959,Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8959 | IR-M-S-8959 | IR17-I-1-18704 | IR17-MGMT-1-18704,Indian Institute of Management Lucknow
+S-8967,Indian Institute of Management Kashipur,Kashipur,Uttarakhand,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8967 | IR-M-S-8967 | IR17-I-1-1-347 | IR17-MGMT-1-1-347,Indian Institute of Management Kashipur
+S-8972,Indian Institute of Management Calcutta,Kolkata,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-8972 | IR-1-O-M-S-8972 | IR-M-S-8972 | IR-O-S-8972 | IR17-I-1-18700 | IR17-MGMT-1-18700,Indian Institute of Management Calcutta
+S-92,Institute of Rural Management Anand,Anand,Gujarat,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-S-92 | IR-M-S-92 | IR17-MGMT-1-1-2813047178,Institute of Rural Management | Institute of Rural Management Anand | Institute of Rural Management Anand (IRMA)
+U-0001,Dr Y S R Horticulture University,West Godavari,Andhra Pradesh,2025,IR-G-U-0001,Dr Y S R Horticulture University
+U-0003,Acharya Nagarjuna University,Guntur,Andhra Pradesh,"2024,2025",IR-O-U-0003,Acharya Nagarjuna University
+U-0004,"Acharya NG Ranga Agricultural University, Guntur",Guntur,Andhra Pradesh,"2023,2024,2025",IR-G-U-0004,"Acharya N G Ranga Agricultural University | Acharya NG Ranga Agricultural University, Guntur"
+U-0006,"Andhra University, Visakhapatnam",Visakhapatnam,Andhra Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-6-O-OEMALP-U-0006 | IR-O-U-0006 | IR17-ENGG-2-1-31 | IR17-I-2-1-31 | IR17-PHRM-2-1-31,"Andhra University | Andhra University, Visakhapatnam"
+U-0011,Gandhi Institute of Technology And Management (GITAM),Visakhapatnam,Andhra Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0011 | IR-A-U-0011 | IR-E-U-0011 | IR-L-U-0011 | IR-O-U-0011 | IR-P-U-0011 | IR17-I-2-1-2812182676,Gandhi Institute of Technology And Management (GITAM) | Gandhi Institute of Technology and Management | Gandhi Institute of Technology and Management (GITAM)
+U-0012,"ICFAI Foundation for Higher Education, Hyderabad",Hyderabad,Telangana,"2018,2019,2020,2021,2022,2023,2024,2025",IR-2-M-OM-U-0012 | IR-L-U-0012 | IR-M-U-0012,"ICFAI Foundation for Higher Education | ICFAI Foundation for Higher Education, Hyderabad"
+U-0013,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0013 | IR-2-O-OE-U-0013 | IR-E-U-0013 | IR-I-U-0013 | IR-O-U-0013 | IR-R-U-0013 | IR17-ENGG-2-1-345 | IR17-I-2-1-345,Indian Institute of Technology Hyderabad
+U-0014,International Institute of Information Technology Hyderabad,Hyderabad,Telangana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0014 | IR-1-O-E-U-0014 | IR-E-U-0014 | IR-O-U-0014 | IR17-ENGG-1-1-2812988445,International Institute of Information Technology | International Institute of Information Technology Hyderabad
+U-0015,Jawaharlal Nehru Technological University,Kakinada,Andhra Pradesh,"2017,2022",IR-E-U-0015 | IR17-I-1-18289,Jawaharlal Nehru Technological University
+U-0017,Jawaharlal Nehru Technological University,Hyderabad,Telangana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0017 | IR-E-U-0017 | IR-O-U-0017 | IR17-ENGG-1-18288,Jawaharlal Nehru Technological University
+U-0019,Kakatiya University,"Hanamkonda, Warangal",Telangana,"2021,2022,2023,2024",IR-P-U-0019,Kakatiya University
+U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),Vaddeswaram,Andhra Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-EM-U-0020 | IR-2-M-EM-U-0020 | IR-2-O-EM-U-0020 | IR-E-U-0020 | IR-M-U-0020 | IR-O-U-0020 | IR17-ENGG-1-11519,Koneru Lakshmaiah Education Foundation University | Koneru Lakshmaiah Education Foundation University (K L College of Engineering)
+U-0025,National Institute of Technology Warangal,Warangal,Telangana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0025 | IR-2-O-OE-U-0025 | IR-E-U-0025 | IR-M-U-0025 | IR-O-U-0025 | IR17-ENGG-2-18622 | IR17-I-2-18622,National Institute of Technology Warangal
+U-0027,Osmania University,Hyderabad,Telangana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0027 | IR-O-U-0027 | IR17-I-2-18414,Osmania University
+U-0034,Sri Padmavathi Mahila Visvavidyalayam,Tirupati,Andhra Pradesh,"2019,2020,2021,2022,2023,2024,2025",IR-P-U-0034,Sri Padmavathi Mahila Visva Vidyalayam | Sri Padmavathi Mahila Visvavidyalayam
+U-0035,Sri Sathya Sai Institute of Higher Learning,Anantapur,Andhra Pradesh,"2017,2018,2020",IR-1-O-O-U-0035 | IR-O-U-0035 | IR17-I-2-1-663,Sri Sathya Sai Institute of Higher Learning
+U-0036,Sri Venkateswara Institute of Medical Sciences,Tirupati,Andhra Pradesh,"2018,2019,2020",IR-1-O-D-U-0036 | IR-D-U-0036 | IR-O-U-0036,Sri Venkateswara Institute of Medical Sciences
+U-0037,Sri Venkateswara University,Tirupati,Andhra Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0037 | IR-2-O-OE-U-0037 | IR-E-U-0037 | IR-O-U-0037 | IR-P-U-0037 | IR17-ENGG-2-1-668 | IR17-I-2-1-668,Sri Venkateswara University
+U-0039,Sri Venkateswara Veterinary University,Tirupati,Andhra Pradesh,"2017,2023,2024",IR-G-U-0039 | IR17-I-2-1-670,Sri Venkateswara Veterinary University
+U-0042,University of Hyderabad,Hyderabad,Telangana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0042 | IR-E-U-0042 | IR-M-U-0042 | IR-O-U-0042 | IR-R-U-0042 | IR17-I-2-1-2813521158,University of Hyderabad
+U-0043,"Vignan's Foundation for Science, Technology and Research",Guntur,Andhra Pradesh,"2017,2019,2020,2021,2022,2023,2024,2025",IR-E-U-0043 | IR-O-U-0043 | IR17-ENGG-1-18575,"Vignan's Foundation for Science, Technology & Research | Vignan's Foundation for Science, Technology and Research"
+U-0046,North Eastern Regional Institute of Science & Technology,Itanagar,Arunachal Pradesh,"2019,2020,2021",IR-E-U-0046,North Eastern Regional Institute of Science & Technology
+U-0047,Rajiv Gandhi University,Itanagar,Arunachal Pradesh,"2017,2019",IR-O-U-0047 | IR17-I-2-18449,Rajiv Gandhi University
+U-0048,"Assam Agricultural University, Jorhat",Jorhat,Assam,"2023,2024,2025",IR-G-U-0048,"Assam Agricultural University | Assam Agricultural University, Jorhat"
+U-0050,Assam University-Silchar,Silchar,Assam,"2017,2018,2019,2021,2025",IR-1-O-O-U-0050 | IR-O-U-0050 | IR-P-U-0050 | IR17-I-2-277952,Assam University | Assam University-Silchar
+U-0051,Dibrugarh University,Dibrugarh,Assam,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0051 | IR-O-U-0051 | IR-P-U-0051 | IR17-I-2-1-159,Dibrugarh University
+U-0052,Gauhati University,Guwahati,Assam,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0052 | IR-O-U-0052 | IR17-I-2-30702,Gauhati University
+U-0053,Indian Institute of Technology Guwahati,Guwahati,Assam,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0053 | IR-2-O-OE-U-0053 | IR-E-U-0053 | IR-O-U-0053 | IR-R-U-0053 | IR17-ENGG-2-1-251 | IR17-I-2-1-251,Indian Institute of Technology Guwahati
+U-0055,National Institute of Technology Silchar,Silchar,Assam,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0055 | IR-E-U-0055 | IR-O-U-0055 | IR-R-U-0055 | IR17-ENGG-1-18612,"National Institute of Technology Silchar | National Institute of Technology, Silchar"
+U-0056,Tezpur University,Tezpur,Assam,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0056 | IR-E-U-0056 | IR-M-U-0056 | IR-O-U-0056 | IR17-I-2-10563 | IR17-MGMT-2-10563,Tezpur University
+U-0060,Bihar Agriculture University,Bhagalpur,Bihar,"2024,2025",IR-G-U-0060,Bihar Agriculture University
+U-0062,Central University of South Bihar,Gaya,Bihar,2025,IR-L-U-0062 | IR-P-U-0062,Central University of South Bihar
+U-0063,Chanakya National Law University,Patna,Bihar,"2024,2025",IR-L-U-0063,Chanakya National Law University
+U-0064,Indian Institute of Technology Patna,Patna,Bihar,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0064 | IR-2-O-OE-U-0064 | IR-E-U-0064 | IR-O-U-0064 | IR-R-U-0064 | IR17-ENGG-2-1-344 | IR17-I-2-1-344,"Indian Institute of Technology Patna | Indian Institute of Technology, Patna"
+U-0072,National Institute of Technology Patna,Patna,Bihar,"2019,2020,2021,2022,2023,2024,2025",IR-A-U-0072 | IR-E-U-0072,"National Institute of Technology Patna | National Institute of Technology, Patna"
+U-0075,"Dr Rajendra Prasad Central Agricultural University, Samastipur",Samastipur,Bihar,"2023,2024,2025",IR-G-U-0075,"Dr Rajendra Prasad Central Agricultural University | Dr Rajendra Prasad Central Agricultural University, Samastipur"
+U-0078,Panjab University,Chandigarh,Chandigarh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-6-D-OEMLDP-U-0078 | IR-6-E-OEMLDP-U-0078 | IR-6-M-OEMLDP-U-0078 | IR-6-O-OEMLDP-U-0078 | IR-6-P-OEMLDP-U-0078 | IR-E-U-0078 | IR-L-U-0078 | IR-M-U-0078 | IR-N-U-0078 | IR-O-U-0078 | IR-P-U-0078 | IR-R-U-0078 | IR17-I-2-1-2814248400 | IR17-PHRM-2-18023,Panjab University | University Institute of Pharmaceutical Sciences
+U-0079,Post Graduate Institute of Medical Education and Research,Chandigarh,Chandigarh,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-U-0079 | IR-D-U-0079 | IR-O-U-0079,Post Graduate Institute of Medical Education and Research
+U-0080,"Punjab Engineering College (Deemed to be University), Chandigarh",Chandigarh,Chandigarh,"2017,2018,2019,2020,2021,2022",IR-1-E-E-U-0080 | IR-E-U-0080 | IR17-ENGG-1-1-556,"PEC University of Technology | Punjab Engineering College | Punjab Engineering College (Deemed To Be University) | Punjab Engineering College (Deemed to be University), Chandigarh"
+U-0085,Guru Ghasidas Vishwavidyalaya,Bilaspur (Chhattisgarh),Chhattisgarh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-5-P-OEMLP-U-0085 | IR-P-U-0085 | IR17-PHRM-2-18215,Guru Ghasidas Vishwavidyalaya
+U-0087,"Indira Gandhi Krishi Vishwavidyalaya, Raipur",Raipur,Chhattisgarh,"2024,2025",IR-G-U-0087,"Indira Gandhi Krishi Vishwavidyalaya | Indira Gandhi Krishi Vishwavidyalaya, Raipur"
+U-0092,"National Institute of Technology, Raipur",Raipur,Chhattisgarh,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0092 | IR-A-U-0092 | IR-E-U-0092,"National Institute of Technology Raipur | National Institute of Technology, Raipur"
+U-0093,Pt. Ravishankar Shukla University,Raipur,Chhattisgarh,"2018,2019,2020,2021,2022",IR-2-P-OP-U-0093 | IR-P-U-0093,Pt. Ravishankar Shukla University
+U-0098,Delhi Technological University,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0098 | IR-2-O-OE-U-0098 | IR-E-U-0098 | IR-O-U-0098 | IR17-ENGG-2-12907,Delhi Technological University
+U-0099,Guru Gobind Singh Indraprastha University,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-5-E-OEMAL-U-0099 | IR-5-O-OEMAL-U-0099 | IR-A-U-0099 | IR-E-U-0099 | IR-L-U-0099 | IR-M-U-0099 | IR-O-U-0099 | IR17-ENGG-2-12969 | IR17-I-2-12969 | IR17-MGMT-2-12969,Guru Gobind Singh Indraprastha University
+U-0101,Indian Agricultural Research Institute,New Delhi,Delhi,"2017,2023,2024,2025",IR-B-U-0101 | IR-G-U-0101 | IR-O-U-0101 | IR-R-U-0101 | IR17-I-2-1-243,Indian Agricultural Research Institute
+U-0102,Indian Institute of Foreign Trade,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-M-M-U-0102 | IR-M-U-0102 | IR17-MGMT-1-18239,Indian Institute of Foreign Trade
+U-0103,Indian Law Institute,New Delhi,Delhi,"2019,2020,2021,2022,2023,2024",IR-L-U-0103,Indian Law Institute
+U-0104,Indira Gandhi National Open University (IGNOU),New Delhi,Delhi,"2024,2025",IR-V-U-0104,Indira Gandhi National Open University (IGNOU)
+U-0105,Indraprastha Institute of Information Technology,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0105 | IR-E-U-0105 | IR-O-U-0105 | IR17-ENGG-1-18257,"Indraprastha Institute of Information Technology | Indraprastha Institute of Information Technology Delhi | Indraprastha Institute of Information Technology, Delhi | Indraprastha Institute of Information Technology-New Delhi (IIIT New Delhi, Delhi)"
+U-0106,Institute of Liver and Biliary Sciences,New Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-U-0106 | IR-D-U-0106,Institute of Liver and Biliary Sciences
+U-0107,Jamia Hamdard,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-5-D-OEMDP-U-0107 | IR-5-O-OEMDP-U-0107 | IR-5-P-OEMDP-U-0107 | IR-D-U-0107 | IR-M-U-0107 | IR-O-U-0107 | IR-P-U-0107 | IR17-I-2-17784 | IR17-PHRM-2-17784,Jamia Hamdard
+U-0108,Jamia Millia Islamia,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-5-A-OEMAL-U-0108 | IR-5-E-OEMAL-U-0108 | IR-5-L-OEMAL-U-0108 | IR-5-M-OEMAL-U-0108 | IR-5-O-OEMAL-U-0108 | IR-A-U-0108 | IR-B-U-0108 | IR-E-U-0108 | IR-L-U-0108 | IR-M-U-0108 | IR-N-U-0108 | IR-O-U-0108 | IR-R-U-0108 | IR17-ENGG-1-10356 | IR17-I-2-1-2814289415,"Jamia Millia Islamia | Jamia Millia Islamia, New Delhi | Jamia Millia Islamia,New Delhi"
+U-0109,Jawaharlal Nehru University,New Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0109 | IR-B-U-0109 | IR-O-U-0109 | IR-R-U-0109 | IR17-I-2-1-319,Jawaharlal Nehru University
+U-0111,National Law University,New Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-L-L-U-0111 | IR-L-U-0111,National Law University
+U-0116,School of Planning and Architecture New Delhi,New Delhi,Delhi,"2018,2019,2020,2021,2022,2023,2024,2025",IR-3-A-OEA-U-0116 | IR-A-U-0116,"School of Planning and Architecture | School of Planning and Architecture New Delhi | School of Planning and Architecture, New Delhi"
+U-0120,University of Delhi,Delhi,Delhi,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0120 | IR-O-U-0120 | IR-R-U-0120 | IR17-I-2-18552,University of Delhi
+U-0121,Goa University,Goa,Goa,"2017,2018,2019,2020,2021",IR-1-O-O-U-0121 | IR-O-U-0121 | IR17-I-2-18200,Goa University | Goa University-Goa
+U-0123,Anand Agricultural University,Anand,Gujarat,"2017,2018,2019,2023,2024,2025",IR-1-O-O-U-0123 | IR-G-U-0123 | IR-O-U-0123 | IR17-I-2-18276,Anand Agricultural University
+U-0127,Centre for Environmental Planning and Technology University,Ahmedabad,Gujarat,"2020,2021,2023,2024,2025",IR-A-U-0127,Centre for Environmental Planning and Technology University
+U-0129,Dharmsinh Desai University,Nadiad,Gujarat,2020,IR-E-U-0129,Dharmsinh Desai University
+U-0130,Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar,Gujarat,"2017,2019,2020,2021,2022",IR-E-U-0130 | IR17-ENGG-1-18173,Dhirubhai Ambani Institute of Information and Communication Technology
+U-0131,Dr. Babasaheb Ambedkar Open University,Ahmedabad,Gujarat,2024,IR-V-U-0131,Dr. Babasaheb Ambedkar Open University
+U-0134,Gujarat National Law University,Gandhinagar,Gujarat,"2019,2020,2021,2022,2023,2024,2025",IR-L-U-0134,Gujarat National Law University
+U-0135,Gujarat Technological University,Ahmedabad,Gujarat,"2023,2024,2025",IR-P-U-0135,Gujarat Technological University
+U-0136,Gujarat University,Ahmedabad,Gujarat,"2020,2021,2022,2023,2024,2025",IR-M-U-0136 | IR-O-U-0136,Gujarat University
+U-0139,Indian Institute of Technology Gandhinagar,Gandhinagar,Gujarat,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0139 | IR-2-O-OE-U-0139 | IR-E-U-0139 | IR-O-U-0139 | IR-R-U-0139 | IR17-ENGG-1-18628 | IR17-I-1-18628,"Indian Institute of Technology Gandhinagar | Indian Institute of Technology, Gandhinagar"
+U-0140,Junagadh Agricultural University,Junagadh,Gujarat,2023,IR-G-U-0140,Junagadh Agricultural University
+U-0143,Maharaja Sayajirao University of Baroda,Vadodara,Gujarat,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-6-P-OEMADP-U-0143 | IR-E-U-0143 | IR-O-U-0143 | IR-P-U-0143 | IR17-ENGG-1-17931,"Faculty of Technology & Engineering, The Maharaja Sayajirao University of Baroda | Maharaja Sayajirao University of Baroda"
+U-0145,Navsari Agricultural University,Navsari,Gujarat,"2024,2025",IR-G-U-0145,Navsari Agricultural University
+U-0146,Nirma University,Ahmedabad,Gujarat,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0146 | IR-A-U-0146 | IR-E-U-0146 | IR-L-U-0146 | IR-M-U-0146 | IR-P-U-0146 | IR17-ENGG-2-18406 | IR17-I-2-18406 | IR17-MGMT-2-18406 | IR17-PHRM-2-18406,Nirma University
+U-0147,Pandit Deendayal Energy University,Gandhinagar,Gujarat,"2020,2021,2022,2023,2024,2025",IR-E-U-0147 | IR-M-U-0147 | IR-O-U-0147,Pandit Deendayal Energy University | Pandit Deendayal Petroleum University
+U-0149,Sardar Vallabhbhai National Institute of Technology,SURAT,Gujarat,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0149 | IR-E-U-0149 | IR-O-U-0149 | IR17-ENGG-1-18659,Sardar Vallabhbhai National Institute of Technology
+U-0155,"Amity University Haryana, Gurgaon","Gurugram, Haryana",Haryana,"2022,2023,2024,2025",IR-E-U-0155 | IR-L-U-0155 | IR-M-U-0155 | IR-O-U-0155 | IR-P-U-0155,"Amity University Haryana, Gurgaon"
+U-0159,Chaudhary Charan Singh Haryana Agricultural University,Hisar,Haryana,"2018,2019,2023,2024,2025",IR-1-O-O-U-0159 | IR-G-U-0159 | IR-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University
+U-0162,"Guru Jambheshwar University of Science and Technology, Hissar",Hisar,Haryana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-P-OP-U-0162 | IR-E-U-0162 | IR-M-U-0162 | IR-O-U-0162 | IR-P-U-0162 | IR17-PHRM-2-1-216,"Guru Jambeshwar University of Science and Technology | Guru Jambheshwar University of Science and Technology | Guru Jambheshwar University of Science and Technology, Hissar"
+U-0163,The Northcap University,Gurugram,Haryana,"2019,2020,2021,2022",IR-E-U-0163,The Northcap University
+U-0164,Kurukshetra University,Kurukshetra,Haryana,"2017,2018,2019,2020,2022,2024,2025",IR-5-O-OEMLP-U-0164 | IR-O-U-0164 | IR-P-U-0164 | IR17-I-2-1-373,Kurukshetra University
+U-0165,Lala lajpat Rai University of Veterinary and Animal Sciences,Hisar,Haryana,"2023,2024,2025",IR-G-U-0165,Lala lajpat Rai University of Veterinary and Animal Sciences
+U-0168,Maharishi Markandeshwar,Ambala,Haryana,"2019,2020,2021,2022,2023,2024,2025",IR-D-U-0168 | IR-E-U-0168 | IR-N-U-0168 | IR-O-U-0168 | IR-P-U-0168,Maharishi Markandeshwar | Maharishi Markandeshwar (Deemed to be University)
+U-0169,Manav Rachna International Institute of Research & Studies,Faridabad,Haryana,"2019,2020,2021,2022,2024,2025",IR-E-U-0169 | IR-N-U-0169 | IR-O-U-0169,Manav Rachna International Institute of Research & Studies | Manav Rachna International Institute of Research and Studies | ManavRachna International Institute of Research & Studies
+U-0171,ICAR - National Dairy Research Institute,Karnal,Haryana,"2023,2024,2025",IR-G-U-0171,ICAR - National Dairy Research Institute
+U-0172,National Institute of Technology Kurukshetra,Kurukshetra,Haryana,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0172 | IR-E-U-0172 | IR17-ENGG-1-1-144,National Institute of Technology Kurukshetra
+U-0175,"J. C. Bose University of Science and Technology, YMCA",Faridabad,Haryana,"2019,2020,2021,2022",IR-E-U-0175,"J. C. Bose University of Science and Technology, YMCA | YMCA University of Science & Tech | YMCA University of Science & Tech (Formerely YMCA Institute of Engineering) | YMCA University of Science and Technology"
+U-0179,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya,Kangra,Himachal Pradesh,"2023,2024,2025",IR-G-U-0179,Chaudhary Sarwan Kumar Himachal Pardesh Krishi Vishvavidyalaya
+U-0181,Dr. Y.S. Parmar University of Horticulture and Forestry,Solan,Himachal Pradesh,"2017,2018,2019,2023,2024,2025",IR-1-O-O-U-0181 | IR-G-U-0181 | IR-O-U-0181 | IR17-I-2-1-178,"Dr. Y. S. Parmar University of Horticulture and Forestry | Dr. Y.S. Parmar University of Horticulture and Forestry | Dr. Y.S. Parmar University of Horticulture and Forestry, Solan | Dr. Y.S.Parmar University of Horticulture & Forestry"
+U-0184,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0184 | IR-E-U-0184 | IR-I-U-0184 | IR-O-U-0184 | IR-R-U-0184 | IR17-ENGG-2-18639 | IR17-I-2-18639,"Indian Institute of Technology Mandi | Indian Institute of Technology, Mandi"
+U-0186,Jaypee University of Information Technology,Solan,Himachal Pradesh,"2017,2018,2019,2020,2021,2022",IR-2-E-OE-U-0186 | IR-E-U-0186 | IR17-ENGG-2-18296 | IR17-I-2-18296,Jaypee University of Information Technology | Jaypee University of Information Technology-Solan
+U-0189,National Institute of Technology Hamirpur,Hamirpur,Himachal Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-A-OEA-U-0189 | IR-3-E-OEA-U-0189 | IR-A-U-0189 | IR-E-U-0189 | IR17-ENGG-2-18615,"National Institute of Technology Hamirpur | National Institute of Technology, Hamirpur"
+U-0190,Shoolini University of Biotechnology and Management Sciences,Solan,Himachal Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-4-P-OEMP-U-0190 | IR-E-U-0190 | IR-M-U-0190 | IR-O-U-0190 | IR-P-U-0190 | IR17-PHRM-2-1-629,Shoolini University of Biotechnology and Management Sciences | Shoolini University of Biotechnology and Management Sciences-Solan
+U-0195,University of Jammu,Jammu,Jammu and Kashmir,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-O-OML-U-0195 | IR-M-U-0195 | IR-O-U-0195 | IR17-I-2-1-2809340824,University of Jammu
+U-0196,University of Kashmir,Srinagar,Jammu and Kashmir,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0196 | IR-O-U-0196 | IR17-I-2-1-351,University of Kashmir
+U-0197,National Institute of Technology Srinagar,Srinagar,Jammu and Kashmir,"2021,2022,2023,2024,2025",IR-E-U-0197,National Institute of Technology Srinagar
+U-0199,Sher-e-Kashmir University of Agricultural Science and Technology of Jammu,Jammu,Jammu and Kashmir,"2024,2025",IR-G-U-0199,Sher-e-Kashmir University of Agricultural Science and Technology of Jammu
+U-0200,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,Srinagar,Jammu and Kashmir,"2023,2024,2025",IR-G-U-0200 | IR-O-U-0200,"Sher-e-Kashmir University of Agricultural Science & Technology of Kashmir, Srinagar | Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir"
+U-0201,Shri Mata Vaishno Devi University,Katra,Jammu and Kashmir,"2018,2019,2020,2021,2022,2023,2024,2025",IR-4-E-OEMA-U-0201 | IR-A-U-0201 | IR-E-U-0201,Shri Mata Vaishno Devi University
+U-0202,Birla Institute of Technology,Ranchi,Jharkhand,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-5-E-OEMAP-U-0202 | IR-5-M-OEMAP-U-0202 | IR-5-O-OEMAP-U-0202 | IR-5-P-OEMAP-U-0202 | IR-A-U-0202 | IR-E-U-0202 | IR-M-U-0202 | IR-O-U-0202 | IR-P-U-0202 | IR17-ENGG-2-1-2811781771 | IR17-PHRM-2-1-2811781771,Birla Institute of Technology
+U-0205,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0205 | IR-2-O-OE-U-0205 | IR-E-U-0205 | IR-M-U-0205 | IR-O-U-0205 | IR-R-U-0205 | IR17-ENGG-1-18632 | IR17-I-1-18632,Indian Institute of Technology (Indian School of Mines) | Indian Institute of Technology (Indian School of Mines) Dhanbad
+U-0207,"National Institute of Technology, Jamshedpur",Jamshedpur,Jharkhand,"2019,2020,2021,2022,2025",IR-E-U-0207,"National Institute of Technology Jamshedpur | National Institute of Technology, Jamshedpur"
+U-0213,Alliance University,Bengaluru,Karnataka,"2019,2020,2021,2022,2023,2024,2025",IR-E-U-0213 | IR-L-U-0213 | IR-M-U-0213,Alliance University
+U-0215,Bangalore University,Bengaluru,Karnataka,"2020,2021,2022,2024,2025",IR-O-U-0215,Bangalore University
+U-0217,Christ University,Bengaluru,Karnataka,"2020,2021,2022,2023,2024,2025",IR-A-U-0217 | IR-E-U-0217 | IR-L-U-0217 | IR-M-U-0217 | IR-O-U-0217,Christ University
+U-0220,Indian Institute of Science,Bengaluru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0220 | IR-I-U-0220 | IR-O-U-0220 | IR-R-U-0220 | IR17-I-2-18243,"Indian Institute of Science | Indian Institute of Science Bangalore | Indian Institute of Science, Bengaluru"
+U-0221,International Institute of Information Technology Bangalore,Bengaluru,Karnataka,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0221 | IR-E-U-0221,International Institute of Information Technology Bangalore
+U-0222,JSS Academy of Higher Education and Research,Mysuru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-O-OP-U-0222 | IR-O-U-0222 | IR17-I-2-1-299,JSS Academy of Higher Education and Research | Jagadguru Sri Shivarathreeshwara University
+U-0223,"Jain university,Bangalore",Bengaluru,Karnataka,"2019,2020,2021,2022,2023,2024,2025",IR-E-U-0223 | IR-M-U-0223 | IR-O-U-0223,"Jain University | Jain University, Bangalore | Jain university | Jain university, Bangalore | Jain university,Bangalore"
+U-0224,Jawaharlal Nehru Centre for Advanced Scientific Research,Bengaluru,Karnataka,"2017,2021,2023,2024,2025",IR-R-U-0224 | IR17-I-2-30673,Jawaharlal Nehru Centre for Advanced Scientific Research
+U-0225,KLE Academy of Higher Education and Research,Belagavi,Karnataka,"2017,2018,2019,2020,2021,2022",IR-1-O-O-U-0225 | IR-O-U-0225 | IR17-I-2-1-N002 | IR17-PHRM-2-1-N002,KLE Academy of Higher Education and Research
+U-0228,"Karnataka State Open University, Mysore",Mysuru,Karnataka,2025,IR-V-U-0228,"Karnataka State Open University, Mysore"
+U-0231,"Karnataka Vetrinary, Animal & Fisheries Science University, Nandinagar",Bidar,Karnataka,2023,IR-G-U-0231,"Karnataka Vetrinary, Animal & Fisheries Science University, Nandinagar"
+U-0232,Kuvempu University,Shivamogga,Karnataka,"2018,2019,2020,2021,2022",IR-1-O-O-U-0232 | IR-O-U-0232,Kuvempu University
+U-0233,Mangalore University,Mangalagangotri,Karnataka,2019,IR-O-U-0233,Mangalore University
+U-0234,Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0234 | IR-B-U-0234 | IR-O-U-0234 | IR-R-U-0234 | IR17-I-2-18364,"Manipal Academy of Higher Education | Manipal Academy of Higher Education, Manipal | Manipal Academy of Higher Education-Manipal"
+U-0235,Mysore University,Mysuru,Karnataka,"2017,2019,2020,2021,2022,2023,2024,2025",IR-O-U-0235 | IR17-I-2-1-457,Mysore University
+U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",Bengaluru,Karnataka,"2020,2021,2022,2023,2024,2025",IR-D-U-0236 | IR-O-U-0236 | IR-R-U-0236,"National Institute of Mental Health & Neuro Sciences | National Institute of Mental Health & Neuro Sciences, Bangalore | National Institute of Mental Health and Neuro Sciences, Bangalore"
+U-0237,"National Institute of Technology Karnataka, Surathkal",Surathkal,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0237 | IR-2-O-OE-U-0237 | IR-E-U-0237 | IR-O-U-0237 | IR-R-U-0237 | IR17-ENGG-1-1-493 | IR17-I-1-1-493,"National Institute of Technology Karnataka | National Institute of Technology Karnataka, Surathkal | National Institute of Technology Surathkal"
+U-0238,National Law School of India University,Bengaluru,Karnataka,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-L-L-U-0238 | IR-L-U-0238,National Law School of India University
+U-0239,NITTE,Mangaluru,Karnataka,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0239 | IR-O-U-0239 | IR17-I-2-18407,NITTE | NITTE University
+U-0246,University of Agricultural Sciences,Dharwad,Karnataka,"2018,2019,2023,2024,2025",IR-1-O-O-U-0246 | IR-G-U-0246 | IR-O-U-0246,University of Agricultural Sciences
+U-0247,"University of Agricultural Sciences, Raichur",Raichur,Karnataka,2023,IR-G-U-0247,"University of Agricultural Sciences, Raichur"
+U-0248,"University of Agricultural Sciences, Bangalore",Bengaluru,Karnataka,"2023,2024,2025",IR-G-U-0248 | IR-O-U-0248,"University of Agricultural Sciences | University of Agricultural Sciences, Bangalore"
+U-0249,Visvesvaraya Technological University,Belagavi,Karnataka,"2020,2021,2022,2023,2024,2025",IR-E-U-0249 | IR-M-U-0249 | IR-O-U-0249,Visvesvaraya Technological University
+U-0250,Yenepoya University,Mangaluru,Karnataka,"2018,2019,2020,2022,2023,2024",IR-2-O-OD-U-0250 | IR-O-U-0250,Yenepoya | Yenepoya University
+U-0251,"Calicut University, Thenhipalem, Malapuram",Malappuram,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0251 | IR-O-U-0251 | IR17-I-2-18607,"Calicut University | Calicut University, Thenhipalem | Calicut University, Thenhipalem, Malapuram"
+U-0253,Cochin University of Science and Technology,Cochin,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0253 | IR-L-U-0253 | IR-M-U-0253 | IR-O-U-0253 | IR17-I-2-18161,Cochin University of Science and Technology
+U-0254,Indian Institute of Science Education & Research Thiruvananthapuram,Thiruvananthapuram,Kerala,"2018,2020",IR-1-O-O-U-0254 | IR-O-U-0254,Indian Institute of Science Education & Research Thiruvananthapuram
+U-0255,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0255 | IR-E-U-0255 | IR17-ENGG-1-1-249 | IR17-I-1-1-249,Indian Institute of Space Science and Technology
+U-0257,"Kerala Agricultural University, Thrissur",Thrissur,Kerala,"2023,2024,2025",IR-G-U-0257,"Kerala Agricultural University | Kerala Agricultural University, Thrissur"
+U-0259,Kerala University of Fisheries & Ocean Studies,Kochi,Kerala,"2023,2024,2025",IR-G-U-0259,Kerala University of Fisheries & Ocean Studies | Kerala University of Fisheries and Ocean Studies
+U-0260,Kerala University,Thiruvananthapuram,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0260 | IR-O-U-0260 | IR17-I-2-18317,Kerala University
+U-0262,"Mahatma Gandhi University, Kottayam",Kottayam,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0262 | IR-O-U-0262 | IR17-I-2-18356,"Mahatma Gandhi University | Mahatma Gandhi University, Kottayam | Mahatma Gandhi Unversity"
+U-0263,National Institute of Technology Calicut,Kozhikode,Kerala,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0263 | IR-A-U-0263 | IR-E-U-0263 | IR-M-U-0263 | IR-O-U-0263 | IR17-ENGG-2-18613,"National Institute of Technology Calicut | National Institute of Technology, Calicut"
+U-0264,National University of Advanced Legal Studies (NUALS),Kochi,Kerala,"2021,2024",IR-L-U-0264,National University of Advanced Legal Studies (NUALS)
+U-0266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram",Thiruvananthapuram,Kerala,"2021,2022,2023,2024,2025",IR-D-U-0266,"Sree Chitra Tirunal Institute for Medical Sciences and Technology | Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram"
+U-0267,Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Gwalior,Madhya Pradesh,"2017,2019,2020,2021,2022,2023,2024,2025",IR-E-U-0267 | IR-M-U-0267 | IR17-MGMT-2-18625,Atal Bihari Vajpayee Indian Institute of Information Technology and Management
+U-0270,Devi Ahilya Vishwavidyalaya,Indore,Madhya Pradesh,"2017,2018,2019,2024,2025",IR-5-P-OEMLP-U-0270 | IR-O-U-0270 | IR-P-U-0270 | IR17-PHRM-2-1-155,Devi Ahilya Vishwavidyalaya
+U-0272,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0272 | IR-O-U-0272 | IR-R-U-0272 | IR17-I-2-18634,"Indian Institute of Science Education & Research Bhopal | Indian Institute of Science Education & Research, Bhopal | Indian Institute of Science Education and Research Bhopal"
+U-0273,Indian Institute of Technology Indore,Indore,Madhya Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0273 | IR-E-U-0273 | IR-O-U-0273 | IR-R-U-0273 | IR17-ENGG-2-1-346 | IR17-I-2-1-346,Indian Institute of Technology Indore
+U-0284,Maulana Azad National Institute of Technology,Bhopal,Madhya Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0284 | IR-A-U-0284 | IR-E-U-0284 | IR17-ENGG-2-1-441,Maulana Azad National Institute of Technology
+U-0285,"National Law Institute University, Bhopal",Bhopal,Madhya Pradesh,"2019,2020,2021,2022,2023,2024,2025",IR-L-U-0285,"National Law Institute University | National Law Institute University, Bhopal"
+U-0286,"Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM)",Jabalpur,Madhya Pradesh,"2017,2018,2019,2020,2021,2022,2023",IR-1-E-E-U-0286 | IR-E-U-0286 | IR17-ENGG-2-1-424,"Indian Institute of Information Technology Design & Manufacturing Jabalpur | Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) | Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM) Jabalpur | Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur"
+U-0293,"Central Institute of Fisheries Education, Fisheries University",Mumbai,Maharashtra,"2023,2024,2025",IR-G-U-0293,"Central Institute of Fisheries Education, Fisheries University | Central Institute of Fisheries Education, Fishries University"
+U-0294,D. Y. Patil Educational Society,Kolhapur,Maharashtra,2018,IR-1-O-D-U-0294,D. Y. Patil Educational Society
+U-0295,Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,"2019,2020,2021,2022,2023,2024,2025",IR-D-U-0295 | IR-N-U-0295 | IR-O-U-0295,Datta Meghe Institute of Higher Education and Research | Datta Meghe Institute of Medical Sciences
+U-0297,Defence Institute of Advanced Technology,Pune,Maharashtra,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0297 | IR-E-U-0297,Defence Institute of Advanced Technology
+U-0298,Dr. Babasaheb Ambedkar Marathwada University,Aurangabad,Maharashtra,"2019,2020,2021,2022,2024",IR-O-U-0298,"Dr. Babasaheb Ambedkar Marathwada University | Dr. Babasaheb Ambedkar Marathwada University, Aurangabad"
+U-0304,Homi Bhabha National Institute,Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0304 | IR-O-U-0304 | IR-R-U-0304 | IR17-I-2-18230,Homi Bhabha National Institute
+U-0305,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0305 | IR-O-U-0305 | IR-R-U-0305 | IR17-I-1-18637,"Indian Institute of Science Education & Research Pune | Indian Institute of Science Education & Research, Pune | Indian Institute of Science Education and Research Pune"
+U-0306,Indian Institute of Technology Bombay,Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-E-OEM-U-0306 | IR-3-M-OEM-U-0306 | IR-3-O-OEM-U-0306 | IR-E-U-0306 | IR-I-U-0306 | IR-M-U-0306 | IR-O-U-0306 | IR-R-U-0306 | IR17-ENGG-2-18633 | IR17-I-2-18633,"Indian Institute of Technology Bombay | Indian Institute of Technology, Bombay"
+U-0308,Institute of Chemical Technology,Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-E-OEP-U-0308 | IR-3-O-OEP-U-0308 | IR-3-P-OEP-U-0308 | IR-E-U-0308 | IR-O-U-0308 | IR-P-U-0308 | IR-R-U-0308 | IR17-ENGG-2-18261 | IR17-I-2-18261 | IR17-PHRM-2-18261,Institute of Chemical Technology
+U-0311,Krishna Vishwa Vidyapeeth,Karad,Maharashtra,"2020,2021,2022,2024",IR-D-C-23033 | IR-D-U-0311 | IR-N-U-0311 | IR-O-C-23033 | IR-O-U-0311 | IR-P-U-0311,"Krishna Institute of Medical Sciences | Krishna Institute of Medical Sciences Deemed University | Krishna Institute of Medical Sciences Deemed University, Karad | Krishna Vishwa Vidyapeeth"
+U-0315,"Mahatma Phule Krishi Vidyapeeth, Rahuri",Rahuri,Maharashtra,2023,IR-G-U-0315,"Mahatma Phule Krishi Vidyapeeth, Rahuri"
+U-0318,Mumbai University,Mumbai,Maharashtra,"2019,2020,2021,2022,2023,2024,2025",IR-O-U-0318,Mumbai University
+U-0321,"Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai",Mumbai,Maharashtra,"2019,2020,2021,2022,2023,2025",IR-D-U-0321 | IR-N-U-0321 | IR-O-U-0321,"Padmashree Dr. D. Y. Patil Vidyapeeth | Padmashree Dr. D. Y. Patil Vidyapeeth, Mumbai"
+U-0323,Savitribai Phule Pune University,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0323 | IR-O-U-0323 | IR-R-U-0323 | IR17-I-2-1-618,Savitribai Phule Pune University
+U-0325,Shivaji University,Kolhapur,Maharashtra,2025,IR-O-U-0325,Shivaji University
+U-0329,Symbiosis International,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0329 | IR-E-U-0329 | IR-O-U-0329 | IR17-I-2-21078,Symbiosis International | Symbiosis International University
+U-0330,Tata Institute of Fundamental Research,Mumbai,Maharashtra,"2021,2022,2023,2024,2025",IR-R-U-0330,Tata Institute of Fundamental Research
+U-0331,Tata Institute of Social Sciences,Mumbai,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0331 | IR-O-U-0331 | IR17-I-1-700,TATA Institute of Social Sciences | Tata Institute of Social Sciences
+U-0332,The Rashtrasant Tukadoji Maharaj Nagpur University,Nagpur,Maharashtra,"2019,2020,2021,2022,2023,2024,2025",IR-E-U-0332 | IR-P-U-0332,Rashtrasant Tukadoji Maharaj Nagpur University | The Rashtrasant Tukadoji Maharaj Nagpur University
+U-0334,"Visvesvaraya National Institute of Technology, Nagpur",Nagpur,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0334 | IR-A-U-0334 | IR-E-U-0334 | IR-O-U-0334 | IR17-ENGG-1-1-225,"Visvesvaraya National Institute of Technology | Visvesvaraya National Institute of Technology Nagpur | Visvesvaraya National Institute of Technology, Nagpur | Visvesvaraya National Institute of Technology, Nagpur (Deemed University)"
+U-0336,Central Agricultural University,Imphal West,Manipur,"2023,2024,2025",IR-G-U-0336,Central Agricultural University
+U-0341,North Eastern Hill University,Shillong,Meghalaya,"2017,2018,2019,2020,2021,2022,2023",IR-1-O-O-U-0341 | IR-O-U-0341 | IR17-I-2-18409,North Eastern Hill University
+U-0345,Mizoram University,Aizawl,Mizoram,"2017,2018,2019,2020,2022,2023,2024,2025",IR-1-O-O-U-0345 | IR-O-U-0345 | IR17-I-2-1-448,Mizoram University
+U-0347,Nagaland University,Zunheboto,Nagaland,2018,IR-1-O-O-U-0347,Nagaland University
+U-0353,Centurion University of Technology and Management,Paralakhemundi,Odisha,2021,IR-E-U-0353,Centurion University of Technology and Management
+U-0355,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0355 | IR-2-O-OE-U-0355 | IR-E-U-0355 | IR-O-U-0355 | IR-R-U-0355 | IR17-ENGG-1-18627 | IR17-I-1-18627,Indian Institute of Technology Bhubaneswar
+U-0356,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-5-D-OEMLD-U-0356 | IR-5-E-OEMLD-U-0356 | IR-5-M-OEMLD-U-0356 | IR-5-O-OEMLD-U-0356 | IR-D-U-0356 | IR-E-U-0356 | IR-L-U-0356 | IR-M-U-0356 | IR-N-U-0356 | IR-O-U-0356 | IR-R-U-0356 | IR17-ENGG-2-1-336 | IR17-I-2-1-336 | IR17-MGMT-2-1-336,Kalinga Institute of Industrial Technology
+U-0357,National Institute of Technology Rourkela,Rourkela,Odisha,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0357 | IR-2-O-OE-U-0357 | IR-A-U-0357 | IR-B-U-0357 | IR-E-U-0357 | IR-O-U-0357 | IR-R-U-0357 | IR17-ENGG-2-1-140 | IR17-I-2-1-140,National Institute of Technology Rourkela
+U-0358,National Law University,Cuttack,Odisha,"2020,2021,2022,2023,2024,2025",IR-L-U-0358,"National Law University | National Law University, Cuttack"
+U-0360,Odisha University of Agriculture and Technology,Khordha,Odisha,"2018,2023,2024,2025",IR-1-O-O-U-0360 | IR-G-U-0360,"Odisha University of Agriculture and Technology | Orissa University of Agriculture & Technology | Orissa University of Agriculture & Technology, Bhubaneswar"
+U-0363,Siksha 'O' Anusandhan,Bhubaneswar,Odisha,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-D-OD-U-0363 | IR-2-O-OD-U-0363 | IR-D-U-0363 | IR-E-U-0363 | IR-L-U-0363 | IR-M-U-0363 | IR-N-U-0363 | IR-O-U-0363 | IR-R-U-0363 | IR17-I-2-1-624,Siksha 'O' Anusandhan | Siksha'O' Anusandhan University
+U-0366,Utkal University,Bhubaneswar,Odisha,"2020,2021,2022,2023,2024,2025",IR-O-U-0366,Utkal University
+U-0367,Veer Surendra Sai University of Technology,Burla,Odisha,"2019,2020,2021,2022",IR-E-U-0367,Veer Surendra Sai University of Technology
+U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,Puducherry,Puducherry,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-U-0368 | IR-D-U-0368 | IR-O-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research | Jawaharlal Institute of Post Graduate Medical Education and Research
+U-0369,Pondicherry University,Puducherry,Puducherry,"2017,2018,2019,2020,2021,2022",IR-3-O-OEM-U-0369 | IR-O-U-0369 | IR17-I-2-18424,Pondicherry University
+U-0370,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus,Puducherry,Puducherry,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-D-U-0370 | IR-O-U-0370 | IR17-I-2-1-653,Sri Balaji Vidyapeeth Mahatma Gandhi Medical College | Sri Balaji Vidyapeeth Mahatma Gandhi Medical College Campus
+U-0372,Central University of Punjab,Bathinda,Punjab,"2019,2020,2021,2022,2023,2024,2025",IR-L-U-0372 | IR-O-U-0372 | IR-P-U-0372,Central University of Punjab
+U-0373,Chitkara University,Rajpura,Punjab,"2018,2019,2020,2021,2022,2023,2024,2025",IR-4-P-OEMP-U-0373 | IR-A-U-0373 | IR-E-U-0373 | IR-M-U-0373 | IR-O-U-0373 | IR-P-U-0373,Chitkara University
+U-0374,"Dr. B R Ambedkar National Institute of Technology, Jalandhar",Jalandhar,Punjab,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0374 | IR-E-U-0374 | IR-O-U-0374,"Dr. B R Ambedkar National Institute of Technology Jalandhar | Dr. B R Ambedkar National Institute of Technology, Jalandhar | Dr. B. R. Ambedkar National Institute of Technology"
+U-0375,Guru Angad Dev Veterinary & Animal Sciences University,Ludhiana,Punjab,"2017,2023,2024,2025",IR-G-U-0375 | IR17-I-2-18214,Guru Angad Dev Veterinary & Animal Sciences University | Guru Angad Dev Veterinary and Animal Sciences University
+U-0376,Guru Nanak Dev University,Amritsar,Punjab,"2017,2018,2019,2020,2021,2022,2023",IR-1-O-O-U-0376 | IR-E-U-0376 | IR-O-U-0376 | IR17-I-2-18110,Guru Nanak Dev University
+U-0377,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0377 | IR-O-U-0377 | IR-R-U-0377 | IR17-I-2-1-333,"Indian Institute of Science Education & Research Mohali | Indian Institute of Science Education & Research, Mohali | Indian Institute of Science Education and Research Mohali"
+U-0378,Indian Institute of Technology Ropar,Rupnagar,Punjab,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0378 | IR-E-U-0378 | IR-O-U-0378 | IR-R-U-0378 | IR17-ENGG-2-1-340 | IR17-I-2-1-340,Indian Institute of Technology Ropar
+U-0379,Lovely Professional University,Phagwara,Punjab,"2018,2019,2020,2021,2022,2023,2024,2025",IR-4-M-MAPC-U-0379 | IR-4-P-MAPC-U-0379 | IR-A-U-0379 | IR-E-U-0379 | IR-G-U-0379 | IR-L-U-0379 | IR-M-U-0379 | IR-O-U-0379 | IR-P-U-0379 | IR-R-U-0379,Lovely Professional University
+U-0380,"National Institute of Pharmaceutical Education and Research, Mohali",Mohali,Punjab,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-P-P-U-0380 | IR-P-U-0380 | IR17-PHRM-1-1-NIP-1,"National Institute of Pharmaceutical Education and Research | National Institute of Pharmaceutical Education and Research Mohali | National Institute of Pharmaceutical Education and Research, Mohali"
+U-0381,Punjab Agricultural University,Ludhiana,Punjab,"2017,2018,2019,2023,2024,2025",IR-1-O-O-U-0381 | IR-G-U-0381 | IR-O-U-0381 | IR17-I-1-30713,"Punjab Agricultural University | Punjab Agricultural University, Ludhiana"
+U-0382,Punjab Technical University,Kapurthala,Punjab,"2019,2020,2021",IR-E-U-0382,Punjab Technical University
+U-0383,"Punjabi University, Patiala",Patiala,Punjab,"2018,2019,2020,2021,2022,2023,2024,2025",IR-2-P-OP-U-0383 | IR-O-U-0383 | IR-P-U-0383,"Punjabi University | Punjabi University, Patiala"
+U-0384,Sant Longowal Institute of Engineering & Technology,Longowal,Punjab,"2019,2020,2021,2022,2024,2025",IR-E-U-0384 | IR-O-U-0384,Sant Longowal Institute of Engineering & Technology | Sant Longowal Institute of Engineering and Technology
+U-0386,The Rajiv Gandhi National University of Law,Patiala,Punjab,"2019,2020,2021,2022,2023,2024",IR-L-U-0386,"The Rajiv Gandhi National University of Law | The Rajiv Gandhi National University of Law, Patiala"
+U-0388,"Amity University, Jaipur",Jaipur,Rajasthan,2022,IR-E-U-0388,"Amity University, Jaipur"
+U-0389,Banasthali Vidyapith,Banasthali,Rajasthan,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-4-O-OEMP-U-0389 | IR-4-P-OEMP-U-0389 | IR-E-U-0389 | IR-O-U-0389 | IR-P-U-0389 | IR17-I-2-18508 | IR17-PHRM-2-18508,Banasthali Vidyapith
+U-0391,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-E-OEP-U-0391 | IR-3-O-OEP-U-0391 | IR-3-P-OEP-U-0391 | IR-E-U-0391 | IR-O-U-0391 | IR-P-U-0391 | IR-R-U-0391 | IR17-ENGG-2-18599 | IR17-I-2-18599 | IR17-PHRM-2-18599,"Birla Institute of Technology & Science | Birla Institute of Technology & Science - Pilani | Birla Institute of Technology & Science -Pilani | Birla Institute of Technology and Science, Pilani"
+U-0392,Central University of Rajasthan,Kishangarh,Rajasthan,"2023,2024,2025",IR-O-U-0392 | IR-P-U-0392,Central University of Rajasthan
+U-0395,Indian Institute of Technology Jodhpur,Jodhpur,Rajasthan,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0395 | IR-E-U-0395 | IR-M-U-0395 | IR-O-U-0395 | IR17-ENGG-1-18631,Indian Institute of Technology Jodhpur
+U-0401,"Jaipur National University, Jaipur",Jaipur,Rajasthan,"2021,2022",IR-P-U-0401,"Jaipur National University | Jaipur National University, Jaipur"
+U-0405,The LNM Institute of Information Technology,Jaipur,Rajasthan,2020,IR-E-U-0405,The LNM Institute of Information Technology
+U-0410,Malaviya National Institute of Technology,Jaipur,Rajasthan,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0410 | IR-A-U-0410 | IR-E-U-0410 | IR-M-U-0410 | IR-O-U-0410 | IR-R-U-0410 | IR17-ENGG-2-18620,"Malaviya National Institute of Technology | Malaviya National Institute of Technology, Jaipur | Malviya National Institute of Technology"
+U-0413,Mohan Lal Sukhadia University,Udaipur,Rajasthan,"2021,2022,2023,2024,2025",IR-P-U-0413,Mohan Lal Sukhadia University
+U-0414,"National Law University, Jodhpur",Jodhpur,Rajasthan,"2018,2019,2020,2021,2022",IR-1-L-L-U-0414 | IR-L-U-0414,"National Law University | National Law University Jodhpur | National Law University, Jodhpur"
+U-0415,"NIMS University, Jaipur",Jaipur,Rajasthan,2025,IR-P-U-0415,"NIMS University, Jaipur"
+U-0427,Suresh Gyan Vihar University,Jaipur,Rajasthan,"2022,2023,2024,2025",IR-P-U-0427,Suresh Gyan Vihar University
+U-0435,Alagappa University,Karaikudi,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-C-U-0435 | IR-O-U-0435 | IR-R-U-0435 | IR17-I-2-18168,Alagappa University
+U-0436,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0436 | IR-D-U-0436 | IR-E-U-0436 | IR-M-U-0436 | IR-N-U-0436 | IR-O-U-0436 | IR-P-U-0436 | IR-R-U-0436 | IR17-I-2-18267,Amrita Institute of Medical Sciences & Research | Amrita School of Dentistry | Amrita School of Engineering | Amrita School of Pharmacy | Amrita Vishwa Vidyapeetham
+U-0439,Anna University,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-4-A-OEMA-U-0439 | IR-4-E-OEMA-U-0439 | IR-4-M-OEMA-U-0439 | IR-4-O-OEMA-U-0439 | IR-A-U-0439 | IR-E-U-0439 | IR-I-U-0439 | IR-M-U-0439 | IR-O-U-0439 | IR-R-U-0439 | IR17-ENGG-2-18292 | IR17-I-2-18292 | IR17-MGMT-2-18292,Anna University
+U-0443,Annamalai University,Annamalainagar,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-6-D-OEMDPC-U-0443 | IR-6-P-OEMDPC-U-0443 | IR-D-U-0443 | IR-E-U-0443 | IR-G-U-0443 | IR-O-U-0443 | IR-P-U-0443 | IR17-I-2-1-33 | IR17-PHRM-2-1-33,Annamalai University
+U-0444,Avinashilingam Institute for Home Science & Higher Education for Women,Coimbatore,Tamil Nadu,"2021,2022,2023,2024,2025",IR-O-U-0444,Avinashilingam Institute for Home Science & Higher Education for Women | Avinashilingam Institute for Home Science and Higher Education for Women
+U-0445,B. S. Abdur Rahman Crescent Institute of Science and Technology,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2024",IR-4-E-OEMA-U-0445 | IR-A-U-0445 | IR-E-U-0445 | IR-P-U-0445 | IR17-ENGG-2-1-57 | IR17-I-2-1-57,B. S. Abdur Rahman Crescent Institute of Science and Technology | B. S. Abdur Rahman Institute of Science and Technology | B.S. Abdur Rahman Institute of Science and Technology
+U-0446,Bharath Institute of Higher Education & Research,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0446 | IR-O-U-0446 | IR17-I-2-18559,Bharath Institute of Higher Education & Research | Bharath Institute of Higher Education and Research
+U-0447,Bharathiar University,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-C-U-0447 | IR-O-U-0447 | IR-R-U-0447 | IR17-I-2-18567,Bharathiar University
+U-0448,Bharathidasan University,Tiruchirappalli,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0448 | IR-O-U-0448 | IR-R-U-0448 | IR17-I-2-30492,Bharathidasan University
+U-0449,Central University of Tamil Nadu,Tiruvarur,Tamil Nadu,"2022,2023,2024,2025",IR-O-U-0449,Central University of Tamil Nadu
+U-0451,Chettinad Academy of Research and Education,"Kelambakkam, Chengalpattu District",Tamil Nadu,"2020,2021,2022,2023,2024,2025",IR-D-U-0451 | IR-O-U-0451,Chettinad Academy of Research and Education
+U-0453,The Gandhigram Rural Institute,Gandhigram,Tamil Nadu,"2017,2018,2019,2020",IR-1-O-O-U-0453 | IR-O-U-0453 | IR17-I-2-12265,The Gandhigram Rural Institute | The Gandhigram Rural Institute - Deemed University
+U-0454,Hindustan Institute of Technology and Science (HITS),Chennai,Tamil Nadu,"2019,2020,2021,2022",IR-A-U-0454 | IR-E-U-0454,Hindustan Institute of Technology and Science | Hindustan Institute of Technology and Science (HITS)
+U-0455,"Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram",Chennai,Tamil Nadu,"2019,2020,2022",IR-E-U-0455,"Indian Institute of Information Technology, Design & Manufacturing | Indian Institute of Information Technology, Design & Manufacturing, Kancheepuram"
+U-0456,Indian Institute of Technology Madras,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0456 | IR-2-O-OE-U-0456 | IR-B-U-0456 | IR-E-U-0456 | IR-I-U-0456 | IR-M-U-0456 | IR-O-U-0456 | IR-R-U-0456 | IR17-ENGG-1-1-77 | IR17-I-1-1-77,Indian Institute of Technology Madras
+U-0458,Kalasalingam Academy of Research and Education,Krishnan Koil,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-4-E-OEMA-U-0458 | IR-E-U-0458 | IR-G-U-0458 | IR-O-U-0458,Kalasalingam Academy of Research and Education | Kalasalingam Academy of Research and Higher Education
+U-0460,Karunya Institute of Technology and Sciences,Coimbatore,Tamil Nadu,"2017,2018,2019,2020,2021,2022",IR-3-E-OEM-U-0460 | IR-3-O-OEM-U-0460 | IR-E-U-0460 | IR-O-U-0460 | IR17-ENGG-2-18312 | IR17-I-2-18312,Karunya Institute of Technology and Sciences | Karunya Institute of Technology and Sciences-Coimbatore
+U-0461,Dr. M. G. R. Educational and Research Institute,Chennai,Tamil Nadu,"2019,2020,2021,2022,2023,2024,2025",IR-A-U-0461 | IR-E-U-0461 | IR-N-U-0461 | IR-O-U-0461,Dr. M. G. R. Educational and Research Institute | M. G. R. Educational and Research Institute
+U-0463,Madurai Kamaraj University,Madurai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0463 | IR-O-U-0463 | IR17-I-2-18342,Madurai Kamaraj University | Madurai Kamraj University
+U-0464,"Manonmaniam Sundaranar University, Tirunelveli",Tirunelveli,Tamil Nadu,"2019,2021,2022,2023,2024,2025",IR-O-U-0464,"Manonmaniam Sundaranar University | Manonmaniam Sundaranar University, Tirunelveli"
+U-0465,Meenakshi Academy of Higher Education and Research,Chennai,Tamil Nadu,"2017,2018,2019,2021,2022,2023,2024,2025",IR-2-O-OD-U-0465 | IR-N-U-0465 | IR-O-U-0465 | IR17-I-2-1-445,Meenakshi Academy of Higher Education and Research
+U-0467,National Institute of Technology Tiruchirappalli,Tiruchirappalli,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0467 | IR-2-O-OE-U-0467 | IR-A-U-0467 | IR-E-U-0467 | IR-M-U-0467 | IR-O-U-0467 | IR-R-U-0467 | IR17-ENGG-1-1-370 | IR17-I-1-1-370,"National Institute of Technology Tiruchirappalli | National Institute of Technology, Tiruchirappalli"
+U-0470,Periyar University,Salem,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0470 | IR-O-U-0470 | IR17-I-2-18422,Periyar University
+U-0473,S.R.M. Institute of Science and Technology,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-5-D-OEMDP-U-0473 | IR-5-E-OEMDP-U-0473 | IR-5-O-OEMDP-U-0473 | IR-5-P-OEMDP-U-0473 | IR-A-U-0473 | IR-B-U-0473 | IR-D-U-0473 | IR-E-U-0473 | IR-G-U-0473 | IR-L-U-0473 | IR-M-U-0473 | IR-O-U-0473 | IR-P-U-0473 | IR-R-U-0473 | IR17-ENGG-2-1-596 | IR17-I-2-1-596 | IR17-PHRM-2-1-596,S. R. M. Institute of Science and Technology | S.R.M Institute of Science and Technology | S.R.M. Institute of Science and Technology | SRM Institute of Science and Technology
+U-0474,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-4-E-OEMA-U-0474 | IR-4-O-OEMA-U-0474 | IR-E-U-0474 | IR-O-U-0474 | IR17-I-2-18472,Sathyabama Institute of Science and Technology
+U-0476,Shanmugha Arts Science Technology & Research Academy,Thanjavur,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-4-E-OEML-U-0476 | IR-4-O-OEML-U-0476 | IR-E-U-0476 | IR-L-U-0476 | IR-O-U-0476 | IR-R-U-0476 | IR17-ENGG-2-18477 | IR17-I-2-18477 | IR17-MGMT-2-18477,Shanmugha Arts Science Technology & Research Academy | Shanmugha Arts Science Technology & Research Academy (SASTRA) | Shanmugha Arts Science Technology and Research Academy
+U-0485,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,"2017,2018,2019,2023,2024,2025",IR-1-O-O-U-0485 | IR-G-U-0485 | IR-O-U-0485 | IR17-I-2-15598,Tamil Nadu Agricultural University
+U-0487,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,"2017,2018,2019,2023,2024,2025",IR-1-O-O-U-0487 | IR-E-U-0487 | IR-G-U-0487 | IR-O-U-0487 | IR17-I-2-1-697,Tamil Nadu Veterinary & Animal Sciences University | Tamil Nadu Veterinary and Animal Sciences University
+U-0489,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,Chennai,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0489 | IR-E-U-0489 | IR-O-U-0489 | IR17-ENGG-2-1-11112 | IR17-I-2-1-11112,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology | Vel Tech Rangarajan Dr.Sagunthala R&D Institute of Science and Technology
+U-0490,Vellore Institute of Technology,Vellore,Tamil Nadu,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-E-OEM-U-0490 | IR-3-M-OEM-U-0490 | IR-3-O-OEM-U-0490 | IR-E-U-0490 | IR-M-U-0490 | IR-O-U-0490 | IR-R-U-0490 | IR17-ENGG-2-18572 | IR17-I-2-18572 | IR17-MGMT-2-18572,Vellore Institute of Technology
+U-0491,Vels Institute of Science Technology and Advanced Studies (VISTAS),Chennai,Tamil Nadu,"2018,2019,2020,2021,2022,2023,2024,2025",IR-4-P-OEMP-U-0491 | IR-E-U-0491 | IR-P-U-0491,"VELS Institute of Science Technology & Advanced Studies | VELS Institute of Science Technology & Advanced Studies (Vistas) ,Chennai | Vels Institute of Science Technology & Advanced Studies (VISTAS) -Chennai | Vels Institute of Science Technology and Advanced Studies (VISTAS) | Vels Institute of Science, Technology & Advanced Studies (VISTAS)"
+U-0492,Vinayaka Mission's Research Foundation,Salem,Tamil Nadu,"2024,2025",IR-P-U-0492,Vinayaka Mission's Research Foundation
+U-0493,National Institute of Technology Agartala,Agratala,Tripura,"2018,2019,2020,2021,2022,2023,2024",IR-1-E-E-U-0493 | IR-E-U-0493,National Institute of Technology Agartala
+U-0496,Aligarh Muslim University,Aligarh,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-7-D-OEMALDC-U-0496 | IR-7-E-OEMALDC-U-0496 | IR-7-M-OEMALDC-U-0496 | IR-7-O-OEMALDC-U-0496 | IR-A-U-0496 | IR-D-U-0496 | IR-E-U-0496 | IR-L-U-0496 | IR-M-U-0496 | IR-N-U-0496 | IR-O-U-0496 | IR-R-U-0496 | IR17-I-2-18189,Aligarh Muslim University
+U-0497,Amity University,Gautam Budh Nagar,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-6-E-OEMALP-U-0497 | IR-6-M-OEMALP-U-0497 | IR-6-O-OEMALP-U-0497 | IR-6-P-OEMALP-U-0497 | IR-E-U-0497 | IR-G-U-0497 | IR-M-U-0497 | IR-O-U-0497 | IR-P-U-0497 | IR-R-U-0497 | IR17-ENGG-2-18259 | IR17-I-2-18259,AMITY University | Amity University | Amity University Noida
+U-0498,Babasheb Bhimrao Ambedkar University,Lucknow,Uttar Pradesh,"2021,2022,2023,2024,2025",IR-G-U-0498 | IR-L-U-0498 | IR-M-U-0498 | IR-O-U-0498 | IR-P-U-0498,Babasaheb Bhimrao Ambedkar University | Babasheb Bhimrao Ambedkar University
+U-0500,Banaras Hindu University,Varanasi,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-3-D-OMD-U-0500 | IR-3-M-OMD-U-0500 | IR-3-O-OMD-U-0500 | IR-B-U-0500 | IR-D-U-0500 | IR-G-U-0500 | IR-L-U-0500 | IR-M-U-0500 | IR-N-U-0500 | IR-O-U-0500 | IR-R-U-0500 | IR17-I-2-18500 | IR17-MGMT-2-18500,Banaras Hindu University
+U-0502,Bundelkhand University,Jhansi,Uttar Pradesh,"2021,2022,2023,2024,2025",IR-P-U-0502,Bundelkhand University
+U-0504,"Chandra Shekhar Azad University of Agriculture & Technology, Kanpur",Kanpur,Uttar Pradesh,2023,IR-G-U-0504,"Chandra Shekhar Azad University of Agriculture & Technology, Kanpur"
+U-0506,Chaudhary Charan Singh University Meerut,Meerut,Uttar Pradesh,2025,IR-O-U-0506,Chaudhary Charan Singh University Meerut
+U-0507,Dayalbagh Educational Institute,Agra,Uttar Pradesh,"2017,2018,2019,2020,2021,2022",IR-2-E-OE-U-0507 | IR-2-O-OE-U-0507 | IR-E-U-0507 | IR-M-U-0507 | IR-O-U-0507 | IR17-I-2-1-2812766280,Dayalbagh Educational Institute
+U-0511,"Dr. Ram Manohar Lohiya National Law University, Lucknow",Lucknow,Uttar Pradesh,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-L-L-U-0511 | IR-L-U-0511,"Dr. Ram Manohar Lohiya National Law University | Dr. Ram Manohar Lohiya National Law University, Lucknow"
+U-0513,G. L. A. University,Mathura,Uttar Pradesh,"2021,2022,2023,2024,2025",IR-E-U-0513 | IR-P-U-0513,G. L. A. University
+U-0515,IFTM University,Moradabad,Uttar Pradesh,2025,IR-P-U-0515,IFTM University
+U-0516,Indian Institute of Information Technology Allahabad,Prayagraj,Uttar Pradesh,"2018,2019,2020,2021,2022,2023,2024",IR-1-E-E-U-0516 | IR-E-U-0516,Indian Institute of Information Technology Allahabad
+U-0518,"Indian Veterinary Research Institute, Izatnagar",Bareilly,Uttar Pradesh,"2023,2024,2025",IR-G-U-0518,"Indian Veterinary Research Institute, Izatnagar"
+U-0519,Integral University,Lucknow,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-6-P-OEMADP-U-0519 | IR-P-U-0519 | IR17-PHRM-2-18265,Integral University
+U-0522,Jaypee Institute of Information Technology,Noida,Uttar Pradesh,"2017,2018,2019,2020,2021,2022",IR-2-E-OE-U-0522 | IR-2-O-OE-U-0522 | IR-E-U-0522 | IR17-ENGG-2-1-321 | IR17-I-2-1-321,Jaypee Institute of Information Technology
+U-0523,King George's Medical University,Lucknow,Uttar Pradesh,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-D-D-U-0523 | IR-1-O-D-U-0523 | IR-D-U-0523 | IR-N-U-0523 | IR-O-U-0523,King George's Medical University
+U-0524,University of Lucknow,Lucknow,Uttar Pradesh,"2024,2025",IR-L-U-0524 | IR-M-U-0524 | IR-O-U-0524,University of Lucknow
+U-0525,"Mahatama Jyotiba Phule Rohikhand University, Bareilly",Bareilly,Uttar Pradesh,2025,IR-P-U-0525,"Mahatama Jyotiba Phule Rohikhand University, Bareilly"
+U-0530,Motilal Nehru National Institute of Technology,Prayagraj,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0530 | IR-E-U-0530 | IR-O-U-0530 | IR17-ENGG-2-1-357,Motilal Nehru National Institute of Technology
+U-0531,"Acharya Narendra Deva University of Agriculture & Technology, Kumarganj, Ayodhya",Faizabad,Uttar Pradesh,2023,IR-G-U-0531,"Acharya Narendra Deva University of Agriculture & Technology, Kumarganj, Ayodhya"
+U-0535,Rajiv Gandhi Institute of Petroleum Technology,Amethi,Uttar Pradesh,"2020,2021,2022,2023,2024,2025",IR-E-U-0535,Rajiv Gandhi Institute of Petroleum Technology
+U-0536,"Sam Higginbottom Institute of Agriculture, Technology & Sciences",Prayagraj,Uttar Pradesh,"2019,2020,2022,2023,2024,2025",IR-P-U-0536,"Sam Higginbottom Institute of Agriculture, Technology & Sciences | Sam Higginbottom Institute of Agriculture, Technology and Sciences"
+U-0541,Sharda University,Greater Noida,Uttar Pradesh,"2021,2022,2023,2024,2025",IR-E-U-0541 | IR-O-U-0541 | IR-P-U-0541,Sharda University
+U-0546,"U.P. Rajarshi Tandon Open University, Allahabad",Prayagraj (Allahabad),Uttar Pradesh,2025,IR-V-U-0546,"U.P. Rajarshi Tandon Open University, Allahabad"
+U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",Pantnagar,Uttarakhand,"2018,2019,2023,2024,2025",IR-1-O-O-U-0554 | IR-E-U-0554 | IR-G-U-0554 | IR-O-U-0554,"G. B. Pant Universtiy of Agriculture and Technology | G.B. Pant Universtiy of Agriculture and Technology | G.B. Pant Universtiy of Agriculture and Technology, Pantnagar"
+U-0555,Graphic Era University,Dehradun,Uttarakhand,"2019,2020,2021,2022,2023,2024,2025",IR-E-U-0555 | IR-M-U-0555 | IR-O-U-0555,Graphic Era University
+U-0560,Indian Institute of Technology Roorkee,Roorkee,Uttarakhand,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-4-A-OEMA-U-0560 | IR-4-E-OEMA-U-0560 | IR-4-M-OEMA-U-0560 | IR-4-O-OEMA-U-0560 | IR-A-U-0560 | IR-B-U-0560 | IR-E-U-0560 | IR-I-U-0560 | IR-M-U-0560 | IR-O-U-0560 | IR-R-U-0560 | IR17-ENGG-2-18677 | IR17-I-2-18677 | IR17-MGMT-2-18677,"Indian Institute of Technology Roorkee | Indian Institute of Technology, Roorkee"
+U-0562,"Kumaun University, Nainital",Nainital,Uttarakhand,"2020,2021,2022,2023,2024,2025",IR-P-U-0562,"Kumaun University, Nainital"
+U-0564,UPES,Dehradun,Uttarakhand,"2019,2020,2021,2022,2023,2024,2025",IR-E-U-0564 | IR-L-U-0564 | IR-M-U-0564 | IR-O-U-0564 | IR-R-U-0564,UPES | University of Petroleum and Energy Studies
+U-0568,Bidhan Chandra Krishi Vishwavidyalaya,Nadia,West Bengal,"2018,2023,2024,2025",IR-1-O-O-U-0568 | IR-G-U-0568,Bidhan Chandra Krishi Vishwavidyalaya
+U-0569,University of Burdwan,Bardhaman,West Bengal,"2018,2019,2020,2021,2022,2023,2024",IR-1-O-O-U-0569 | IR-O-U-0569,The University of Burdwan | University of Burdwan
+U-0570,Calcutta University,Kolkata,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0570 | IR-O-U-0570 | IR-R-U-0570 | IR17-I-2-18606,Calcutta University
+U-0572,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0572 | IR-O-U-0572 | IR-R-U-0572 | IR17-I-1-18635,"Indian Institute of Science Education & Research Kolkata | Indian Institute of Science Education & Research, Kolkata | Indian Institute of Science Education and Research Kolkata"
+U-0573,Indian Institute of Technology Kharagpur,Kharagpur,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-5-A-OEMAL-U-0573 | IR-5-E-OEMAL-U-0573 | IR-5-L-OEMAL-U-0573 | IR-5-M-OEMAL-U-0573 | IR-5-O-OEMAL-U-0573 | IR-A-U-0573 | IR-E-U-0573 | IR-I-U-0573 | IR-L-U-0573 | IR-M-U-0573 | IR-O-U-0573 | IR-R-U-0573 | IR17-ENGG-2-18630 | IR17-I-2-18630 | IR17-MGMT-2-18630,"Indian Institute of Technology Kharagpur | Indian Institute of Technology, Kharagpur"
+U-0574,"Indian Statistical Institute, Kolkata",Kolkata,West Bengal,"2021,2024",IR-O-U-0574 | IR-R-U-0574,"Indian Statistical Institute, Kolkata"
+U-0575,Jadavpur University,Kolkata,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0575 | IR-2-O-OE-U-0575 | IR-A-U-0575 | IR-E-U-0575 | IR-O-U-0575 | IR-P-U-0575 | IR-R-U-0575 | IR17-ENGG-2-10326 | IR17-I-2-10326,Jadavpur University
+U-0576,Kalyani University,Kalyani,West Bengal,"2017,2018,2019,2020",IR-1-O-O-U-0576 | IR-O-U-0576 | IR17-I-2-18305,Kalyani University
+U-0577,National Institute of Technology Durgapur,Durgapur,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0577 | IR-E-U-0577 | IR-O-U-0577 | IR17-ENGG-2-18649,National Institute of Technology Durgapur
+U-0578,Netaji Subhash Open University,Kolkata,West Bengal,2024,IR-V-U-0578,Netaji Subhash Open University
+U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0584 | IR-2-O-OE-U-0584 | IR-A-U-0584 | IR-E-U-0584 | IR-O-U-0584 | IR-R-U-0584 | IR17-ENGG-2-18690 | IR17-I-2-18690,"Indian Institute of Engineering Science And Technology, Shibpur | Indian Institute of Engineering Science and Technology | Indian Institute of Engineering Science and Technology, Shibpur"
+U-0585,The West Bengal National University of Juridical Sciences,Kolkata,West Bengal,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-L-L-U-0585 | IR-L-U-0585,The West Bengal National University of Juridical Sciences | The West Bengal National University of Juridicial Sciences
+U-0587,Uttar Banga Krishi Vishwavidyalaya,Cooch Behar,West Bengal,2024,IR-G-U-0587,Uttar Banga Krishi Vishwavidyalaya
+U-0589,Visva Bharati,Santiniketan,West Bengal,"2017,2018,2019,2020,2021,2022,2023",IR-1-O-O-U-0589 | IR-O-U-0589 | IR17-I-2-18581,Visva Bharati
+U-0591,"West Bengal University of Animal and Fishery Sciences, Kolkata",Kolkata,West Bengal,"2023,2024,2025",IR-G-U-0591,"West Bengal University of Animal and Fishery Sciences | West Bengal University of Animal and Fishery Sciences, Kolkata"
+U-0592,Maulana Abul Kalam Azad University of Technology,Nadia,West Bengal,"2019,2020,2021,2025",IR-E-U-0592 | IR-P-U-0592,Maulana Abul Kalam Azad University of Technology
+U-0600,"National University of Study & Research in Law, Ranchi",Ranchi,Jharkhand,"2022,2023,2024,2025",IR-L-U-0600,"National University of Study & Research in Law | National University of Study & Research in Law, Ranchi | National University of Study and Research in Law"
+U-0604,"Amity University, Gwalior",Gwalior,Madhya Pradesh,"2020,2021,2022",IR-E-U-0604,"Amity University Gwalior | Amity University, Gwalior"
+U-0613,National Institute of Technology Manipur,Imphal,Manipur,"2017,2019,2020,2021,2022,2023",IR-E-U-0613 | IR17-ENGG-2-18392,National Institute of Technology Manipur
+U-0614,National Institute of Technology Sikkim,South Sikkim,Sikkim,2022,IR-E-U-0614,National Institute of Technology Sikkim
+U-0615,National Institute of Technology Arunachal Pradesh,Itanagar,Arunachal Pradesh,"2020,2021,2022",IR-E-U-0615,National Institute of Technology Arunachal Pradesh
+U-0616,National Institute of Technology Uttarakhand,Srinagar (Garhwal),Uttarakhand,"2021,2022",IR-E-U-0616,National Institute of Technology Uttarakhand
+U-0619,National Institute of Technology Meghalaya,Shillong,Meghalaya,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-2-E-OE-U-0619 | IR-E-U-0619 | IR17-ENGG-2-1-365,National Institute of Technology Meghalaya
+U-0620,National Institute of Technology Goa,Ponda,Goa,"2019,2020,2021,2022,2023",IR-E-U-0620,National Institute of Technology Goa
+U-0621,National Institute of Technology Puducherry,Karaikal,Puducherry,"2020,2021,2022,2024,2025",IR-E-U-0621,National Institute of Technology Puducherry
+U-0622,National Institute of Technology Delhi,Delhi,Delhi,"2022,2023,2024,2025",IR-E-U-0622,National Institute of Technology Delhi
+U-0626,School of Planning and Architecture Bhopal,Bhopal,Madhya Pradesh,"2018,2019,2020,2021,2022,2023,2024,2025",IR-1-A-A-U-0626 | IR-A-U-0626,"School of Planning and Architecture | School of Planning and Architecture Bhopal | School of Planning and Architecture, Bhopal"
+U-0627,"School of Planning & Architecture, Vijayawada",Vijayawada,Andhra Pradesh,"2019,2020,2021,2022,2023,2024,2025",IR-A-U-0627,"School of Planning & Architecture | School of Planning & Architecture, Vijayawada | School of Planning and Architecture | School of Planning and Architecture Vijayawada"
+U-0642,Shiv Nadar University,Gautam Buddha Nagar,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-O-O-U-0642 | IR-O-U-0642 | IR17-I-2-10933,Shiv Nadar University
+U-0643,Galgotias University,Gautam Budh Nagar,Uttar Pradesh,"2021,2022,2023,2024,2025",IR-E-U-0643 | IR-L-U-0643 | IR-M-U-0643 | IR-P-U-0643,Galgotias University
+U-0645,Glocal University,Saharanpur,Uttar Pradesh,2025,IR-P-U-0645,Glocal University
+U-0665,Tamil Nadu Dr.J.Jayalalithaa Fisheries University,Nagapattinam,Tamil Nadu,"2023,2024",IR-G-U-0665,Tamil Nadu Dr.J.Jayalalithaa Fisheries University
+U-0668,"Uka Tarsadia University, Bardoli",Bardoli,Gujarat,2024,IR-P-U-0668,"Uka Tarsadia University, Bardoli"
+U-0677,National Law University and Judicial Academy,Kamrup,Assam,"2020,2021,2022,2023,2024,2025",IR-L-U-0677,National Law University and Judicial Academy
+U-0685,Indira Gandhi Delhi Technical University for Women,Delhi,Delhi,"2019,2020,2021,2022",IR-E-U-0685,Indira Gandhi Delhi Technical University for Women
+U-0686,All India Institute of Medical Sciences Patna,Patna,Bihar,"2023,2024,2025",IR-D-U-0686 | IR-O-U-0686,"All India Institute of Medical Sciences Patna | All India Institute of Medical Sciences, Patna"
+U-0687,All India Institute of Medical Sciences Bhopal,Bhopal,Madhya Pradesh,"2023,2024,2025",IR-D-U-0687,All India Institute of Medical Sciences Bhopal
+U-0688,All India Institute of Medical Sciences Bhubaneswar,Khordha,Odisha,"2021,2022,2023,2024,2025",IR-D-U-0688 | IR-O-U-0688,All India Institute of Medical Sciences Bhubaneswar
+U-0689,All India Institute of Medical Sciences Jodhpur,Jodhpur,Rajasthan,"2021,2022,2023,2024,2025",IR-D-U-0689 | IR-O-U-0689,All India Institute of Medical Sciences Jodhpur
+U-0690,All India Institute of Medical Sciences Raipur,Raipur,Chhattisgarh,"2022,2023,2024,2025",IR-D-U-0690,"All India Institute of Medical Sciences Raipur | All India Institute of Medical Sciences, Raipur"
+U-0691,All India Institute of Medical Sciences Rishikesh,Rishikesh,Uttarakhand,"2022,2023,2024,2025",IR-D-U-0691 | IR-O-U-0691,"All India Institute of Medical Sciences Rishikesh | All India Institute of Medical Sciences, Rishikesh"
+U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,Varanasi,Uttar Pradesh,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-U-0701 | IR-1-O-E-U-0701 | IR-E-U-0701 | IR-O-U-0701 | IR-R-U-0701 | IR17-ENGG-2-18672 | IR17-I-2-18672,"Indian Institute of Technology (BHU) Varanasi | Indian Institute of Technology (Banaras Hindu University) Varanasi | Indian Institute of Technology (Banaras Hindu University), Varanasi"
+U-0702,Shree Guru Gobind Singh Tricentenary University,Gurgaon,Haryana,"2022,2025",IR-P-U-0702,Shree Guru Gobind Singh Tricentenary University
+U-0713,Academy of Scientific and Innovative Research,Ghaziabad,Uttar Pradesh,"2021,2022,2023,2024,2025",IR-R-U-0713,Academy of Scientific & Innovative Research | Academy of Scientific and Innovative Research
+U-0715,XIM University,Bhubaneswar,Odisha,"2017,2018,2019,2021,2022,2023,2024,2025",IR-2-M-OM-U-0715 | IR-M-U-0715 | IR17-MGMT-2-18584,XIM University | Xavier University
+U-0720,G. D. Goenka University,Gurgaon,Haryana,2025,IR-P-U-0720,G. D. Goenka University
+U-0724,M.S. Ramaiah University of Applied Sciences,Bengaluru,Karnataka,"2020,2021,2022,2023,2024,2025",IR-N-U-0724 | IR-P-U-0724,M. S. Ramaiah University of Applied Sciences | M.S. Ramaiah University of Applied Sciences
+U-0733,PES University,Bengaluru,Karnataka,"2017,2018,2019,2020,2021,2022",IR-3-E-OEM-U-0733 | IR-3-O-OEM-U-0733 | IR-E-U-0733 | IR17-ENGG-2-1-541 | IR17-I-2-1-541,PES University
+U-0735,BML Munjal University,Gurgaon,Haryana,"2020,2021,2022,2023,2024,2025",IR-M-U-0735,BML Munjal University
+U-0739,Madan Mohan Malaviya University of Technology,Gorakhpur,Uttar Pradesh,"2020,2024,2025",IR-E-U-0739 | IR-M-U-0739 | IR-O-U-0739,Madan Mohan Malaviya University of Technology
+U-0744,Ashoka University,Sonepat,Haryana,"2021,2022",IR-O-U-0744,Ashoka University
+U-0747,Chandigarh University,Mohali,Punjab,"2019,2020,2021,2022,2023,2024,2025",IR-A-U-0747 | IR-E-U-0747 | IR-M-U-0747 | IR-O-U-0747 | IR-P-U-0747 | IR-R-U-0747,Chandigarh University
+U-0749,Manipal University Jaipur,Jaipur,Rajasthan,"2021,2022,2023,2024,2025",IR-A-U-0749 | IR-E-U-0749 | IR-L-U-0749 | IR-M-U-0749 | IR-O-U-0749,"Manipal University Jaipur | Manipal University, Jaipur"
+U-0750,Uttaranchal University,Dehradun,Uttarakhand,2025,IR-P-U-0750,Uttaranchal University
+U-0763,Parul University,Vadodara,Gujarat,"2022,2023,2024,2025",IR-P-U-0763,Parul University
+U-0765,Institute of Infrastructure Technology Research and Management (IITRAM),Ahmedabad,Gujarat,2022,IR-E-U-0765,Institute of Infrastructure Technology Research and Management (IITRAM)
+U-0774,DIT University,Dehradun,Uttarakhand,"2020,2021,2022,2024,2025",IR-E-U-0774 | IR-P-U-0774,DIT University
+U-0779,Amity University,North Twenty Four Parganas,West Bengal,"2024,2025",IR-A-U-0779 | IR-L-U-0779,Amity University
+U-0784,Professor Jayashankar Telangana Agricultural University (PJTAU),Hyderabad,Telangana,"2018,2019,2024,2025",IR-1-O-O-U-0784 | IR-G-U-0784 | IR-O-U-0784,Professor Jayashankar Telangana Agricultural University (PJTAU) | Professor Jayashankar Telangana State Agricultural University
+U-0795,Indian Institute of Information Technology Guwahati,Guwahati,Assam,"2020,2021,2022",IR-E-U-0795,Indian Institute of Information Technology Guwahati
+U-0811,Maharaja Ranjit Singh State Technical University,Bathinda,Punjab,2023,IR-P-U-0811,Maharaja Ranjit Singh State Technical University
+U-0830,Anant National University,Ahmedabad,Gujarat,"2024,2025",IR-A-U-0830,Anant National University
+U-0844,"Indian Institute of Technology, Tirupati",Tirupati,Andhra Pradesh,"2022,2023,2024,2025",IR-E-U-0844,"Indian Institute of Technology Tirupati | Indian Institute of Technology, Tirupati"
+U-0851,IIHMR University,Jaipur,Rajasthan,"2019,2020,2021,2022",IR-M-U-0851,IIHMR UNIVERSITY | IIHMR University
+U-0853,Delhi Pharmaceutical Sciences and Research University,Delhi,Delhi,"2021,2022,2023,2024,2025",IR-P-U-0853,Delhi Pharmaceutical Sciences and Research University
+U-0854,KLE Technological University,Dharwad,Karnataka,"2019,2020,2021,2022",IR-E-U-0854,KLE Technological University
+U-0861,JIS University,Kolkata,West Bengal,2025,IR-P-U-0861,JIS University
+U-0864,Harcourt Butler Technical University,Kanpur Nagar,Uttar Pradesh,2020,IR-E-U-0864,Harcourt Butler Technical University
+U-0878,Indian Institute of Technology Palakkad,Palakkad,Kerala,"2022,2023,2024,2025",IR-E-U-0878,Indian Institute of Technology Palakkad
+U-0880,"Maharashtra National Law University, Nagpur",Nagpur,Maharashtra,"2024,2025",IR-L-U-0880,"Maharashtra National Law University, Nagpur"
+U-0886,Maharashtra National Law University Mumbai,Mumbai,Maharashtra,2024,IR-L-U-0886,Maharashtra National Law University Mumbai
+U-0899,Indian Institute of Technology Dharwad,Dharwad,Karnataka,"2023,2025",IR-E-U-0899,Indian Institute Of Technology Dharwad | Indian Institute of Technology Dharwad
+U-0906,Indian Institute of Technology Jammu,Jammu,Jammu and Kashmir,"2023,2024,2025",IR-E-U-0906,Indian Institute of Technology Jammu
+U-0921,Symbiosis University of Applied Sciences,Indore,Madhya Pradesh,2025,IR-S-U-0921,Symbiosis University of Applied Sciences
+U-0938,Dr. Vishwanath Karad MIT World Peace University,Pune,Maharashtra,"2019,2020,2021,2022,2023,2024,2025",IR-E-U-0938 | IR-P-U-0938,Dr. Vishwanath Karad MIT World Peace University
+U-0946,Indian Institute of Technology Bhilai,Durg,Chhattisgarh,"2023,2024,2025",IR-E-U-0946,Indian Institute of Technology Bhilai
+U-0949,Bhartiya Skill Development University,Rajasthan,Rajasthan,2024,IR-S-U-0949,Bhartiya Skill Development University
+U-0979,Symbiosis Skills and Professional University (Formerly Symbiosis Skill and Open University),Pune,Maharashtra,"2024,2025",IR-S-U-0979,Symbiosis Skills and Professional University (Formerly Symbiosis Skill and Open University)
+U-1004,Indian Institute of Management Jammu (IIMJ),Jammu,Jammu and Kashmir,"2022,2023,2024,2025",IR-M-U-1004,Indian Institute of Management Jammu (IIMJ)
+U-1006,Indian Institute of Management Bodh Gaya,Gaya,Bihar,"2022,2023,2024,2025",IR-M-U-1006,Indian Institute of Management Bodh Gaya
+U-1007,Indian Institute of Management Visakhapatnam,Visakhapatnam,Andhra Pradesh,"2022,2023,2024,2025",IR-M-U-1007,Indian Institute of Management Visakhapatnam
+U-1035,"Himachal Pradesh National Law University, Shimla",Shimla,Himachal Pradesh,2025,IR-L-U-1035,"Himachal Pradesh National Law University, Shimla"
+U-10476,"Maharashtra Institute of Technology, Pune",Pune,Maharashtra,2017,IR17-ENGG-2-10476,"Maharashtra Institute of Technology, Pune"
+U-1048,Shri Vishwakarma Skill University,Palwal,Haryana,"2024,2025",IR-S-U-1048,Shri Vishwakarma Skill University
+U-10949,Zakir Husain College of Engineering & Technology,Aligarh,Uttar Pradesh,2017,IR17-ENGG-2-10949,Zakir Husain College of Engineering & Technology
+U-1119,Mahindra University,Hyderabad,Telangana,2022,IR-E-U-1119,Mahindra University
+U-1257,COEP Technological University,Pune,Maharashtra,"2017,2018,2019,2020,2021,2022,2023,2024,2025",IR-1-E-E-C-41593 | IR-1-O-E-C-41593 | IR-E-C-41593 | IR-E-U-1257 | IR-O-C-41593 | IR-O-U-1257 | IR17-ENGG-1-1-2809541361,"COEP Technological University | College of Engineering | College of Engineering Pune | College of Engineering, Pune"
+U-15640,Vidyasagar University,Midnapore,West Bengal,2017,IR17-I-2-15640,Vidyasagar University
+U-15717,MIT School of Telecom Management,Pune,Maharashtra,2017,IR17-MGMT-1-15717,MIT School of Telecom Management
+U-17169,Institute of Pharmaceutical Education and Research,Wardha,Maharashtra,2017,IR17-PHRM-1-17169,Institute of Pharmaceutical Education and Research
+U-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon",Kopargaon,Maharashtra,2017,IR17-PHRM-1-17659,"Sanjivani College of Pharmaceutical Education and Research, Kopargaon"
+U-18311,Karpagam Academy of Higher Education,Coimbatore,Tamil Nadu,2017,IR17-I-2-18311,Karpagam Academy of Higher Education
+U-18446,Rajasthan University of Veterinary & Animal Sciences,Bikaner,Rajasthan,2017,IR17-I-2-18446,Rajasthan University of Veterinary & Animal Sciences
+U-18551,University of Allahabad,Allahabad,Uttar Pradesh,2017,IR17-I-2-18551,University of Allahabad
+U-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar,Sagar,Madhya Pradesh,2017,IR17-PHRM-1-22,Dr. Harisingh Gour Vishwavidyalaya-Sagar
+U-2810997882,K.S.Rangasamy College of Technology,Tiruchengode,Tamil Nadu,2017,IR17-ENGG-2-1-2810997882,K.S.Rangasamy College of Technology
+U-2811763720,Xavier Institute of Management & Entrepreneurship,Bengaluru,Karnataka,2017,IR17-MGMT-1-1-2811763720,Xavier Institute of Management & Entrepreneurship
+U-2815712186,Gurunanak College of Pharmacy,Nagpur,Maharashtra,2017,IR17-PHRM-1-1-2815712186,Gurunanak College of Pharmacy
+U-570,Rajasthan University,Jaipur,Rajasthan,2017,IR17-I-2-1-570,Rajasthan University
+U-N001,Sri Krishnadevaraya University,Anantapur,Andhra Pradesh,2017,IR17-I-2-1-N001,Sri Krishnadevaraya University

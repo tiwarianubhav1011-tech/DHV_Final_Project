@@ -1,0 +1,83 @@
+Loading data...
+  Loaded 6966 rows, 13 columns: ['Year', 'Category', 'Institute_ID', 'Name', 'City', 'State', 'Score', 'Rank', 'TLR', 'RPC', 'GO', 'OI', 'Perception']
+
+── 0. Fixing embedded line breaks in Name ──
+  Stripped embedded CR/LF from Name column.
+
+── 1. Fixing non-numeric Rank values ──
+  Found 2 'Rank Withdrawn' rows:
+    2018 College — Bishop Heber College (Rank=Rank Withdrawn, Score=67.63)
+    2025 Dental — Faculty of Dental Sciences, Institute of Medical Sciences (Rank=18, Score=Rank Withdrawn*)
+  Found 3 alpha-suffixed ranks:
+    2018 Engineering — Indian Institute of Engineering Science and Technology, Shibpur (Rank=21A)
+    2018 Engineering — Indian Institute of Technology Mandi (Rank=26A)
+    2018 Pharmacy — Banasthali Vidyapith (Rank=16A)
+  Rank column converted to Int64. Withdrawn rows flagged in 'Rank_Withdrawn'.
+
+── 2. Handling missing parameter scores ──
+  43 rows have ALL score columns NaN.
+  Affected categories: ['Innovation', 'OPENUNIVERSITY', 'SKILLUNIVERSITY', 'Dental', 'SDGInstitutions']
+
+── 3. Standardizing State names ──
+  'Jammu And Kashmir' → 'Jammu and Kashmir'  (2 rows)
+  'Pondicherry' → 'Puducherry'  (62 rows)
+  Unique states after fix: 33
+
+── 4. Standardizing Category labels ──
+  'OPENUNIVERSITY' → 'Open University'  (6 rows)
+  'SKILLUNIVERSITY' → 'Skill University'  (6 rows)
+  'STATEPUBLICUNIVERSITY' → 'State Public University'  (100 rows)
+  'SDGInstitutions' → 'SDG Institutions'  (10 rows)
+  Categories: ['Agriculture', 'Architecture', 'College', 'Dental', 'Engineering', 'Innovation', 'Law', 'Management', 'Medical', 'Open University', 'Overall', 'Pharmacy', 'Research', 'SDG Institutions', 'Skill University', 'State Public University', 'University']
+
+── 5. Extracting base Institute ID suffix ──
+  Raw unique Institute_IDs: 2173
+  Unique Base_IDs: 1222
+  Reduction: 951 duplicate IDs collapsed.
+
+── 6. Cleaning institution names ──
+  Names with backticks: 201
+  Names with '?' likely apostrophe: 2
+  Names with multiple consecutive spaces: 30
+  Mapping each institute to its latest name...
+  Name variations unified: 875 rows updated to latest name.
+
+── 7. Disambiguating homonymous colleges ──
+  Names shared by multiple institutes: 208
+  3220 rows got '(City)' appended for disambiguation.
+
+── 8. Standardizing City names ──
+  Cities with 'Dist.'/'District' prefix: 49
+  'Calcutta' → 'Kolkata'  (4 rows)
+  'Calcutta-16' → 'Kolkata'  (1 rows)
+  'Mysore' → 'Mysuru'  (29 rows)
+  'Mangalore' → 'Mangaluru'  (15 rows)
+  'Belgaum' → 'Belagavi'  (31 rows)
+  'Ootacamund' → 'Ooty'  (1 rows)
+  'Nilgiri' → 'Ooty'  (2 rows)
+  'Bhubneshwar' → 'Bhubaneswar'  (3 rows)
+  'Bhuabaneswar' → 'Bhubaneswar'  (2 rows)
+  'Bengluru' → 'Bengaluru'  (9 rows)
+  'Mengaluru' → 'Mangaluru'  (1 rows)
+  'HYDERABAD' → 'Hyderabad'  (2 rows)
+  'MEERUT' → 'Meerut'  (1 rows)
+  'Select City' → '<NA>'  (1 rows)
+  Recovered 1 missing city value(s) from the institute name
+  Unique cities after cleanup: 343
+
+── 9. Flagging tied-rank category-years ──
+  2020 Overall: 101 rows (tie at Rank 100)
+  2022 Management: 101 rows (tie at Rank 100)
+  2022 Pharmacy: 101 rows (tie at Rank 100)
+  2025 Pharmacy: 101 rows (tie at Rank 100)
+
+── 10. Adding cross-year comparability flag ──
+  Added 'In_Top100' and 'In_Top50' boolean columns.
+  Use these filters when comparing multi-year trends to avoid band-bias.
+
+── SUMMARY ──
+  Input rows:  6966
+  Output rows: 6966
+  Columns:     ['Year', 'Category', 'Institute_ID', 'Base_ID', 'Name', 'Name_Standardized', 'Name_Display', 'City', 'State', 'Rank', 'Score', 'TLR', 'RPC', 'GO', 'OI', 'Perception', 'Rank_Withdrawn', 'Scores_Missing', 'Has_Rank_Tie', 'In_Top100', 'In_Top50']
+
+  ✅ Cleaned CSV saved to: /Users/yashraj/.gemini/antigravity/scratch/nirf_clean/nirf_2017_2025_cleaned.csv

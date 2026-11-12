@@ -1,0 +1,159 @@
+Loaded 6966 rows, 1222 Base_IDs
+
+── A. Merging duplicate IDs within 2018-2025 ──
+  manual  C-41593    → U-1257     COEP Technological University  →  COEP Technological University
+  auto    C-23033    → U-0311     Krishna Institute of Medical Sciences  (Karad)
+  auto    C-32887    → S-78       New Delhi Institute of Management  (Delhi)
+  auto    C-41309    → C-35417    Bharati Vidyapeeth Deemed University College of Engineering  (Pune)
+  auto    C-41593    → U-1257     COEP Technological University  (Pune)
+  auto    I-1323     → C-8010     St. Joseph's College  (Kozhikode)
+  auto    C-8106     → I-1322     St. Joseph's College  (Thrissur)
+  2018+ IDs: 865 → 859 institutes
+
+── B. Matching 2017 IDs to 2018+ institutes ──
+  2017 IDs: 357  matched: 292  unmatched (dropped out after 2017): 65
+    exact name + city              230
+    manual                         20
+    fuzzy                          20
+    exact name, unique in state    14
+    name minus city + city         8
+
+── D. Validation ──
+  Same Unified_ID twice in one Year+Category: 0 rows ✅
+  Base_IDs 1222 → Unified_IDs 924
+  Institutes tracked from 2017 into 2018+: 290
+  Institutes with >1 raw name merged under one ID: 294
+
+── Matches needing a glance (non-exact) ──
+  [exact name, unique in state ] Manipal College of Pharmaceutical Sciences              (Manipal)  →  Manipal College of Pharmaceutical Sciences, Manipal (Udupi)
+  [exact name, unique in state ] Acharya Narendra Dev College                            (Kalkaji)  →  Acharya Narendra Dev College (New Delhi)
+  [exact name, unique in state ] Madras Christian College                                (Kancheepuram)  →  Madras Christian College (Chennai)
+  [exact name, unique in state ] Indian Institute of Technology Gandhinagar              (Ahmedabad)  →  Indian Institute of Technology Gandhinagar (Gandhinagar)
+  [exact name, unique in state ] ST. Joseph's College of Engineering                     (Chennai)  →  St. Josephs College of Engineering (Kancheepuram)
+  [exact name, unique in state ] Guru Gobind Singh Indraprastha University               (Dwarka)  →  Guru Gobind Singh Indraprastha University (New Delhi)
+  [exact name, unique in state ] R.M.K. Engineering College                              (Kavaraipettai)  →  R.M.K. Engineering College (Thiruvallur)
+  [exact name, unique in state ] Ayya Nadar Janaki Ammal College                         (Virudhnagar)  →  Ayya Nadar Janaki Ammal College (Sivakasi)
+  [exact name, unique in state ] Ramanujan College                                       (Kalkaji)  →  Ramanujan College (New Delhi)
+  [exact name, unique in state ] Goa Institute of Management                             (Poriem, Sattari)  →  Goa Institute of Management (Sanquelim)
+  [exact name, unique in state ] National Institute of Pharmaceutical Education and Rese (S.A.S. Nagar (Mohali))  →  National Institute of Pharmaceutical Education and Rese (Mohali)
+  [exact name, unique in state ] St. Teresa's College                                    (Ernakula)  →  St. Teresa's College, Ernakulam (Ernakulam)
+  [exact name, unique in state ] Goswami Ganesh Dutta S.D. College                       (Sector 32 Chandigarh)  →  Goswami Ganesh Dutta S.D. College (Chandigarh)
+  [exact name, unique in state ] Rajiv Gandhi University                                 (Rono Hills)  →  Rajiv Gandhi University (Itanagar)
+  [fuzzy 0.86 + city           ] Poona College of Pharmacy, Erandwane, Pune              (Pune)  →  Poona College of Pharmacy, Pune (Pune)
+  [fuzzy 0.86 + city           ] Post Graduate Government College for Girls              (Chandigarh)  →  Govt. Post-Graduate College for Girls (Chandigarh)
+  [fuzzy 0.88 + city           ] Indian Institute of Crop Processing Technology          (Thanjavur)  →  National Institute of Food Technology, Entrepreneurship (Thanjavur)
+  [fuzzy 0.92 + city           ] Indian Institute of Science Bangalore                   (Bengaluru)  →  Indian Institute of Science (Bengaluru)
+  [fuzzy 0.94 + city           ] Rajiv Gandhi Institute of Information Technology and Bi (Pune)  →  Rajiv Gandhi Institute of Information Technology and Bi (Pune)
+  [fuzzy 0.94 + city           ] Shanmugha Arts Science Technology & Research Academy (S (Thanjavur)  →  Shanmugha Arts Science Technology & Research Academy (Thanjavur)
+  [fuzzy 0.94 + city           ] Narsee Monjee Institute of Management Studies -Mumbai   (Mumbai)  →  SVKM's Narsee Monjee Institute of Management Studies (Mumbai)
+  [fuzzy 0.94 + city           ] Prin.K.M.Kundnani College of Pharmacy                   (Mumbai)  →  Principal K.M. Kundnani College of Pharmacy (Mumbai)
+  [fuzzy 0.96 + city           ] Prin. L.N. Welingkar Institute of Management Developmen (Mumbai)  →  Prin. L.N. Welingkar Institute of Management Developmen (Mumbai)
+  [fuzzy 0.96 + city           ] Vimla College                                           (Trichur)  →  Vimala College, Thrissur (Thrissur)
+  [fuzzy 0.97 + city           ] Dr. N.G.P. Arts & Science College                       (Coimbatore)  →  Dr. N. G. P. Arts and Science College (Coimbatore)
+  [fuzzy 0.98 + city           ] C.V. Raman College of Engineering                       (Bhubaneswar)  →  C.V. Raman Global University, Odisha (Bhubaneswar)
+  [fuzzy 0.98 + city           ] Atma Ram Sanatan Dharma College                         (New Delhi)  →  Atma Ram Sanatan Dharm College (New Delhi)
+  [fuzzy 0.98 + city           ] K.J. Somaiya Institute of Management Studies & Reserach (Mumbai)  →  K J Somaiya Institute of Management Studies and Researc (Mumbai)
+  [fuzzy 0.98 + city           ] I.S. F. College of Pharmacy                             (Moga)  →  I. S. F. College of Pharmacy (Moga)
+  [fuzzy 0.99 + city           ] Padmashree Dr D Y Patil Institute of Pharmaceutical Sci (Pune)  →  Dr D Y Patil Institute of Pharmaceutical Sciences and R (Pune)
+  [fuzzy 0.99 + city           ] B.S. Abdur Rahman Institute of Science and Technology   (Chennai)  →  B. S. Abdur Rahman Crescent Institute of Science and Te (Chennai)
+  [fuzzy 0.99 + city           ] Sri Sivasubrmaniya Nadar College of Engineering         (Kalavakkam)  →  Sri Sivasubramaniya Nadar College of Engineering (Kalavakkam)
+  [fuzzy 0.99 + city           ] Raja Narendralal Khan Women's College                   (Midnapore)  →  Raja Narendra Lal Khan Women's College - Autonomous (Midnapore)
+  [fuzzy 0.99 + city           ] V.V. Vanniaperumal College for Women                    (Virudhnagar)  →  V. V. Vanniaperumal College for Women (Virudhnagar)
+  [manual                      ] Siksha'O' Anusandhan University                         (Bhubaneswar)  →  Siksha 'O' Anusandhan (Bhubaneswar)
+  [manual                      ] Sri Ramachandra University                              (Chennai)  →  Sri Ramachandra Institute of Higher Education and Resea (Chennai)
+  [manual                      ] Jagadguru Sri Shivarathreeshwara University             (Mysuru)  →  JSS Academy of Higher Education and Research (Mysuru)
+  [manual                      ] Thapar University                                       (Patiala)  →  Thapar Institute of Engineering and Technology (Deemed- (Patiala)
+  [manual                      ] Madurai Kamraj University                               (Madurai)  →  Madurai Kamaraj University (Madurai)
+  [manual                      ] Calicut University                                      (Calicut)  →  Calicut University, Thenhipalem, Malapuram (Malappuram)
+  [manual                      ] Xavier Labour Relations Institute (XLRI)                (Jamshedpur)  →  XLRI - Xavier School of Management (Jamshedpur)
+  [manual                      ] National Institute of Industrial Engineering, Mumbai    (Mumbai)  →  Indian Institute of Management, Mumbai (Mumbai)
+  [manual                      ] Rajiv Gandhi Indian Institute of Management             (Shillong)  →  Indian Institute of Management Shillong (Shillong)
+  [manual                      ] Indraprastha Institute of Information Technology-New De (New Delhi)  →  Indraprastha Institute of Information Technology (New Delhi)
+  [manual                      ] Symbiosis International University                      (Pune)  →  Symbiosis International (Pune)
+  [manual                      ] NITTE University                                        (Mangaluru)  →  NITTE (Mangaluru)
+  [manual                      ] Department of Pharmaceutical Sciences, Maharshi Dayanan (Rohtak)  →  Maharshi Dayanand University (Rohtak)
+  [manual                      ] Faculty of Technology & Engineering, The Maharaja Sayaj (Vadodara)  →  Maharaja Sayajirao University of Baroda (Vadodara)
+  [manual                      ] University Institute of Pharmaceutical Sciences         (Chandigarh)  →  Panjab University (Chandigarh)
+  [manual                      ] College of Engineering, Pune                            (Pune)  →  COEP Technological University (Pune)
+  [manual                      ] Shaheed Bhagat Singh College (Evening Classes)          (New Delhi)  →  Shaheed Bhagat Singh College (Evening) (Delhi)
+  [manual                      ] Sri Sai Ram Engineering College                         (Chennai)  →  Sri Sairam Engineering College (Kancheepuram)
+  [manual                      ] Guru Jambeshwar University of Science and Technology    (Hissar)  →  Guru Jambheshwar University of Science and Technology,  (Hisar)
+  [manual                      ] Justice Baseer Ahmed Sayeed College for Women           (Chennai)  →  Justice Basher Ahmed Sayeed College for Women (Chennai)
+  [name minus city + city      ] Malaviya National Institute of Technology, Jaipur       (Jaipur)  →  Malaviya National Institute of Technology (Jaipur)
+  [name minus city + city      ] Dr. D. Y. Patil Vidyapeeth Pune                         (Pune)  →  Dr. D. Y. Patil Vidyapeeth (Pune)
+  [name minus city + city      ] Karunya Institute of Technology and Sciences-Coimbatore (Coimbatore)  →  Karunya Institute of Technology and Sciences (Coimbatore)
+  [name minus city + city      ] PSNA College of Engineering and Technology, Dindigul    (Dindigul)  →  PSNA College of Engineering and Technology (Dindigul)
+  [name minus city + city      ] Jaypee University of Information Technology-Solan       (Solan)  →  Jaypee University of Information Technology (Solan)
+  [name minus city + city      ] Shoolini University of Biotechnology and Management Sci (Solan)  →  Shoolini University of Biotechnology and Management Sci (Solan)
+  [name minus city + city      ] Jaipuria Institute of Management, Noida                 (Noida)  →  Jaipuria Institute of Management (Noida)
+  [name minus city + city      ] Goa University-Goa                                      (Goa)  →  Goa University (Goa)
+
+── 2017 institutes with no 2018+ appearance (65) ──
+  C-1-2811558558   SNR Sons College                                                  Coimbatore, Tamil Nadu
+  C-1-2812253596   Presidency College                                                Bengaluru, Karnataka
+  C-1-2814445210   Bharti Vidyapeeth's Matoshri Bayabai Shripatrao Kadam Kanya Mahav Sangli, Maharashtra
+  C-13947          V.S.M. College                                                    Ramachandrapuram, Andhra Pradesh
+  C-14209          Hindusthan College of Arts and Science                            Coimbatore, Tamil Nadu
+  C-15615          S R M College of Arts and Science                                 Potheri, Tamil Nadu
+  C-15929          Thanthai Hans Roever College                                      Perambalur, Tamil Nadu
+  C-18746          Muthayammal College of Arts & Science                             Namakkal, Tamil Nadu
+  C-18873          Sri D. Manjunatheswara College                                    Dakshin Kannad, Karnataka
+  C-18887          Nirmala College                                                   Ernakulam, Kerala
+  C-18987          Vivekanand College                                                Kolhapur, Maharashtra
+  C-19146          Shri M.V. & Smt. N.V. Virani Science College                      Rajkot, Gujarat
+  C-19204          Gayatri Vidya Parishad College for Degree and P.G Courses (Autono Visakapatnam, Andhra Pradesh
+  C-19229          Degree College of Physical Education                              Amravati, Maharashtra
+  C-19251          Jankidevi Bajaj College of Science                                Wardha, Maharashtra
+  C-19306          Symbiosis College of Arts and Commerce                            Pune, Maharashtra
+  C-19380          Sri Ramakrishna College of Arts & Science for Women               Coimbatore, Tamil Nadu
+  C-19386          A.V.C. College-District Quaide-E-Milleth                          Quaide-E-Milleth, Tamil Nadu
+  C-19419          Gobi Arts and Science College-Karattatipalayam Post               Karattatipalayam Post, Tamil Nadu
+  C-19435          Meenakshi College for Women                                       Chennai, Tamil Nadu
+  C-19438          Srimathi D.N. Bhat Vaishnav College for Women                     Kancheepuram, Tamil Nadu
+  C-19444          MES Keveeyam College                                              Valanchary, Kerala
+  C-19551          J.B. College                                                      Jorhat, Assam
+  C-19869          Govt. College                                                     Anantapur, Andhra Pradesh
+  C-19878          Vitthalbhai Patel and Rajrathan, P.T. Patel Science College       Anand, Gujarat
+  C-19882          Bahauddin Govt. Science College                                   Junagadh, Gujarat
+  C-19929          Mannam Memroial N.S.S. College                                    Kollam, Kerala
+  C-20029          Sri Guru Nanak Dev Khalsa College                                 New Delhi, Delhi
+  C-20049          J.G. College of Commerce                                          Hubli, Dist. Dharwad, Karnataka
+  C-20095          P.C. Jabin Science College                                        Dharwad, Karnataka
+  C-20105          Holy Cross College                                                Kanyakumari, Tamil Nadu
+  C-20151          K.B.N. College                                                    Krishna, Andhra Pradesh
+  C-20162          S.D.M.S.M. Kalasala                                               Krishna, Andhra Pradesh
+  C-20199          Mercy College                                                     Palakkad, Kerala
+  C-21121          St. Josephs College for Women, (Autonomous)                       Visakhapatnam, Andhra Pradesh
+  C-21963          Little Flower College                                             Trichur, Kerala
+  C-21977          St. Mary's College                                                Trichur, Kerala
+  C-24617          Nanded Education Society's Science College                        Nanded, Maharashtra
+  C-24847          Nirmala College for Women                                         Coimbatore, Tamil Nadu
+  C-27982          K.S. Rangaswamy College of Arts and Science                       Tiruchengode, Tamil Nadu
+  C-29281          Mehr Chand Mahajan D.A.V. College for Women                       Sector-36, Chandigarh, Chandigarh
+  C-29947          Assumption College                                                Kottayam, Kerala
+  C-30222          AU College of Science and Technology                              Visakhapatnam, Andhra Pradesh
+  C-30226          AU College of Arts and Commerce                                   Visakhapatnam, Andhra Pradesh
+  C-30258          Dr.V.S.Krishna Govt. Degree College                               Visakhapatnam, Andhra Pradesh
+  C-30551          Government College of Arts, Science and Commerce Quepem           Quepem, Goa
+  C-30622          Shri Shankarlal Sundarbai Shasun Jain College for Women           Chennai, Tamil Nadu
+  C-30643          Sai College of Computer Education                                 Osmanabad, Maharashtra
+  C-30707          K.S.R. College of Arts and Science for Women                      Namakkal, Tamil Nadu
+  C-59902          Saiva Bhanu Kshatriya College                                     Virudhnagar, Tamil Nadu
+  U-10476          Maharashtra Institute of Technology, Pune                         Pune, Maharashtra
+  U-10949          Zakir Husain College of Engineering & Technology                  Aligarh, Uttar Pradesh
+  U-15640          Vidyasagar University                                             Midnapore, West Bengal
+  U-15717          MIT School of Telecom Management                                  Pune, Maharashtra
+  U-17169          Institute of Pharmaceutical Education and Research                Wardha, Maharashtra
+  U-17659          Sanjivani College of Pharmaceutical Education and Research, Kopar Kopargaon, Maharashtra
+  U-18311          Karpagam Academy of Higher Education                              Coimbatore, Tamil Nadu
+  U-18446          Rajasthan University of Veterinary & Animal Sciences              Bikaner, Rajasthan
+  U-18551          University of Allahabad                                           Allahabad, Uttar Pradesh
+  U-22             Dr. Harisingh Gour Vishwavidyalaya-Sagar                          Sagar, Madhya Pradesh
+  U-2810997882     K.S.Rangasamy College of Technology                               Tiruchengode, Tamil Nadu
+  U-2811763720     Xavier Institute of Management & Entrepreneurship                 Bengaluru, Karnataka
+  U-2815712186     Gurunanak College of Pharmacy                                     Nagpur, Maharashtra
+  U-570            Rajasthan University                                              Jaipur, Rajasthan
+  U-N001           Sri Krishnadevaraya University                                    Anantapur, Andhra Pradesh
+
+✅ /Users/yashraj/.gemini/antigravity/scratch/nirf_clean/nirf_2017_2025_unified.csv
+✅ /Users/yashraj/.gemini/antigravity/scratch/nirf_clean/institute_id_mapping.csv  (one row per institute: all raw IDs + raw names it absorbed)
