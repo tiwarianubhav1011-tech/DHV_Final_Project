@@ -1,0 +1,27 @@
+state,start,end,change
+Jammu and Kashmir,0,3,3
+Maharashtra,9,11,2
+Uttar Pradesh,7,9,2
+Delhi,6,8,2
+Uttarakhand,2,4,2
+Punjab,5,6,1
+Odisha,4,5,1
+Rajasthan,3,4,1
+Chandigarh,1,2,1
+Telangana,5,5,0
+Kerala,4,4,0
+Assam,3,3,0
+Andhra Pradesh,2,2,0
+Madhya Pradesh,2,2,0
+Bihar,1,1,0
+Jharkhand,1,1,0
+Puducherry,1,1,0
+Goa,0,0,0
+Himachal Pradesh,2,1,-1
+Haryana,1,0,-1
+Mizoram,1,0,-1
+Karnataka,8,6,-2
+Gujarat,3,1,-2
+Meghalaya,2,0,-2
+Tamil Nadu,20,17,-3
+West Bengal,7,4,-3

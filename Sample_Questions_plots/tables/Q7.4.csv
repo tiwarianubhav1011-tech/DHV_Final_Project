@@ -1,0 +1,21 @@
+institution_id,rank_from,rank_to,period,movement,display_name,direction
+U-0701,70.0,28.0,2017→2018,42.0,Indian Institute of Technology (Banaras Hindu University) Varanasi,Up
+U-0272,98.0,56.0,2017→2018,42.0,Indian Institute of Science Education & Research Bhopal,Up
+U-0139,78.0,39.0,2017→2018,39.0,Indian Institute of Technology Gandhinagar,Up
+U-0184,82.0,43.0,2021→2022,39.0,Indian Institute of Technology Mandi,Up
+U-0064,73.0,36.0,2024→2025,37.0,Indian Institute of Technology Patna,Up
+I-1357,64.0,29.0,2017→2018,35.0,University of Madras,Up
+U-0006,76.0,41.0,2023→2024,35.0,"Andhra University, Visakhapatnam",Up
+U-0006,69.0,36.0,2017→2018,33.0,"Andhra University, Visakhapatnam",Up
+U-0235,80.0,47.0,2019→2020,33.0,Mysore University,Up
+U-0329,97.0,67.0,2017→2018,30.0,Symbiosis International,Up
+U-0323,37.0,91.0,2024→2025,-54.0,Savitribai Phule Pune University,Down
+U-0487,60.0,92.0,2017→2018,-32.0,Tamil Nadu Veterinary & Animal Sciences University,Down
+U-0447,44.0,76.0,2024→2025,-32.0,Bharathiar University,Down
+U-0446,57.0,87.0,2019→2020,-30.0,Bharath Institute of Higher Education & Research,Down
+U-0184,43.0,73.0,2022→2023,-30.0,Indian Institute of Technology Mandi,Down
+U-0331,70.0,99.0,2021→2022,-29.0,Tata Institute of Social Sciences,Down
+U-0485,40.0,68.0,2018→2019,-28.0,Tamil Nadu Agricultural University,Down
+I-1486,51.0,79.0,2020→2021,-28.0,Sri Ramachandra Institute of Higher Education and Research,Down
+U-0589,69.0,97.0,2020→2021,-28.0,Visva Bharati,Down
+U-0369,59.0,86.0,2017→2018,-27.0,Pondicherry University,Down
